@@ -1,0 +1,16 @@
+{
+  "last_updated": "2026-05-25",
+  "total": 1,
+  "skipped": [],
+  "exams": [
+    {
+      "title": "UPGDC Assistant professor — Sociology: Contemporary Power and Surveillance, Globalization and Macro-Sociology, Deviance and Social Control, The Sociology of Religion, Social Mobility and Structural Barriers",
+      "category": "Sociology",
+      "questions": 50,
+      "duration_minutes": 100,
+      "version": "1.0",
+      "path": "Sociology/sociology1.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Sociology/sociology1.json"
+    }
+  ]
+}
