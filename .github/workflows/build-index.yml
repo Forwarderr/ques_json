@@ -5,6 +5,7 @@ on:
     paths:
       - '**/*.json'
       - '!index.json'
+  workflow_dispatch:
 
 jobs:
   build:
