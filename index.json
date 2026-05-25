@@ -1,8 +1,17 @@
 {
   "last_updated": "2026-05-25",
-  "total": 2,
+  "total": 3,
   "skipped": [],
   "exams": [
+    {
+      "title": "Competitive Examination Question Bank - Reasoning: Blood Relations",
+      "category": "Reasoning",
+      "questions": 30,
+      "duration_minutes": 60,
+      "version": "1.0",
+      "path": "Reasoning/bloodrel01.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/bloodrel01.json"
+    },
     {
       "title": "UPGDC Assistant Professor —: Sociology: Contemporary Power and Surveillance, Globalization and Macro-Sociology, Deviance and Social Control, The Sociology of Religion, Social Mobility and Structural Barriers",
       "category": "Sociology",
