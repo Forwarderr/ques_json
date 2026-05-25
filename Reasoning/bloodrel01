@@ -1,0 +1,467 @@
+{
+  "metadata": {
+    "exam_title": "Competitive Examination Question Bank - Reasoning: Blood Relations",
+    "total_duration_minutes": 60,
+    "version": "1.0",
+    "allow_backtrack": true
+  },
+  "sections": [
+    {
+      "section_id": "blood_relations",
+      "section_name": "Blood Relations",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 1,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing to a photograph of a boy, Suresh said, 'He is the son of the only son of my mother.' How is Suresh related to that boy?"
+          },
+          "options": {
+            "A": "Brother",
+            "B": "Uncle",
+            "C": "Cousin",
+            "D": "Father"
+          },
+          "correct_answer": "D",
+          "explanation": "The 'only son of Suresh's mother' is Suresh himself. Therefore, the boy in the photograph is the son of Suresh. This means Suresh is the father of the boy."
+        },
+        {
+          "id": 2,
+          "type": "MCQ",
+          "language": {
+            "en": "If A + B means A is the brother of B; A - B means A is the sister of B and A \\times B means A is the father of B. Which of the following means that C is the son of M?"
+          },
+          "options": {
+            "A": "M - N \\times C + F",
+            "B": "F - C + N \\times M",
+            "C": "N + M - F \\times C",
+            "D": "M \\times N - C + F"
+          },
+          "correct_answer": "D",
+          "explanation": "Let's decode the expression M \\times N - C + F: M \\times N means M is the father of N. N - C means N is the sister of C. So, M is the father of both N and C. C + F means C is the brother of F, confirming C is male. Therefore, C is the son of M."
+        },
+        {
+          "id": 3,
+          "type": "MCQ",
+          "language": {
+            "en": "Introducing a woman, Shashank said, 'She is the wife of the grandson of my father.' How is the woman related to Shashank if Shashank has no siblings?"
+          },
+          "options": {
+            "A": "Daughter-in-law",
+            "B": "Sister-in-law",
+            "C": "Wife",
+            "D": "Mother-in-law"
+          },
+          "correct_answer": "A",
+          "explanation": "Since Shashank has no siblings, the 'grandson of my father' must be Shashank's own son. The woman is the wife of Shashank's son, which makes her Shashank's daughter-in-law."
+        },
+        {
+          "id": 4,
+          "type": "MCQ",
+          "language": {
+            "en": "If P \\ Q$ means P is the father of Q, P \\# Q means P is the mother of Q, and P \\ast Q means P is the sister of Q, then how is Q related to N in the expression N \\# M \\ast P \\ Q$?"
+          },
+          "options": {
+            "A": "Grandson",
+            "B": "Granddaughter",
+            "C": "Grandchild",
+            "D": "Son"
+          },
+          "correct_answer": "C",
+          "explanation": "From the expression: N \\# M means N is the mother of M. M \\ast P means M is the sister of P. Thus, N is the mother of P. P \\ Q$ means P is the father of Q. Since N is the mother of P and P is the father of Q, N is the grandmother of Q. Because the gender of Q is not specified, Q is the grandchild of N."
+        },
+        {
+          "id": 5,
+          "type": "MCQ",
+          "language": {
+            "en": "A prisoner introduced a boy who came to visit him to the jailor as: 'Brothers and sisters I have none, but this man's father is my father's son.' Who is the boy to the prisoner?"
+          },
+          "options": {
+            "A": "His nephew",
+            "B": "His son",
+            "C": "His cousin",
+            "D": "His uncle"
+          },
+          "correct_answer": "B",
+          "explanation": "Since the prisoner has no brothers or sisters, 'my father's son' must be the prisoner himself. The statement simplifies to 'this man's father is me.' Therefore, the boy is the prisoner's son."
+        },
+        {
+          "id": 6,
+          "type": "MCQ",
+          "language": {
+            "en": "Deepak is the brother of Ravi. Rekha is the sister of Atul. Ravi is the son of Rekha. How is Deepak related to Rekha?"
+          },
+          "options": {
+            "A": "Son",
+            "B": "Brother",
+            "C": "Nephew",
+            "D": "Father"
+          },
+          "correct_answer": "A",
+          "explanation": "Ravi is the son of Rekha, and Deepak is the brother of Ravi. Therefore, Deepak must also be the son of Rekha."
+        },
+        {
+          "id": 7,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing to a lady in the photograph, Shalini said, 'Her father's only son's wife is my mother-in-law.' How is Shalini's husband related to the lady in the photo?"
+          },
+          "options": {
+            "A": "Brother",
+            "B": "Son",
+            "C": "Nephew",
+            "D": "Uncle"
+          },
+          "correct_answer": "C",
+          "explanation": "The 'lady's father's only son' is the lady's brother. His wife is Shalini's mother-in-law. This means Shalini's husband is the son of the lady's brother. A brother's son is a nephew. Therefore, Shalini's husband is the nephew of the lady."
+        },
+        {
+          "id": 8,
+          "type": "MCQ",
+          "language": {
+            "en": "E is the sister of B. A is the father of C. B is the son of C. How is A related to E?"
+          },
+          "options": {
+            "A": "Grandfather",
+            "B": "Grandson",
+            "C": "Father",
+            "D": "Uncle"
+          },
+          "correct_answer": "A",
+          "explanation": "E is the sister of B, and B is the son of C, so E is the daughter of C. Since A is the father of C, A is the grandfather of both B and E."
+        },
+        {
+          "id": 9,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing toward Ritika, Kartik said, 'She is the daughter of my mother's only daughter.' How is Kartik related to Ritika?"
+          },
+          "options": {
+            "A": "Brother",
+            "B": "Father",
+            "C": "Maternal Uncle",
+            "D": "Cousin"
+          },
+          "correct_answer": "C",
+          "explanation": "'My mother's only daughter' is Kartik's sister. Ritika is the daughter of Kartik's sister. Therefore, Kartik is Ritika's maternal uncle."
+        },
+        {
+          "id": 10,
+          "type": "MCQ",
+          "language": {
+            "en": "In a family, there are six members: A, B, C, D, E, and F. A and B are a married couple. A being the male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F, whose husband has died. How is E related to A?"
+          },
+          "options": {
+            "A": "Niece",
+            "B": "Daughter",
+            "C": "Sister",
+            "D": "Aunt"
+          },
+          "correct_answer": "A",
+          "explanation": "C is the brother of A. D is the son of C, and E is the sister of D, which means E is the daughter of C. Since C is the brother of A, his daughter E is the niece of A."
+        },
+        {
+          "id": 11,
+          "type": "MCQ",
+          "language": {
+            "en": "If A \\% B means A is the mother of B; A \\& B means A is the brother of B; A \\, @ \\, B means A is the husband of B. Which of the following establishes that P is the maternal grandmother of T?"
+          },
+          "options": {
+            "A": "P \\% Q \\& R \\, @ \\, T",
+            "B": "P \\% Q \\% R \\& T",
+            "C": "P \\% Q \\& R \\% T",
+            "D": "P \\, @ \\, Q \\% R \\& T"
+          },
+          "correct_answer": "C",
+          "explanation": "Let's evaluate P \\% Q \\& R \\% T: P \\% Q means P is the mother of Q. Q \\& R means Q is the brother of R, so P is also the mother of R. R \\% T means R is the mother of T. Since P is the mother of R, and R is a female (mother of T), P is the maternal grandmother of T."
+        },
+        {
+          "id": 12,
+          "type": "MCQ",
+          "language": {
+            "en": "Looking at a portrait, a man said, 'That lady's brother's father is the only son of my grandfather.' How is the lady in the portrait related to the man?"
+          },
+          "options": {
+            "A": "Mother",
+            "B": "Sister",
+            "C": "Aunt",
+            "D": "Daughter"
+          },
+          "correct_answer": "B",
+          "explanation": "'The only son of my grandfather' is the man's father. The lady's brother's father is also the lady's father. Therefore, the lady's father is the man's father, which means the lady is the man's sister."
+        },
+        {
+          "id": 13,
+          "type": "MCQ",
+          "language": {
+            "en": "A is B's brother. C is A's mother. D is C's father. F is A's son. How is B related to F's grandfather?"
+          },
+          "options": {
+            "A": "Son or Daughter",
+            "B": "Brother",
+            "C": "Nephew",
+            "D": "Grandson"
+          },
+          "correct_answer": "A",
+          "explanation": "A is the father of F, so A is F's grandfather's son (since C is A's mother and D is C's father, A's father is not explicitly named, but A himself is the father of F). Wait, let's trace carefully: F's father is A. A's mother is C. A's brother/sibling is B. Thus, F's grandfather from the paternal side is A's father. B is the sibling of A, meaning B is either the son or daughter of F's grandfather."
+        },
+        {
+          "id": 14,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'A + B' means A is the daughter of B; 'A - B' means A is the husband of B; 'A \\times B' means A is the brother of B. If P + Q - R, which of the following is true?"
+          },
+          "options": {
+            "A": "R is the mother of P",
+            "B": "R is the sister-in-law of P",
+            "C": "R is the aunt of P",
+            "D": "R is the mother-in-law of P"
+          },
+          "correct_answer": "A",
+          "explanation": "P + Q means P is the daughter of Q. Q - R means Q is the husband of R. Since Q is the father of P and married to R, R must be the mother of P."
+        },
+        {
+          "id": 15,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing to a lady, a man said, 'The son of her only brother is the brother of my wife.' How is the lady related to the man?"
+          },
+          "options": {
+            "A": "Mother-in-law",
+            "B": "Sister of father-in-law",
+            "C": "Maternal Aunt",
+            "D": "Sister-in-law"
+          },
+          "correct_answer": "B",
+          "explanation": "The brother of the man's wife is his brother-in-law. The son of the lady's only brother is this brother-in-law. Therefore, the lady's brother is the father of his wife (his father-in-law). The lady is the sister of his father-in-law."
+        },
+        {
+          "id": 16,
+          "type": "MCQ",
+          "language": {
+            "en": "A and B are brothers. C and D are sisters. A's son is D's brother. How is B related to C?"
+          },
+          "options": {
+            "A": "Father",
+            "B": "Brother",
+            "C": "Grandfather",
+            "D": "Uncle"
+          },
+          "correct_answer": "D",
+          "explanation": "A's son is the brother of D and C (since C and D are sisters). Therefore, A is the father of C and D. Since B is the brother of A, B is the paternal uncle of C."
+        },
+        {
+          "id": 17,
+          "type": "MCQ",
+          "language": {
+            "en": "Showing a lady on the stage, Monu said, 'She is the sister of the son of the wife of my husband.' How is the lady on the stage related to Monu?"
+          },
+          "options": {
+            "A": "Daughter",
+            "B": "Sister",
+            "C": "Mother",
+            "D": "Cousin"
+          },
+          "correct_answer": "A",
+          "explanation": "Monu mentions 'my husband's wife', which is Monu herself. The 'son of Monu' is Monu's son. The lady is the 'sister of Monu's son', which means she is Monu's daughter."
+        },
+        {
+          "id": 18,
+          "type": "MCQ",
+          "language": {
+            "en": "If M \\times N means M is the daughter of N; M + N means M is the father of N; M \\div N means M is the mother of N; M - N means M is the brother of N. In the expression P \\div Q + R - T \\times S, how is S related to Q?"
+          },
+          "options": {
+            "A": "Wife",
+            "B": "Daughter",
+            "C": "Sister",
+            "D": "Mother-in-law"
+          },
+          "correct_answer": "A",
+          "explanation": "From the expression: Q + R means Q is the father of R. R - T means R is the brother of T, so Q is also the father of T. T \\times S means T is the daughter of S. Since Q is the father of T and S is the mother of T, S must be the wife of Q."
+        },
+        {
+          "id": 19,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?"
+          },
+          "options": {
+            "A": "Mother",
+            "B": "Grandmother",
+            "C": "Sister",
+            "D": "Aunt"
+          },
+          "correct_answer": "A",
+          "explanation": "'The only daughter of my mother' is the woman herself. The statement means 'His mother is me.' Therefore, the woman is the mother of the man."
+        },
+        {
+          "id": 20,
+          "type": "MCQ",
+          "language": {
+            "en": "Q's mother is the sister of P and daughter of M. S is the daughter of P and sister of T. How is M related to T?"
+          },
+          "options": {
+            "A": "Grandmother",
+            "B": "Grandfather",
+            "C": "Grandfather or Grandmother",
+            "D": "Father"
+          },
+          "correct_answer": "C",
+          "explanation": "Q's mother is the daughter of M, and P is the sibling of Q's mother, so P is also the child of M. S and T are children of P. Thus, M is the grandparent of T. Since the gender of M is not mentioned, M could be either the grandfather or grandmother."
+        },
+        {
+          "id": 21,
+          "type": "MCQ",
+          "language": {
+            "en": "Preeti has a son named Arun. Ram is Preeti's brother. Neeta too has a daughter named Reema. Neeta is Ram's sister. What is Arun's relation to Reema?"
+          },
+          "options": {
+            "A": "Brother",
+            "B": "Nephew",
+            "C": "Cousin",
+            "D": "Uncle"
+          },
+          "correct_answer": "C",
+          "explanation": "Preeti, Ram, and Neeta are siblings. Arun is the son of Preeti, and Reema is the daughter of Neeta. Since their mothers are sisters, Arun and Reema are cousins."
+        },
+        {
+          "id": 22,
+          "type": "MCQ",
+          "language": {
+            "en": "A man said to a lady, 'Your mother's husband's sister is my aunt.' How is the lady related to the man?"
+          },
+          "options": {
+            "A": "Sister",
+            "B": "Mother",
+            "C": "Cousin",
+            "D": "Aunt"
+          },
+          "correct_answer": "A",
+          "explanation": "'Your mother's husband' is the lady's father. His sister is the lady's paternal aunt. Since this same person is also the man's aunt, the lady and the man share the same paternal aunt, implying they are siblings. Thus, the lady is the sister of the man."
+        },
+        {
+          "id": 23,
+          "type": "MCQ",
+          "language": {
+            "en": "If A + B means A is the father of B; A - B means A is the wife of B; A \\times B means A is the brother of B; A \\div B means A is the daughter of B. If J \\div K \\times L + M, how is J related to M?"
+          },
+          "options": {
+            "A": "Cousin",
+            "B": "Niece",
+            "C": "Sister",
+            "D": "Maternal Aunt"
+          },
+          "correct_answer": "A",
+          "explanation": "J \\div K means J is the daughter of K. K \\times L means K is the brother of L. L + M means L is the father of M. Since K and L are brothers, their children J and M are cousins."
+        },
+        {
+          "id": 24,
+          "type": "MCQ",
+          "language": {
+            "en": "Amit's father's sister is the daughter of Harsh. Harshita is the daughter of Amit's grandfather's only son. How is Harshita related to Amit?"
+          },
+          "options": {
+            "A": "Sister",
+            "B": "Cousin",
+            "C": "Aunt",
+            "D": "Mother"
+          },
+          "correct_answer": "A",
+          "explanation": "Amit's father's sister is Harsh's daughter, meaning Harsh is Amit's grandfather. Amit's grandfather's only son must be Amit's father. Harshita is the daughter of Amit's father. Therefore, Harshita is Amit's sister."
+        },
+        {
+          "id": 25,
+          "type": "MCQ",
+          "language": {
+            "en": "Anupam said to Vivek, 'That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.' How is the boy related to Anupam?"
+          },
+          "options": {
+            "A": "Son",
+            "B": "Brother",
+            "C": "Cousin",
+            "D": "Brother-in-law"
+          },
+          "correct_answer": "B",
+          "explanation": "'My father's wife' is Anupam's mother. Her daughter is Anupam's sister. The boy is the brother of Anupam's sister. Therefore, the boy is Anupam's brother."
+        },
+        {
+          "id": 26,
+          "type": "MCQ",
+          "language": {
+            "en": "Given that: A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Then, who is the uncle of D?"
+          },
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "E"
+          },
+          "correct_answer": "A",
+          "explanation": "E is the daughter of B, and D is the brother of E, so D is the son of B. A is the brother of B. Therefore, A is the maternal or paternal uncle of D."
+        },
+        {
+          "id": 27,
+          "type": "MCQ",
+          "language": {
+            "en": "If P \\% Q means P is the father of Q; P \\; \\! @ \\; \\! Q means P is the sister of Q; P \\cdot Q means P is the son of Q. Which of the following shows that I is the nephew of K?"
+          },
+          "options": {
+            "A": "I \\cdot J \\; \\! @ \\; \\! K",
+            "B": "K \\; \\! @ \\; \\! J \\% I",
+            "C": "I \\cdot J \\% K",
+            "D": "K \\% J \\cdot I"
+          },
+          "correct_answer": "A",
+          "explanation": "Let's analyze I \\cdot J \\; \\! @ \\; \\! K: I \\cdot J means I is the son of J. J \\; \\! @ \\; \\! K means J is the sister of K. Since I is the male child (son) of K's sister J, I is the nephew of K."
+        },
+        {
+          "id": 28,
+          "type": "MCQ",
+          "language": {
+            "en": "Pointing to a woman, a man said, 'Her mother's husband's mother is my mother's mother.' How is the man related to the woman?"
+          },
+          "options": {
+            "A": "Cousin",
+            "B": "Brother",
+            "C": "Uncle",
+            "D": "Nephew"
+          },
+          "correct_answer": "A",
+          "explanation": "The woman's mother's husband is her father. Her father's mother is her paternal grandmother. The man says this grandmother is also his mother's mother (maternal grandmother). This means the woman's father and the man's mother are siblings. Thus, the man and woman are cousins."
+        },
+        {
+          "id": 29,
+          "type": "MCQ",
+          "language": {
+            "en": "A is the father of X. B is the mother of Y. The sister of X and Z is Y. Which of the following statements is definitely NOT true?"
+          },
+          "options": {
+            "A": "B is the wife of A",
+            "B": "B has a daughter Y",
+            "C": "A is the husband of B",
+            "D": "X is the sister of Z"
+          },
+          "correct_answer": "D",
+          "explanation": "Y is the sister of X and Z, meaning X, Y, Z are siblings. A is the father of X (and thus of Y and Z), and B is the mother of Y (and thus of X and Z). Therefore, A and B are a married couple. We know Y is a female, but the gender of X is not defined. Thus, stating 'X is the sister of Z' cannot be definitively true without gender information."
+        },
+        {
+          "id": 30,
+          "type": "MCQ",
+          "language": {
+            "en": "Introducing a man, a woman says, 'He is the only son of my maternal grandmother's only daughter.' How is the man related to the woman?"
+          },
+          "options": {
+            "A": "Brother",
+            "B": "Cousin",
+            "C": "Husband",
+            "D": "Father"
+          },
+          "correct_answer": "A",
+          "explanation": "'My maternal grandmother's only daughter' refers to the woman's mother. The man is the 'only son of her mother', which makes him the woman's brother."
+        }
+      ]
+    }
+  ]
+}
