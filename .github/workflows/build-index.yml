@@ -2,9 +2,8 @@ name: Build Index
 
 on:
   push:
-    paths:
-      - '**/*.json'
-      - '!index.json'
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -20,43 +19,53 @@ jobs:
         run: |
           python3 - <<'EOF'
           import json, os, glob
-          
+
           exams = []
-          
+          skipped = []
+
           for path in sorted(glob.glob("**/*.json", recursive=True)):
-              if path == "index.json":
+              if path == "index.json" or path.startswith(".github/"):
                   continue
               try:
                   with open(path, "r", encoding="utf-8") as f:
                       data = json.load(f)
-                  
+
                   meta = data.get("metadata", {})
                   sections = data.get("sections", [])
                   q_count = sum(len(s.get("questions", [])) for s in sections)
                   category = path.split("/")[0]
-                  
+
                   exams.append({
                       "title": meta.get("exam_title", path),
                       "category": category,
                       "questions": q_count,
                       "duration_minutes": meta.get("total_duration_minutes", 0),
-                      "version": meta.get("version", "1.0"),
+                      "version": str(meta.get("version", "1.0")),
                       "path": path,
                       "raw_url": f"https://raw.githubusercontent.com/Forwarderr/ques_json/main/{path}"
                   })
+                  print(f"✓ Indexed: {path}")
+
+              except json.JSONDecodeError as e:
+                  skipped.append(path)
+                  print(f"✗ INVALID JSON — skipping: {path} ({e})")
               except Exception as e:
-                  print(f"Skipping {path}: {e}")
-          
+                  skipped.append(path)
+                  print(f"✗ ERROR — skipping: {path} ({e})")
+
           output = {
               "last_updated": __import__('datetime').date.today().isoformat(),
               "total": len(exams),
+              "skipped": skipped,
               "exams": exams
           }
-          
+
           with open("index.json", "w", encoding="utf-8") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          
-          print(f"Built index.json with {len(exams)} exam(s)")
+
+          print(f"\n✓ Built index.json — {len(exams)} exam(s) indexed, {len(skipped)} skipped")
+          if skipped:
+              print("Skipped files:", skipped)
           EOF
 
       - name: Commit index.json
