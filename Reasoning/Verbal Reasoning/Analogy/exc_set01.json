@@ -1,0 +1,1831 @@
+{
+  "metadata": {
+    "exam_title": "Reasoning: Analogy",
+    "total_duration_minutes": 80,
+    "version": "1.0",
+    "allow_backtrack": true
+  },
+  "sections": [
+    {
+      "section_id": "semantic_analogy",
+      "section_name": "Semantic Analogy (Word-based)",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 1,
+          "type": "MCQ",
+          "language": {
+            "en": "Book is related to Author in the same way as Painting is related to:"
+          },
+          "options": {
+            "A": "Brush",
+            "B": "Canvas",
+            "C": "Artist",
+            "D": "Gallery"
+          },
+          "correct_answer": "C",
+          "explanation": "An author creates a book, similarly an artist creates a painting. Option A is a tool used for painting, not the creator. Option B is the surface on which painting is made. Option D is the place where paintings are displayed."
+        },
+        {
+          "id": 2,
+          "type": "MCQ",
+          "language": {
+            "en": "Doctor is related to Hospital in the same way as Teacher is related to:"
+          },
+          "options": {
+            "A": "Student",
+            "B": "School",
+            "C": "Book",
+            "D": "Class"
+          },
+          "correct_answer": "B",
+          "explanation": "A doctor works in a hospital, similarly a teacher works in a school. Option A refers to the person taught. Option C is a teaching aid. Option D is a group of students, not the workplace."
+        },
+        {
+          "id": 3,
+          "type": "MCQ",
+          "language": {
+            "en": "Puppy is to Dog as Kitten is to:"
+          },
+          "options": {
+            "A": "Tiger",
+            "B": "Cow",
+            "C": "Cat",
+            "D": "Goat"
+          },
+          "correct_answer": "C",
+          "explanation": "A puppy is the young one of a dog. Similarly, a kitten is the young one of a cat. The other animals have different young ones."
+        },
+        {
+          "id": 4,
+          "type": "MCQ",
+          "language": {
+            "en": "Pen is related to Write in the same way as Knife is related to:"
+          },
+          "options": {
+            "A": "Cut",
+            "B": "Sharp",
+            "C": "Steel",
+            "D": "Injury"
+          },
+          "correct_answer": "A",
+          "explanation": "A pen is used to write, similarly a knife is used to cut. Option B is a property, Option C is a material, and Option D is a possible consequence, not the primary function."
+        },
+        {
+          "id": 5,
+          "type": "MCQ",
+          "language": {
+            "en": "Bird is related to Nest in the same way as Lion is related to:"
+          },
+          "options": {
+            "A": "Cage",
+            "B": "Forest",
+            "C": "Den",
+            "D": "Zoo"
+          },
+          "correct_answer": "C",
+          "explanation": "A bird lives in a nest, similarly a lion lives in a den. Option B is a broader habitat, not the exact dwelling. Options A and D are man-made enclosures."
+        },
+        {
+          "id": 6,
+          "type": "MCQ",
+          "language": {
+            "en": "Eye is related to See in the same way as Ear is related to:"
+          },
+          "options": {
+            "A": "Touch",
+            "B": "Hear",
+            "C": "Speak",
+            "D": "Smell"
+          },
+          "correct_answer": "B",
+          "explanation": "The eye is used for seeing, similarly the ear is used for hearing. The other options correspond to different senses."
+        },
+        {
+          "id": 7,
+          "type": "MCQ",
+          "language": {
+            "en": "Clock is related to Time in the same way as Thermometer is related to:"
+          },
+          "options": {
+            "A": "Heat",
+            "B": "Pressure",
+            "C": "Temperature",
+            "D": "Weather"
+          },
+          "correct_answer": "C",
+          "explanation": "A clock measures time, similarly a thermometer measures temperature. Option A is related but not the exact measurable quantity. Options B and D are unrelated."
+        },
+        {
+          "id": 8,
+          "type": "MCQ",
+          "language": {
+            "en": "Carpenter is related to Wood in the same way as Goldsmith is related to:"
+          },
+          "options": {
+            "A": "Gold",
+            "B": "Iron",
+            "C": "Diamond",
+            "D": "Copper"
+          },
+          "correct_answer": "A",
+          "explanation": "A carpenter works with wood, similarly a goldsmith works with gold. The other metals are not primarily associated with a goldsmith."
+        },
+        {
+          "id": 9,
+          "type": "MCQ",
+          "language": {
+            "en": "Commander is related to Army in the same way as Principal is related to:"
+          },
+          "options": {
+            "A": "College",
+            "B": "Office",
+            "C": "School",
+            "D": "Library"
+          },
+          "correct_answer": "C",
+          "explanation": "A commander heads an army, similarly a principal heads a school. Option A may also have principals in some contexts, but school is the standard association."
+        },
+        {
+          "id": 10,
+          "type": "MCQ",
+          "language": {
+            "en": "Fish is related to Water in the same way as Bird is related to:"
+          },
+          "options": {
+            "A": "Forest",
+            "B": "Air",
+            "C": "Tree",
+            "D": "Sky"
+          },
+          "correct_answer": "B",
+          "explanation": "Fish live and move in water, similarly birds move in air. Option D is tempting, but air is the true medium."
+        },
+        {
+          "id": 11,
+          "type": "MCQ",
+          "language": {
+            "en": "Hunger is related to Food in the same way as Thirst is related to:"
+          },
+          "options": {
+            "A": "Water",
+            "B": "Juice",
+            "C": "Milk",
+            "D": "Cold drink"
+          },
+          "correct_answer": "A",
+          "explanation": "Food satisfies hunger, similarly water satisfies thirst. The other beverages may reduce thirst but water is the most direct analogy."
+        },
+        {
+          "id": 12,
+          "type": "MCQ",
+          "language": {
+            "en": "Leaf is related to Tree in the same way as Petal is related to:"
+          },
+          "options": {
+            "A": "Flower",
+            "B": "Plant",
+            "C": "Fruit",
+            "D": "Stem"
+          },
+          "correct_answer": "A",
+          "explanation": "A leaf is a part of a tree, similarly a petal is a part of a flower. The other options are broader or unrelated."
+        },
+        {
+          "id": 13,
+          "type": "MCQ",
+          "language": {
+            "en": "Chef is related to Kitchen in the same way as Judge is related to:"
+          },
+          "options": {
+            "A": "Court",
+            "B": "Law",
+            "C": "Police",
+            "D": "Prison"
+          },
+          "correct_answer": "A",
+          "explanation": "A chef works in a kitchen, similarly a judge works in a court. The other options are associated with law but are not the workplace."
+        },
+        {
+          "id": 14,
+          "type": "MCQ",
+          "language": {
+            "en": "Sugar is related to Sweet in the same way as Lemon is related to:"
+          },
+          "options": {
+            "A": "Bitter",
+            "B": "Sour",
+            "C": "Salty",
+            "D": "Spicy"
+          },
+          "correct_answer": "B",
+          "explanation": "Sugar has a sweet taste, similarly lemon has a sour taste. The other tastes do not match lemon."
+        },
+        {
+          "id": 15,
+          "type": "MCQ",
+          "language": {
+            "en": "Wheel is related to Car in the same way as Pedal is related to:"
+          },
+          "options": {
+            "A": "Boat",
+            "B": "Aeroplane",
+            "C": "Bicycle",
+            "D": "Train"
+          },
+          "correct_answer": "C",
+          "explanation": "A wheel is an important part of a car, similarly a pedal is an important part of a bicycle. The other vehicles do not primarily depend on pedals."
+        },
+        {
+          "id": 16,
+          "type": "MCQ",
+          "language": {
+            "en": "Cow is related to Calf in the same way as Goat is related to:"
+          },
+          "options": {
+            "A": "Cub",
+            "B": "Kid",
+            "C": "Foal",
+            "D": "Lamb"
+          },
+          "correct_answer": "B",
+          "explanation": "A calf is the young one of a cow, similarly a kid is the young one of a goat. Cub, foal, and lamb are young ones of other animals."
+        },
+        {
+          "id": 17,
+          "type": "MCQ",
+          "language": {
+            "en": "Poet is related to Poem in the same way as Musician is related to:"
+          },
+          "options": {
+            "A": "Song",
+            "B": "Dance",
+            "C": "Instrument",
+            "D": "Stage"
+          },
+          "correct_answer": "A",
+          "explanation": "A poet composes a poem, similarly a musician composes or performs a song. The other options are associated but not parallel creations."
+        },
+        {
+          "id": 18,
+          "type": "MCQ",
+          "language": {
+            "en": "Train is related to Track in the same way as Ship is related to:"
+          },
+          "options": {
+            "A": "Port",
+            "B": "Water",
+            "C": "Dock",
+            "D": "River"
+          },
+          "correct_answer": "B",
+          "explanation": "A train moves on a track, similarly a ship moves on water. Option D is narrower than the general medium."
+        },
+        {
+          "id": 19,
+          "type": "MCQ",
+          "language": {
+            "en": "Ink is related to Pen in the same way as Fuel is related to:"
+          },
+          "options": {
+            "A": "Engine",
+            "B": "Petrol pump",
+            "C": "Road",
+            "D": "Driver"
+          },
+          "correct_answer": "A",
+          "explanation": "Ink is used by a pen to function, similarly fuel is used by an engine to function. The other options are associated but not equivalent."
+        },
+        {
+          "id": 20,
+          "type": "MCQ",
+          "language": {
+            "en": "Winter is related to Cold in the same way as Summer is related to:"
+          },
+          "options": {
+            "A": "Rain",
+            "B": "Heat",
+            "C": "Wind",
+            "D": "Storm"
+          },
+          "correct_answer": "B",
+          "explanation": "Winter is associated with cold weather, similarly summer is associated with heat. The other conditions are not the primary association."
+        },
+        {
+          "id": 21,
+          "type": "MCQ",
+          "language": {
+            "en": "Heart is related to Circulation in the same way as Lungs are related to:"
+          },
+          "options": {
+            "A": "Digestion",
+            "B": "Breathing",
+            "C": "Thinking",
+            "D": "Movement"
+          },
+          "correct_answer": "B",
+          "explanation": "The heart helps in circulation of blood, while lungs help in breathing. The other body functions are controlled by different organs."
+        },
+        {
+          "id": 22,
+          "type": "MCQ",
+          "language": {
+            "en": "Shoes are related to Feet in the same way as Gloves are related to:"
+          },
+          "options": {
+            "A": "Head",
+            "B": "Hands",
+            "C": "Eyes",
+            "D": "Legs"
+          },
+          "correct_answer": "B",
+          "explanation": "Shoes are worn on feet, similarly gloves are worn on hands. The other body parts are unrelated."
+        },
+        {
+          "id": 23,
+          "type": "MCQ",
+          "language": {
+            "en": "Author is related to Novel in the same way as Sculptor is related to:"
+          },
+          "options": {
+            "A": "Clay",
+            "B": "Stone",
+            "C": "Statue",
+            "D": "Museum"
+          },
+          "correct_answer": "C",
+          "explanation": "An author creates a novel, similarly a sculptor creates a statue. Options A and B are materials, while D is a place."
+        },
+        {
+          "id": 24,
+          "type": "MCQ",
+          "language": {
+            "en": "Bee is related to Honey in the same way as Silkworm is related to:"
+          },
+          "options": {
+            "A": "Nest",
+            "B": "Silk",
+            "C": "Thread",
+            "D": "Cocoon"
+          },
+          "correct_answer": "B",
+          "explanation": "A bee produces honey, similarly a silkworm produces silk. Option D is associated with silkworms but is not the final product."
+        },
+        {
+          "id": 25,
+          "type": "MCQ",
+          "language": {
+            "en": "Question is related to Answer in the same way as Problem is related to:"
+          },
+          "options": {
+            "A": "Confusion",
+            "B": "Difficulty",
+            "C": "Solution",
+            "D": "Thinking"
+          },
+          "correct_answer": "C",
+          "explanation": "An answer responds to a question, similarly a solution resolves a problem. The other options are related but not equivalent responses."
+        },
+        {
+          "id": 26,
+          "type": "MCQ",
+          "language": {
+            "en": "Army is related to Soldiers in the same way as Fleet is related to:"
+          },
+          "options": {
+            "A": "Ships",
+            "B": "Pilots",
+            "C": "Cars",
+            "D": "Drivers"
+          },
+          "correct_answer": "A",
+          "explanation": "An army consists of soldiers, similarly a fleet consists of ships. The other options do not correctly complete the collective relationship."
+        },
+        {
+          "id": 27,
+          "type": "MCQ",
+          "language": {
+            "en": "Hospital is related to Patient in the same way as Library is related to:"
+          },
+          "options": {
+            "A": "Teacher",
+            "B": "Librarian",
+            "C": "Reader",
+            "D": "Books"
+          },
+          "correct_answer": "C",
+          "explanation": "A patient visits a hospital for treatment, similarly a reader visits a library for reading. Option D is an object in the library, not the user."
+        },
+        {
+          "id": 28,
+          "type": "MCQ",
+          "language": {
+            "en": "Grammar is related to Language in the same way as Rules are related to:"
+          },
+          "options": {
+            "A": "Game",
+            "B": "Law",
+            "C": "School",
+            "D": "Society"
+          },
+          "correct_answer": "A",
+          "explanation": "Grammar governs language, similarly rules govern a game. The other options are broader or indirect."
+        },
+        {
+          "id": 29,
+          "type": "MCQ",
+          "language": {
+            "en": "Teacher is related to Education in the same way as Doctor is related to:"
+          },
+          "options": {
+            "A": "Medicine",
+            "B": "Patient",
+            "C": "Nurse",
+            "D": "Hospital"
+          },
+          "correct_answer": "A",
+          "explanation": "A teacher is associated with education, similarly a doctor is associated with medicine. The other options are related but not the field itself."
+        },
+        {
+          "id": 30,
+          "type": "MCQ",
+          "language": {
+            "en": "Keyboard is related to Typing in the same way as Brush is related to:"
+          },
+          "options": {
+            "A": "Drawing",
+            "B": "Cleaning",
+            "C": "Painting",
+            "D": "Writing"
+          },
+          "correct_answer": "C",
+          "explanation": "A keyboard is used for typing, similarly a brush is used for painting. Option A is broader and less precise."
+        },
+        {
+          "id": 31,
+          "type": "MCQ",
+          "language": {
+            "en": "Pilot is related to Aeroplane in the same way as Captain is related to:"
+          },
+          "options": {
+            "A": "Bus",
+            "B": "Ship",
+            "C": "Train",
+            "D": "Helicopter"
+          },
+          "correct_answer": "B",
+          "explanation": "A pilot controls an aeroplane, similarly a captain controls a ship. The other vehicles are controlled by different operators."
+        },
+        {
+          "id": 32,
+          "type": "MCQ",
+          "language": {
+            "en": "Fruit is related to Tree in the same way as Child is related to:"
+          },
+          "options": {
+            "A": "Family",
+            "B": "School",
+            "C": "Parent",
+            "D": "Teacher"
+          },
+          "correct_answer": "C",
+          "explanation": "Fruit comes from a tree, similarly a child comes from a parent. The other options are related but not parallel."
+        },
+        {
+          "id": 33,
+          "type": "MCQ",
+          "language": {
+            "en": "Scissors are related to Cutting in the same way as Needle is related to:"
+          },
+          "options": {
+            "A": "Joining",
+            "B": "Sewing",
+            "C": "Drawing",
+            "D": "Measuring"
+          },
+          "correct_answer": "B",
+          "explanation": "Scissors are used for cutting, similarly a needle is used for sewing. The other actions are unrelated."
+        },
+        {
+          "id": 34,
+          "type": "MCQ",
+          "language": {
+            "en": "Police is related to Law in the same way as Soldier is related to:"
+          },
+          "options": {
+            "A": "War",
+            "B": "Border",
+            "C": "Nation",
+            "D": "Defence"
+          },
+          "correct_answer": "D",
+          "explanation": "Police maintain law, similarly soldiers provide defence. Option A is a situation, not the purpose."
+        },
+        {
+          "id": 35,
+          "type": "MCQ",
+          "language": {
+            "en": "Glass is related to Window in the same way as Rubber is related to:"
+          },
+          "options": {
+            "A": "Tyre",
+            "B": "Plastic",
+            "C": "Road",
+            "D": "Wheel"
+          },
+          "correct_answer": "A",
+          "explanation": "Glass is the main material used in a window, similarly rubber is the main material used in a tyre. The other options are less direct."
+        },
+        {
+          "id": 36,
+          "type": "MCQ",
+          "language": {
+            "en": "Seed is related to Plant in the same way as Egg is related to:"
+          },
+          "options": {
+            "A": "Nest",
+            "B": "Bird",
+            "C": "Hen",
+            "D": "Feather"
+          },
+          "correct_answer": "B",
+          "explanation": "A plant grows from a seed, similarly a bird grows from an egg. Option C is the layer of the egg, not the result."
+        },
+        {
+          "id": 37,
+          "type": "MCQ",
+          "language": {
+            "en": "Sunrise is related to Morning in the same way as Sunset is related to:"
+          },
+          "options": {
+            "A": "Night",
+            "B": "Evening",
+            "C": "Afternoon",
+            "D": "Midday"
+          },
+          "correct_answer": "B",
+          "explanation": "Sunrise occurs in the morning, similarly sunset occurs in the evening. The other times do not match."
+        },
+        {
+          "id": 38,
+          "type": "MCQ",
+          "language": {
+            "en": "Watch is related to Wrist in the same way as Ring is related to:"
+          },
+          "options": {
+            "A": "Neck",
+            "B": "Finger",
+            "C": "Arm",
+            "D": "Waist"
+          },
+          "correct_answer": "B",
+          "explanation": "A watch is worn on the wrist, similarly a ring is worn on a finger. The other body parts are incorrect."
+        },
+        {
+          "id": 39,
+          "type": "MCQ",
+          "language": {
+            "en": "Brick is related to House in the same way as Letter is related to:"
+          },
+          "options": {
+            "A": "Book",
+            "B": "Alphabet",
+            "C": "Word",
+            "D": "Sentence"
+          },
+          "correct_answer": "C",
+          "explanation": "Bricks combine to form a house, similarly letters combine to form a word. Option D is formed from words, not letters directly."
+        },
+        {
+          "id": 40,
+          "type": "MCQ",
+          "language": {
+            "en": "Farmer is related to Crop in the same way as Weaver is related to:"
+          },
+          "options": {
+            "A": "Cotton",
+            "B": "Thread",
+            "C": "Cloth",
+            "D": "Machine"
+          },
+          "correct_answer": "C",
+          "explanation": "A farmer produces crops, similarly a weaver produces cloth. Options A and B are raw materials, while D is a tool."
+        }
+      ]
+    },
+    {
+      "section_id": "symbolic_number_analogy",
+      "section_name": "Symbolic/Number Analogy",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 41,
+          "type": "MCQ",
+          "language": {
+            "en": "5 : 25 :: 7 : ?"
+          },
+          "options": {
+            "A": "42",
+            "B": "49",
+            "C": "56",
+            "D": "64"
+          },
+          "correct_answer": "B",
+          "explanation": "5 is related to 25 by squaring: 5² = 25. Similarly, 7² = 49. Option A is 7 × 6. Option C is 7 × 8. Option D is 8²."
+        },
+        {
+          "id": 42,
+          "type": "MCQ",
+          "language": {
+            "en": "8 : 16 :: 12 : ?"
+          },
+          "options": {
+            "A": "20",
+            "B": "22",
+            "C": "24",
+            "D": "26"
+          },
+          "correct_answer": "C",
+          "explanation": "The second number is double the first number: 8 × 2 = 16. Therefore, 12 × 2 = 24. The other options result from incorrect additions."
+        },
+        {
+          "id": 43,
+          "type": "MCQ",
+          "language": {
+            "en": "3 : 27 :: 4 : ?"
+          },
+          "options": {
+            "A": "16",
+            "B": "32",
+            "C": "64",
+            "D": "81"
+          },
+          "correct_answer": "C",
+          "explanation": "3 is related to 27 through cubing: 3³ = 27. Therefore, 4³ = 64. Option A is the square of 4. Option B is 2⁵. Option D is 9²."
+        },
+        {
+          "id": 44,
+          "type": "MCQ",
+          "language": {
+            "en": "9 : 81 :: 11 : ?"
+          },
+          "options": {
+            "A": "99",
+            "B": "111",
+            "C": "121",
+            "D": "131"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 9² = 81. Therefore, 11² = 121. Other options are multiplication-based distractors."
+        },
+        {
+          "id": 45,
+          "type": "MCQ",
+          "language": {
+            "en": "15 : 12 :: 20 : ?"
+          },
+          "options": {
+            "A": "15",
+            "B": "17",
+            "C": "18",
+            "D": "16"
+          },
+          "correct_answer": "B",
+          "explanation": "The pattern is subtracting 3: 15 - 3 = 12. Therefore, 20 - 3 = 17. The other options come from incorrect subtraction."
+        },
+        {
+          "id": 46,
+          "type": "MCQ",
+          "language": {
+            "en": "6 : 18 :: 9 : ?"
+          },
+          "options": {
+            "A": "24",
+            "B": "27",
+            "C": "30",
+            "D": "36"
+          },
+          "correct_answer": "B",
+          "explanation": "The second number is obtained by multiplying by 3: 6 × 3 = 18. Therefore, 9 × 3 = 27. Other options use incorrect multipliers."
+        },
+        {
+          "id": 47,
+          "type": "MCQ",
+          "language": {
+            "en": "13 : 169 :: 17 : ?"
+          },
+          "options": {
+            "A": "221",
+            "B": "272",
+            "C": "289",
+            "D": "361"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 13² = 169. Therefore, 17² = 289. Option D is 19²."
+        },
+        {
+          "id": 48,
+          "type": "MCQ",
+          "language": {
+            "en": "2 : 6 :: 5 : ?"
+          },
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is multiplication by 3: 2 × 3 = 6. Therefore, 5 × 3 = 15. The other options use different multipliers."
+        },
+        {
+          "id": 49,
+          "type": "MCQ",
+          "language": {
+            "en": "4 : 20 :: 7 : ?"
+          },
+          "options": {
+            "A": "28",
+            "B": "30",
+            "C": "35",
+            "D": "42"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is multiplication by 5: 4 × 5 = 20. Therefore, 7 × 5 = 35. The other options come from incorrect multiplication."
+        },
+        {
+          "id": 50,
+          "type": "MCQ",
+          "language": {
+            "en": "10 : 100 :: 14 : ?"
+          },
+          "options": {
+            "A": "196",
+            "B": "184",
+            "C": "204",
+            "D": "144"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern is squaring: 10² = 100. Therefore, 14² = 196. Option D is 12²."
+        },
+        {
+          "id": 51,
+          "type": "MCQ",
+          "language": {
+            "en": "18 : 9 :: 24 : ?"
+          },
+          "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is dividing by 2: 18 ÷ 2 = 9. Therefore, 24 ÷ 2 = 12. The other options are incorrect divisions."
+        },
+        {
+          "id": 52,
+          "type": "MCQ",
+          "language": {
+            "en": "7 : 14 :: 13 : ?"
+          },
+          "options": {
+            "A": "24",
+            "B": "25",
+            "C": "26",
+            "D": "28"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is doubling: 7 × 2 = 14. Therefore, 13 × 2 = 26. Other options are arithmetic traps."
+        },
+        {
+          "id": 53,
+          "type": "MCQ",
+          "language": {
+            "en": "11 : 121 :: 15 : ?"
+          },
+          "options": {
+            "A": "205",
+            "B": "215",
+            "C": "225",
+            "D": "235"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 11² = 121. Therefore, 15² = 225. The other options are not perfect squares of 15."
+        },
+        {
+          "id": 54,
+          "type": "MCQ",
+          "language": {
+            "en": "21 : 7 :: 27 : ?"
+          },
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "12"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is division by 3: 21 ÷ 3 = 7. Therefore, 27 ÷ 3 = 9. The other options are incorrect."
+        },
+        {
+          "id": 55,
+          "type": "MCQ",
+          "language": {
+            "en": "16 : 4 :: 81 : ?"
+          },
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "12"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is taking square roots: √16 = 4. Therefore, √81 = 9. The other options are incorrect roots."
+        },
+        {
+          "id": 56,
+          "type": "MCQ",
+          "language": {
+            "en": "14 : 196 :: 18 : ?"
+          },
+          "options": {
+            "A": "256",
+            "B": "324",
+            "C": "342",
+            "D": "361"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is squaring: 14² = 196. Therefore, 18² = 324. Option D is 19²."
+        },
+        {
+          "id": 57,
+          "type": "MCQ",
+          "language": {
+            "en": "5 : 125 :: 3 : ?"
+          },
+          "options": {
+            "A": "9",
+            "B": "18",
+            "C": "27",
+            "D": "81"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is cubing: 5³ = 125. Therefore, 3³ = 27. Option A is the square of 3."
+        },
+        {
+          "id": 58,
+          "type": "MCQ",
+          "language": {
+            "en": "32 : 16 :: 50 : ?"
+          },
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is dividing by 2: 32 ÷ 2 = 16. Therefore, 50 ÷ 2 = 25. The other options are incorrect."
+        },
+        {
+          "id": 59,
+          "type": "MCQ",
+          "language": {
+            "en": "9 : 18 :: 14 : ?"
+          },
+          "options": {
+            "A": "26",
+            "B": "27",
+            "C": "28",
+            "D": "30"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is doubling: 9 × 2 = 18. Therefore, 14 × 2 = 28. Other options are arithmetic distractors."
+        },
+        {
+          "id": 60,
+          "type": "MCQ",
+          "language": {
+            "en": "12 : 144 :: 13 : ?"
+          },
+          "options": {
+            "A": "156",
+            "B": "169",
+            "C": "182",
+            "D": "196"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is squaring: 12² = 144. Therefore, 13² = 169. Other options are incorrect."
+        },
+        {
+          "id": 61,
+          "type": "MCQ",
+          "language": {
+            "en": "45 : 9 :: 35 : ?"
+          },
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is division by 5: 45 ÷ 5 = 9. Therefore, 35 ÷ 5 = 7. The other values are incorrect."
+        },
+        {
+          "id": 62,
+          "type": "MCQ",
+          "language": {
+            "en": "6 : 36 :: 8 : ?"
+          },
+          "options": {
+            "A": "48",
+            "B": "56",
+            "C": "64",
+            "D": "72"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 6² = 36. Therefore, 8² = 64. Other options are products, not squares."
+        },
+        {
+          "id": 63,
+          "type": "MCQ",
+          "language": {
+            "en": "4 : 12 :: 11 : ?"
+          },
+          "options": {
+            "A": "22",
+            "B": "33",
+            "C": "44",
+            "D": "55"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is multiplication by 3: 4 × 3 = 12. Therefore, 11 × 3 = 33. Other options use incorrect multipliers."
+        },
+        {
+          "id": 64,
+          "type": "MCQ",
+          "language": {
+            "en": "64 : 8 :: 121 : ?"
+          },
+          "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is taking square roots: √64 = 8. Therefore, √121 = 11. Other options are incorrect."
+        },
+        {
+          "id": 65,
+          "type": "MCQ",
+          "language": {
+            "en": "17 : 34 :: 23 : ?"
+          },
+          "options": {
+            "A": "42",
+            "B": "44",
+            "C": "46",
+            "D": "48"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is doubling: 17 × 2 = 34. Therefore, 23 × 2 = 46. Other options are incorrect."
+        },
+        {
+          "id": 66,
+          "type": "MCQ",
+          "language": {
+            "en": "7 : 49 :: 12 : ?"
+          },
+          "options": {
+            "A": "124",
+            "B": "132",
+            "C": "144",
+            "D": "169"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 7² = 49. Therefore, 12² = 144. The other values are not squares of 12."
+        },
+        {
+          "id": 67,
+          "type": "MCQ",
+          "language": {
+            "en": "24 : 8 :: 42 : ?"
+          },
+          "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is division by 3: 24 ÷ 3 = 8. Therefore, 42 ÷ 3 = 14. Other options are incorrect."
+        },
+        {
+          "id": 68,
+          "type": "MCQ",
+          "language": {
+            "en": "8 : 512 :: 2 : ?"
+          },
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "16"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is cubing: 8³ = 512. Therefore, 2³ = 8. Other options are incorrect."
+        },
+        {
+          "id": 69,
+          "type": "MCQ",
+          "language": {
+            "en": "19 : 361 :: 21 : ?"
+          },
+          "options": {
+            "A": "420",
+            "B": "441",
+            "C": "462",
+            "D": "484"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is squaring: 19² = 361. Therefore, 21² = 441. Other options are incorrect."
+        },
+        {
+          "id": 70,
+          "type": "MCQ",
+          "language": {
+            "en": "15 : 45 :: 18 : ?"
+          },
+          "options": {
+            "A": "48",
+            "B": "50",
+            "C": "54",
+            "D": "60"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is multiplication by 3: 15 × 3 = 45. Therefore, 18 × 3 = 54. The other options are incorrect."
+        },
+        {
+          "id": 71,
+          "type": "MCQ",
+          "language": {
+            "en": "100 : 10 :: 49 : ?"
+          },
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is square root: √100 = 10. Therefore, √49 = 7. Other options are incorrect."
+        },
+        {
+          "id": 72,
+          "type": "MCQ",
+          "language": {
+            "en": "27 : 9 :: 36 : ?"
+          },
+          "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is division by 3: 27 ÷ 3 = 9. Therefore, 36 ÷ 3 = 12. Other options are incorrect."
+        },
+        {
+          "id": 73,
+          "type": "MCQ",
+          "language": {
+            "en": "22 : 484 :: 16 : ?"
+          },
+          "options": {
+            "A": "196",
+            "B": "225",
+            "C": "256",
+            "D": "289"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 22² = 484. Therefore, 16² = 256. Other options are different perfect squares."
+        },
+        {
+          "id": 74,
+          "type": "MCQ",
+          "language": {
+            "en": "3 : 15 :: 9 : ?"
+          },
+          "options": {
+            "A": "36",
+            "B": "45",
+            "C": "54",
+            "D": "63"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is multiplication by 5: 3 × 5 = 15. Therefore, 9 × 5 = 45. The other options use different multipliers."
+        },
+        {
+          "id": 75,
+          "type": "MCQ",
+          "language": {
+            "en": "125 : 5 :: 343 : ?"
+          },
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "correct_answer": "B",
+          "explanation": "The relation is cube root: ³√125 = 5. Therefore, ³√343 = 7. Other options are incorrect."
+        },
+        {
+          "id": 76,
+          "type": "MCQ",
+          "language": {
+            "en": "13 : 26 :: 29 : ?"
+          },
+          "options": {
+            "A": "48",
+            "B": "52",
+            "C": "56",
+            "D": "58"
+          },
+          "correct_answer": "D",
+          "explanation": "The relation is doubling: 13 × 2 = 26. Therefore, 29 × 2 = 58. The other options are incorrect."
+        },
+        {
+          "id": 77,
+          "type": "MCQ",
+          "language": {
+            "en": "20 : 400 :: 25 : ?"
+          },
+          "options": {
+            "A": "500",
+            "B": "575",
+            "C": "625",
+            "D": "725"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is squaring: 20² = 400. Therefore, 25² = 625. Other options are incorrect."
+        },
+        {
+          "id": 78,
+          "type": "MCQ",
+          "language": {
+            "en": "18 : 54 :: 16 : ?"
+          },
+          "options": {
+            "A": "32",
+            "B": "40",
+            "C": "48",
+            "D": "56"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is multiplication by 3: 18 × 3 = 54. Therefore, 16 × 3 = 48. Other options use incorrect multiplication."
+        },
+        {
+          "id": 79,
+          "type": "MCQ",
+          "language": {
+            "en": "81 : 9 :: 169 : ?"
+          },
+          "options": {
+            "A": "11",
+            "B": "12",
+            "C": "13",
+            "D": "14"
+          },
+          "correct_answer": "C",
+          "explanation": "The relation is square root: √81 = 9. Therefore, √169 = 13. The other options are incorrect."
+        },
+        {
+          "id": 80,
+          "type": "MCQ",
+          "language": {
+            "en": "14 : 42 :: 25 : ?"
+          },
+          "options": {
+            "A": "50",
+            "B": "65",
+            "C": "70",
+            "D": "75"
+          },
+          "correct_answer": "D",
+          "explanation": "The relation is multiplication by 3: 14 × 3 = 42. Therefore, 25 × 3 = 75. The other options are incorrect."
+        }
+      ]
+    },
+    {
+      "section_id": "figural_analogy",
+      "section_name": "Figural Analogy",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 81,
+          "type": "MCQ",
+          "language": {
+            "en": "A square is related to four sides in the same way as a triangle is related to:"
+          },
+          "options": {
+            "A": "Two sides",
+            "B": "Three sides",
+            "C": "Five sides",
+            "D": "Six sides"
+          },
+          "correct_answer": "B",
+          "explanation": "A square has four sides, similarly a triangle has three sides. The other options are incorrect geometric properties."
+        },
+        {
+          "id": 82,
+          "type": "MCQ",
+          "language": {
+            "en": "Circle is related to Round in the same way as Rectangle is related to:"
+          },
+          "options": {
+            "A": "Curved",
+            "B": "Equal",
+            "C": "Rectangular",
+            "D": "Straight"
+          },
+          "correct_answer": "D",
+          "explanation": "A circle has a curved boundary, while a rectangle is made of straight lines. Option C merely repeats the name."
+        },
+        {
+          "id": 83,
+          "type": "MCQ",
+          "language": {
+            "en": "Cube is related to 6 faces in the same way as Cylinder is related to:"
+          },
+          "options": {
+            "A": "1 face",
+            "B": "2 faces",
+            "C": "3 surfaces",
+            "D": "4 surfaces"
+          },
+          "correct_answer": "C",
+          "explanation": "A cube has 6 faces. A cylinder has 3 surfaces: two circular flat surfaces and one curved surface. Option B ignores the curved surface."
+        },
+        {
+          "id": 84,
+          "type": "MCQ",
+          "language": {
+            "en": "Pentagon is related to 5 sides in the same way as Hexagon is related to:"
+          },
+          "options": {
+            "A": "4 sides",
+            "B": "5 sides",
+            "C": "6 sides",
+            "D": "7 sides"
+          },
+          "correct_answer": "C",
+          "explanation": "A pentagon has 5 sides, while a hexagon has 6 sides. The other values are incorrect."
+        },
+        {
+          "id": 85,
+          "type": "MCQ",
+          "language": {
+            "en": "Sphere is related to Ball in the same way as Cube is related to:"
+          },
+          "options": {
+            "A": "Brick",
+            "B": "Dice",
+            "C": "Wheel",
+            "D": "Pipe"
+          },
+          "correct_answer": "B",
+          "explanation": "A ball is an example of a sphere, similarly a dice is generally cubic in shape. The other objects do not accurately represent cubes."
+        },
+        {
+          "id": 86,
+          "type": "MCQ",
+          "language": {
+            "en": "Compass is related to Circle in the same way as Ruler is related to:"
+          },
+          "options": {
+            "A": "Arc",
+            "B": "Angle",
+            "C": "Line",
+            "D": "Curve"
+          },
+          "correct_answer": "C",
+          "explanation": "A compass is mainly used to draw circles, similarly a ruler is mainly used to draw straight lines."
+        },
+        {
+          "id": 87,
+          "type": "MCQ",
+          "language": {
+            "en": "Triangle is related to 180° in the same way as Quadrilateral is related to:"
+          },
+          "options": {
+            "A": "270°",
+            "B": "300°",
+            "C": "360°",
+            "D": "540°"
+          },
+          "correct_answer": "C",
+          "explanation": "The sum of angles in a triangle is 180°. The sum of angles in a quadrilateral is 360°. Other values are incorrect."
+        },
+        {
+          "id": 88,
+          "type": "MCQ",
+          "language": {
+            "en": "Cone is related to one vertex in the same way as Cylinder is related to:"
+          },
+          "options": {
+            "A": "No vertex",
+            "B": "One vertex",
+            "C": "Two vertices",
+            "D": "Three vertices"
+          },
+          "correct_answer": "A",
+          "explanation": "A cone has one vertex, whereas a cylinder has no vertices. The other options are incorrect geometric facts."
+        },
+        {
+          "id": 89,
+          "type": "MCQ",
+          "language": {
+            "en": "Square is related to Equal sides in the same way as Rectangle is related to:"
+          },
+          "options": {
+            "A": "Equal angles",
+            "B": "Unequal angles",
+            "C": "Curved sides",
+            "D": "No angles"
+          },
+          "correct_answer": "A",
+          "explanation": "A square has all sides equal, while a rectangle has all angles equal to 90°. Options B, C, and D are incorrect."
+        },
+        {
+          "id": 90,
+          "type": "MCQ",
+          "language": {
+            "en": "Oval is related to Curve in the same way as Polygon is related to:"
+          },
+          "options": {
+            "A": "Straight lines",
+            "B": "Circles",
+            "C": "Arcs",
+            "D": "Points"
+          },
+          "correct_answer": "A",
+          "explanation": "An oval consists of curves, while polygons are made of straight line segments. The other options are incomplete or incorrect."
+        },
+        {
+          "id": 91,
+          "type": "MCQ",
+          "language": {
+            "en": "Cube is related to 8 vertices in the same way as Cuboid is related to:"
+          },
+          "options": {
+            "A": "6 vertices",
+            "B": "8 vertices",
+            "C": "10 vertices",
+            "D": "12 vertices"
+          },
+          "correct_answer": "B",
+          "explanation": "A cube has 8 vertices and a cuboid also has 8 vertices. The other counts are incorrect."
+        },
+        {
+          "id": 92,
+          "type": "MCQ",
+          "language": {
+            "en": "Diameter is related to Circle in the same way as Diagonal is related to:"
+          },
+          "options": {
+            "A": "Triangle",
+            "B": "Rectangle",
+            "C": "Line",
+            "D": "Arc"
+          },
+          "correct_answer": "B",
+          "explanation": "A diameter belongs to a circle, similarly a diagonal commonly belongs to shapes like rectangles or squares. Triangle does not usually have diagonals."
+        },
+        {
+          "id": 93,
+          "type": "MCQ",
+          "language": {
+            "en": "Triangle is related to 3 angles in the same way as Pentagon is related to:"
+          },
+          "options": {
+            "A": "4 angles",
+            "B": "5 angles",
+            "C": "6 angles",
+            "D": "7 angles"
+          },
+          "correct_answer": "B",
+          "explanation": "A triangle has 3 angles. A pentagon has 5 angles. Other options are incorrect."
+        },
+        {
+          "id": 94,
+          "type": "MCQ",
+          "language": {
+            "en": "Circle is related to Radius in the same way as Square is related to:"
+          },
+          "options": {
+            "A": "Side",
+            "B": "Arc",
+            "C": "Diameter",
+            "D": "Centre"
+          },
+          "correct_answer": "A",
+          "explanation": "Radius is an important measure of a circle, similarly side is an important measure of a square. The other terms are circle-related."
+        },
+        {
+          "id": 95,
+          "type": "MCQ",
+          "language": {
+            "en": "Prism is related to Flat surfaces in the same way as Sphere is related to:"
+          },
+          "options": {
+            "A": "Edges",
+            "B": "Curved surface",
+            "C": "Vertices",
+            "D": "Faces"
+          },
+          "correct_answer": "B",
+          "explanation": "A prism mainly consists of flat surfaces, while a sphere has one curved surface. It has no edges or vertices."
+        },
+        {
+          "id": 96,
+          "type": "MCQ",
+          "language": {
+            "en": "Acute angle is related to less than 90° in the same way as Obtuse angle is related to:"
+          },
+          "options": {
+            "A": "Exactly 90°",
+            "B": "Less than 45°",
+            "C": "More than 90°",
+            "D": "More than 180°"
+          },
+          "correct_answer": "C",
+          "explanation": "An acute angle is less than 90°. An obtuse angle is greater than 90° but less than 180°. The other ranges are incorrect."
+        },
+        {
+          "id": 97,
+          "type": "MCQ",
+          "language": {
+            "en": "Cube is related to Equal edges in the same way as Square is related to:"
+          },
+          "options": {
+            "A": "Equal diagonals",
+            "B": "Equal sides",
+            "C": "Equal curves",
+            "D": "Equal arcs"
+          },
+          "correct_answer": "B",
+          "explanation": "All edges of a cube are equal. Similarly, all sides of a square are equal. Curves and arcs are not properties of squares."
+        },
+        {
+          "id": 98,
+          "type": "MCQ",
+          "language": {
+            "en": "Semicircle is related to Half circle in the same way as Hemisphere is related to:"
+          },
+          "options": {
+            "A": "Half sphere",
+            "B": "Quarter sphere",
+            "C": "Double sphere",
+            "D": "Curved line"
+          },
+          "correct_answer": "A",
+          "explanation": "A semicircle is half of a circle, similarly a hemisphere is half of a sphere. The other options are incorrect."
+        },
+        {
+          "id": 99,
+          "type": "MCQ",
+          "language": {
+            "en": "Hexagon is related to 6 sides in the same way as Octagon is related to:"
+          },
+          "options": {
+            "A": "7 sides",
+            "B": "8 sides",
+            "C": "9 sides",
+            "D": "10 sides"
+          },
+          "correct_answer": "B",
+          "explanation": "A hexagon has 6 sides, while an octagon has 8 sides. Other counts are incorrect."
+        },
+        {
+          "id": 100,
+          "type": "MCQ",
+          "language": {
+            "en": "Parallel lines are related to Never meeting in the same way as Intersecting lines are related to:"
+          },
+          "options": {
+            "A": "Always equal",
+            "B": "Always curved",
+            "C": "Meeting at a point",
+            "D": "Having no angle"
+          },
+          "correct_answer": "C",
+          "explanation": "Parallel lines never meet, while intersecting lines meet at a point. The other options are incorrect properties."
+        },
+        {
+          "id": 101,
+          "type": "MCQ",
+          "language": {
+            "en": "Circle is related to No sides in the same way as Triangle is related to:"
+          },
+          "options": {
+            "A": "One side",
+            "B": "Two sides",
+            "C": "Three sides",
+            "D": "Four sides"
+          },
+          "correct_answer": "C",
+          "explanation": "A circle has no sides, while a triangle has three sides. The other options are incorrect."
+        },
+        {
+          "id": 102,
+          "type": "MCQ",
+          "language": {
+            "en": "Cuboid is related to Rectangle in the same way as Cube is related to:"
+          },
+          "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Circle",
+            "D": "Oval"
+          },
+          "correct_answer": "B",
+          "explanation": "A cuboid is made up of rectangular faces, while a cube is made up of square faces. The other shapes are incorrect."
+        },
+        {
+          "id": 103,
+          "type": "MCQ",
+          "language": {
+            "en": "Diameter is related to Radius in the same way as Perimeter is related to:"
+          },
+          "options": {
+            "A": "Area",
+            "B": "Length",
+            "C": "Breadth",
+            "D": "Side"
+          },
+          "correct_answer": "D",
+          "explanation": "Diameter is twice the radius. Similarly, perimeter depends on the sides of a figure. Options B and C are incomplete."
+        },
+        {
+          "id": 104,
+          "type": "MCQ",
+          "language": {
+            "en": "Equilateral triangle is related to Equal sides in the same way as Isosceles triangle is related to:"
+          },
+          "options": {
+            "A": "No equal sides",
+            "B": "Two equal sides",
+            "C": "Three equal angles",
+            "D": "Right angle"
+          },
+          "correct_answer": "B",
+          "explanation": "An equilateral triangle has all sides equal, while an isosceles triangle has two equal sides. The other options are incorrect."
+        },
+        {
+          "id": 105,
+          "type": "MCQ",
+          "language": {
+            "en": "Arc is related to Circle in the same way as Edge is related to:"
+          },
+          "options": {
+            "A": "Cube",
+            "B": "Triangle",
+            "C": "Line",
+            "D": "Angle"
+          },
+          "correct_answer": "A",
+          "explanation": "An arc is a part of a circle, similarly an edge is a defining part of a cube. The other options are less appropriate."
+        },
+        {
+          "id": 106,
+          "type": "MCQ",
+          "language": {
+            "en": "Right angle is related to 90° in the same way as Straight angle is related to:"
+          },
+          "options": {
+            "A": "120°",
+            "B": "150°",
+            "C": "180°",
+            "D": "360°"
+          },
+          "correct_answer": "C",
+          "explanation": "A right angle measures 90°, while a straight angle measures 180°. The other values are incorrect."
+        },
+        {
+          "id": 107,
+          "type": "MCQ",
+          "language": {
+            "en": "Pyramid is related to Vertex in the same way as Cylinder is related to:"
+          },
+          "options": {
+            "A": "Corner",
+            "B": "Curved surface",
+            "C": "Triangle",
+            "D": "Diagonal"
+          },
+          "correct_answer": "B",
+          "explanation": "A pyramid is notable for its vertices, while a cylinder is notable for its curved surface. Cylinders do not have corners or diagonals."
+        },
+        {
+          "id": 108,
+          "type": "MCQ",
+          "language": {
+            "en": "Square is related to Four equal sides in the same way as Rectangle is related to:"
+          },
+          "options": {
+            "A": "Four equal angles",
+            "B": "Three equal angles",
+            "C": "Curved boundaries",
+            "D": "Equal diagonals only"
+          },
+          "correct_answer": "A",
+          "explanation": "A square has four equal sides, while a rectangle has four equal angles of 90°. Option D is true but incomplete and not parallel."
+        },
+        {
+          "id": 109,
+          "type": "MCQ",
+          "language": {
+            "en": "Polygon is related to Many sides in the same way as Circle is related to:"
+          },
+          "options": {
+            "A": "One curved boundary",
+            "B": "Many vertices",
+            "C": "Many edges",
+            "D": "Straight lines"
+          },
+          "correct_answer": "A",
+          "explanation": "A polygon has many straight sides, while a circle has one continuous curved boundary. The other options do not fit circles."
+        },
+        {
+          "id": 110,
+          "type": "MCQ",
+          "language": {
+            "en": "Rhombus is related to Equal sides in the same way as Rectangle is related to:"
+          },
+          "options": {
+            "A": "Equal diagonals",
+            "B": "Equal angles",
+            "C": "Curved edges",
+            "D": "No diagonals"
+          },
+          "correct_answer": "B",
+          "explanation": "A rhombus has equal sides, while a rectangle has equal angles of 90°. Although rectangles also have equal diagonals, equal angles are the defining parallel property."
+        },
+        {
+          "id": 111,
+          "type": "MCQ",
+          "language": {
+            "en": "Triangle is related to Polygon in the same way as Cube is related to:"
+          },
+          "options": {
+            "A": "Circle",
+            "B": "Solid",
+            "C": "Line",
+            "D": "Plane"
+          },
+          "correct_answer": "B",
+          "explanation": "A triangle is a type of polygon, similarly a cube is a type of solid figure. The other options are unrelated categories."
+        },
+        {
+          "id": 112,
+          "type": "MCQ",
+          "language": {
+            "en": "Sector is related to Circle in the same way as Face is related to:"
+          },
+          "options": {
+            "A": "Sphere",
+            "B": "Cube",
+            "C": "Line",
+            "D": "Angle"
+          },
+          "correct_answer": "B",
+          "explanation": "A sector is a part of a circle, similarly a face is a part of a cube. A sphere has no faces."
+        },
+        {
+          "id": 113,
+          "type": "MCQ",
+          "language": {
+            "en": "Square is related to 4 vertices in the same way as Pentagon is related to:"
+          },
+          "options": {
+            "A": "4 vertices",
+            "B": "5 vertices",
+            "C": "6 vertices",
+            "D": "7 vertices"
+          },
+          "correct_answer": "B",
+          "explanation": "A square has 4 vertices, while a pentagon has 5 vertices. The other counts are incorrect."
+        },
+        {
+          "id": 114,
+          "type": "MCQ",
+          "language": {
+            "en": "Cylinder is related to Circular bases in the same way as Cone is related to:"
+          },
+          "options": {
+            "A": "Square base",
+            "B": "Triangular base",
+            "C": "Circular base",
+            "D": "No base"
+          },
+          "correct_answer": "C",
+          "explanation": "A cylinder has circular bases, and a cone also has a circular base. The other options are geometrically incorrect."
+        },
+        {
+          "id": 115,
+          "type": "MCQ",
+          "language": {
+            "en": "Diagonal is related to Rectangle in the same way as Radius is related to:"
+          },
+          "options": {
+            "A": "Square",
+            "B": "Circle",
+            "C": "Triangle",
+            "D": "Polygon"
+          },
+          "correct_answer": "B",
+          "explanation": "A diagonal is associated with rectangles, similarly a radius is associated with circles. The other shapes do not primarily define radius."
+        },
+        {
+          "id": 116,
+          "type": "MCQ",
+          "language": {
+            "en": "Sphere is related to No edges in the same way as Circle is related to:"
+          },
+          "options": {
+            "A": "No centre",
+            "B": "No radius",
+            "C": "No sides",
+            "D": "No diameter"
+          },
+          "correct_answer": "C",
+          "explanation": "A sphere has no edges, while a circle has no sides. Options A, B, and D are false because circles have centres, radii, and diameters."
+        },
+        {
+          "id": 117,
+          "type": "MCQ",
+          "language": {
+            "en": "Angle is related to Degrees in the same way as Line is related to:"
+          },
+          "options": {
+            "A": "Area",
+            "B": "Length",
+            "C": "Volume",
+            "D": "Mass"
+          },
+          "correct_answer": "B",
+          "explanation": "Angles are measured in degrees, while lines are measured in length. The other quantities are unrelated."
+        },
+        {
+          "id": 118,
+          "type": "MCQ",
+          "language": {
+            "en": "Quadrilateral is related to Four sides in the same way as Triangle is related to:"
+          },
+          "options": {
+            "A": "Two sides",
+            "B": "Three sides",
+            "C": "Five sides",
+            "D": "Six sides"
+          },
+          "correct_answer": "B",
+          "explanation": "A quadrilateral has four sides, while a triangle has three sides. The other options are incorrect."
+        },
+        {
+          "id": 119,
+          "type": "MCQ",
+          "language": {
+            "en": "Cube is related to Faces in the same way as Circle is related to:"
+          },
+          "options": {
+            "A": "Radius",
+            "B": "Centre",
+            "C": "Circumference",
+            "D": "Arc"
+          },
+          "correct_answer": "C",
+          "explanation": "Faces form the boundary surfaces of a cube. Circumference forms the boundary of a circle. Radius and centre are internal properties."
+        },
+        {
+          "id": 120,
+          "type": "MCQ",
+          "language": {
+            "en": "Polygon is related to Closed figure in the same way as Line segment is related to:"
+          },
+          "options": {
+            "A": "Open figure",
+            "B": "Curved figure",
+            "C": "Solid figure",
+            "D": "Circular figure"
+          },
+          "correct_answer": "A",
+          "explanation": "A polygon is a closed figure, while a line segment by itself forms an open figure. The other options are incorrect classifications."
+        }
+      ]
+    }
+  ]
+}
