@@ -1,0 +1,317 @@
+{
+"metadata": {
+"exam_title": "Comprehensive Logical Reasoning - Syllogism Masterclass",
+"total_duration_minutes": 40,
+"version": "1.0",
+"allow_backtrack": true
+},
+"sections": [
+{
+"section_id": "syllogism_reasoning",
+"section_name": "Syllogism",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 1,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nSome keys are locks.\nSome locks are doors.\n\nConclusions:\nI. Some keys are doors.\nII. No key is a door."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Either conclusion I or II follows",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "Both conclusions form a complementary pair (Some + No) sharing the same subject ('keys') and predicate ('doors'). Since the relation between keys and doors is unknown, they cannot both be false simultaneously; one must happen. Hence, either I or II follows."
+},
+{
+"id": 2,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll poets are artists.\nAll artists are dreamers.\n\nConclusions:\nI. All poets are dreamers.\nII. All dreamers are poets."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "Since all poets are artists and all artists are dreamers, the subset of poets is completely contained within dreamers, making conclusion I definitely true. However, dreamers is a larger set containing artists and poets, so we cannot definitively state that all dreamers are poets. Thus, only I follows."
+},
+{
+"id": 3,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nNo rectangle is a square.\nNo square is a circle.\n\nConclusions:\nI. No rectangle is a circle.\nII. Some rectangles are circles."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Either conclusion I or II follows",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "There is no direct correlation given between rectangles and circles. They can either be completely separate (No rectangle is a circle) or they can intersect (Some rectangles are circles). Because this covers all logical possibilities between the two terms, it creates an 'either-or' scenario."
+},
+{
+"id": 4,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nOnly a few tablets are laptops.\nAll laptops are computers.\n\nConclusions:\nI. Some tablets are not laptops.\nII. Some tablets are computers."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "The phrase 'Only a few' implies both 'Some' and 'Some not'. Therefore, 'Some tablets are not laptops' is definitely true (Conclusion I follows). Since some tablets are laptops, and all laptops are computers, those overlapping tablets must also be computers (Conclusion II follows)."
+},
+{
+"id": 5,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll papers are books.\nSome books are files.\n\nConclusions:\nI. Some papers are files.\nII. No paper is a file."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Either conclusion I or II follows",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "The connection between papers and files is unspecified in the statements. They may intersect or they may remain independent. Because Conclusions I and II represent a complementary pair ('Some' and 'No') for identical terms, either one or the other must be correct."
+},
+{
+"id": 6,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nNo blue is green.\nSome green are pink.\n\nConclusions:\nI. Some pink are not blue.\nII. All pink can be blue."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "The part of pink that is green can never be blue because no green is blue. Therefore, 'Some pink are not blue' is definitely true. Because of this restriction, it is impossible for all pink to be blue, meaning II does not follow."
+},
+{
+"id": 7,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nOnly mangoes are apples.\nSome mangoes are sweet.\n\nConclusions:\nI. Some apples being sweet is a possibility.\nII. No apple is sweet."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "'Only mangoes are apples' mathematically converts to 'All apples are mangoes' with an exclusive condition: apples cannot belong to any other set besides mangoes. Therefore, apples can never be sweet, which means any possibility of intersection is false. Conclusion II is definitely true."
+},
+{
+"id": 8,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll trucks are vans.\nNo van is a car.\n\nConclusions:\nI. No truck is a car.\nII. No car is a truck."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "Since all trucks are inside vans, and the entire set of vans is isolated from cars, trucks cannot interact with cars. Thus, 'No truck is a car' is valid. By conversion, 'No car is a truck' is also true. Both conclusions follow."
+},
+{
+"id": 9,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nSome stars are planets.\nAll planets are galaxies.\n\nConclusions:\nI. All galaxies are planets.\nII. Some galaxies are stars."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "All planets are inside galaxies, but galaxies might contain other elements, so 'All galaxies are planets' is not definitively true. However, since planets overlap with stars, and all planets are galaxies, galaxies must overlap with stars. Thus, II follows."
+},
+{
+"id": 10,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nOnly a few cities are towns.\nNo town is a village.\n\nConclusions:\nI. All cities can never be villages.\nII. Some cities are not towns."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "The 'Only a few' condition ensures that some cities are towns and some cities are not towns (so II is true). The cities that are inside towns cannot be villages because no town is a village. Therefore, it's impossible for all cities to migrate into villages, making conclusion I true."
+},
+{
+"id": 11,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nSome pens are pencils.\nSome pencils are erasers.\nAll erasers are markers.\n\nConclusions:\nI. Some pencils are markers.\nII. Some pens are erasers."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "Since some pencils are erasers and all erasers are markers, the part of pencils that intersects with erasers must also intersect with markers, so I follows. There is no direct connection established between pens and erasers, so II does not follow."
+},
+{
+"id": 12,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll chairs are tables.\nNo table is a bench.\n\nConclusions:\nI. All benches being chairs is a possibility.\nII. Some tables are chairs."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "Because no table is a bench, and all chairs are inside tables, no chair can ever be a bench. Hence, conclusion I is completely impossible. Since all chairs are tables, the inverse statement 'Some tables are chairs' must logically hold true. Thus, only II follows."
+},
+{
+"id": 13,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll lions are tigers.\nSome tigers are leopards.\nNo leopard is a cheetah.\n\nConclusions:\nI. Some tigers are not cheetahs.\nII. Some lions are leopards."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "The part of the tiger set that overlaps with leopards cannot be cheetahs because no leopard is a cheetah. Therefore, 'Some tigers are not cheetahs' is definitely valid. No relationship is given between lions and leopards, so II does not follow."
+},
+{
+"id": 14,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nOnly a few structural components are beams.\nNo beam is a pillar.\n\nConclusions:\nI. All structural components can be pillars.\nII. Some structural components are not pillars."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "The phrase 'Only a few structural components are beams' implies that some structural components are definitely inside the beam set. Since no beam is a pillar, those shared structural components cannot be pillars. Thus, 'Some structural components are not pillars' is true (II follows), and 'All structural components can be pillars' is impossible (I fails)."
+},
+{
+"id": 15,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll gold are silver.\nAll silver are platinum.\nNo platinum is diamond.\n\nConclusions:\nI. No gold is diamond.\nII. All silver being diamond is a possibility."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "Gold is entirely contained within silver, which is entirely contained within platinum. Since the outer ring (platinum) has no intersection with diamond, everything inside it (silver and gold) is also isolated from diamond. Therefore, I is true and II is impossible."
+},
+{
+"id": 16,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nSome red are black.\nSome black are yellow.\nNo yellow is pink.\n\nConclusions:\nI. Some black are not pink.\nII. Some red are yellow."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "The segment of black that intersects with yellow cannot belong to the pink set because no yellow is pink. This guarantees that 'Some black are not pink' is correct. There is no structural link forcing red and yellow to intersect, so II is not definitely true."
+},
+{
+"id": 17,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nOnly a few clocks are watches.\nNo watch is a wall_clock.\n\nConclusions:\nI. All clocks being wall_clocks is a possibility.\nII. All wall_clocks being clocks is a possibility."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "Because 'Only a few clocks are watches', some clocks are watches. These clocks cannot be wall_clocks since no watch is a wall_clock. Thus, all clocks can never be wall_clocks (I is invalid). However, the entire set of wall_clocks can enter the non-watch part of clocks, so II is a valid possibility."
+},
+{
+"id": 18,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll rivers are oceans.\nSome oceans are seas.\nNo sea is a lake.\n\nConclusions:\nI. No river is a lake.\nII. Some rivers are lakes."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Either conclusion I or II follows",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "C",
+"explanation": "There is no definitive link provided between rivers and lakes. They may either be entirely separated or have a partial overlap. Since conclusions I and II comprise a complementary pair ('No' and 'Some') tracking identical items, it satisfies the strict criteria for an 'either-or' case."
+},
+{
+"id": 19,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nSome apples are bananas.\nNo banana is a cherry.\n\nConclusions:\nI. Some apples are not cherries.\nII. Some cherries are not apples."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "A",
+"explanation": "The portion of apples that overlaps with bananas cannot be cherries because no banana is a cherry. Thus, 'Some apples are not cherries' must be true. However, the rest of the cherry set could potentially sit inside the independent portion of apples, so 'Some cherries are not apples' cannot be definitively inferred."
+},
+{
+"id": 20,
+"type": "MCQ",
+"language": {
+"en": "Statements:\nAll squares are rhombuses.\nAll rhombuses are polygons.\n\nConclusions:\nI. All polygons are squares.\nII. At least some polygons are rhombuses."
+},
+"options": {
+"A": "Only conclusion I follows",
+"B": "Only conclusion II follows",
+"C": "Both conclusions I and II follow",
+"D": "Neither conclusion I nor II follows"
+},
+"correct_answer": "B",
+"explanation": "Since all rhombuses are polygons, the region occupied by rhombuses represents a portion of the polygon set. Thus, 'At least some polygons are rhombuses' is definitely true. We cannot say all polygons are squares, as squares are an inner nested subset. Hence, only II follows."
+}
+]
+}
+]
+}
