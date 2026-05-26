@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-26",
-  "total": 3,
+  "total": 4,
   "skipped": [],
   "exams": [
     {
@@ -11,6 +11,15 @@
       "version": "1.0",
       "path": "Reasoning/Verbal Reasoning/Analogy/exc_set01.json",
       "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Analogy/exc_set01.json"
+    },
+    {
+      "title": "Reasoning: Analogy",
+      "category": "Reasoning",
+      "questions": 120,
+      "duration_minutes": 90,
+      "version": "2.0",
+      "path": "Reasoning/Verbal Reasoning/Analogy/exc_set02.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Analogy/exc_set02.json"
     },
     {
       "title": "UPGDC Assistant Professor —: Sociology: Contemporary Power and Surveillance, Globalization and Macro-Sociology, Deviance and Social Control, The Sociology of Religion, Social Mobility and Structural Barriers",
