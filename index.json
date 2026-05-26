@@ -1,17 +1,8 @@
 {
   "last_updated": "2026-05-26",
-  "total": 3,
+  "total": 2,
   "skipped": [],
   "exams": [
-    {
-      "title": "Comprehensive Logical Reasoning - Syllogism Masterclass",
-      "category": "Reasoning",
-      "questions": 20,
-      "duration_minutes": 40,
-      "version": "1.0",
-      "path": "Reasoning/Verbal/Syllogism/practice01.json",
-      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal/Syllogism/practice01.json"
-    },
     {
       "title": "UPGDC Assistant Professor —: Sociology: Contemporary Power and Surveillance, Globalization and Macro-Sociology, Deviance and Social Control, The Sociology of Religion, Social Mobility and Structural Barriers",
       "category": "Sociology",
