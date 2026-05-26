@@ -1,8 +1,17 @@
 {
-  "last_updated": "2026-05-25",
-  "total": 3,
+  "last_updated": "2026-05-26",
+  "total": 4,
   "skipped": [],
   "exams": [
+    {
+      "title": "Comprehensive Logical Reasoning - Syllogism Masterclass",
+      "category": "Reasoning",
+      "questions": 20,
+      "duration_minutes": 40,
+      "version": "1.0",
+      "path": "Reasoning/Syllogism/practice01.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Syllogism/practice01.json"
+    },
     {
       "title": "Competitive Examination Question Bank - Reasoning: Blood Relations",
       "category": "Reasoning",
