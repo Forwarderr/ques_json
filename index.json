@@ -40,11 +40,11 @@
       "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Classification/clf_set01.json"
     },
     {
-      "title": "SSC — Reasoning: Classification (odd one out)",
+      "title": "Reasoning: Classification (odd one out)",
       "category": "Reasoning",
       "questions": 80,
-      "duration_minutes": 160,
-      "version": "1.0",
+      "duration_minutes": 80,
+      "version": "2.0",
       "path": "Reasoning/Verbal Reasoning/Classification/clf_set02.json",
       "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Classification/clf_set02.json"
     },
