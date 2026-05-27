@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-27",
-  "total": 6,
+  "total": 7,
   "skipped": [],
   "exams": [
     {
@@ -38,6 +38,15 @@
       "version": "1.0",
       "path": "Reasoning/Verbal Reasoning/Classification/clf_set01.json",
       "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Classification/clf_set01.json"
+    },
+    {
+      "title": "SSC — Reasoning: Classification (odd one out)",
+      "category": "Reasoning",
+      "questions": 80,
+      "duration_minutes": 160,
+      "version": "1.0",
+      "path": "Reasoning/Verbal Reasoning/Classification/clf_set02.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Classification/clf_set02.json"
     },
     {
       "title": "UPGDC Assistant Professor —: Sociology: Contemporary Power and Surveillance, Globalization and Macro-Sociology, Deviance and Social Control, The Sociology of Religion, Social Mobility and Structural Barriers",
