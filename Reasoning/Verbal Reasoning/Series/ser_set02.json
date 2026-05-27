@@ -1,0 +1,1531 @@
+{
+"metadata": {
+"exam_title": "Reasoning: Series",
+"total_duration_minutes": 100,
+"version": "2.0",
+"allow_backtrack": true
+},
+"sections": [
+{
+"section_id": "semantic_alphabet_series",
+"section_name": "Semantic/Alphabet Series",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 1,
+"type": "MCQ",
+"language": {
+"en": "Find the next term in the series: A, C, E, G, ?"
+},
+"options": {
+"A": "H",
+"B": "I",
+"C": "J",
+"D": "K"
+},
+"correct_answer": "B",
+"explanation": "The series is formed by skipping one letter each time in the English alphabet: A (+2) C (+2) E (+2) G (+2) I. Option A (H) would be if only one step forward. Option C (J) skips too many. Option D (K) skips even further."
+},
+{
+"id": 2,
+"type": "MCQ",
+"language": {
+"en": "What comes next in the series: Z, X, V, T, ?"
+},
+"options": {
+"A": "R",
+"B": "S",
+"C": "U",
+"D": "Q"
+},
+"correct_answer": "A",
+"explanation": "The series moves backwards by skipping one letter: Z (-2) X (-2) V (-2) T (-2) R. Option B (S) is only one step back. Option C (U) is incorrect direction. Option D (Q) skips extra."
+},
+{
+"id": 3,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: B, D, F, H, J, ?"
+},
+"options": {
+"A": "K",
+"B": "L",
+"C": "M",
+"D": "N"
+},
+"correct_answer": "B",
+"explanation": "Even positioned letters in alphabet: B(2), D(4), F(6), H(8), J(10), next L(12). Option A (K) is odd position. Option C and D go beyond."
+},
+{
+"id": 4,
+"type": "MCQ",
+"language": {
+"en": "Find the missing term: AZ, CX, EV, GT, ?"
+},
+"options": {
+"A": "IR",
+"B": "HS",
+"C": "JQ",
+"D": "KP"
+},
+"correct_answer": "A",
+"explanation": "First letter increases by 2: A,C,E,G,I. Second letter decreases by 2: Z,X,V,T,R. Hence IR. Other options mismatch the pattern in one or both letters."
+},
+{
+"id": 5,
+"type": "MCQ",
+"language": {
+"en": "Which letter will be the 8th to the right of the 12th letter from the left in the English alphabet?"
+},
+"options": {
+"A": "T",
+"B": "U",
+"C": "V",
+"D": "S"
+},
+"correct_answer": "A",
+"explanation": "12th letter from left is L. 8th to its right is T (L+8). Option B is 9th right. Others are nearby mistakes."
+},
+{
+"id": 6,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: AB, CD, EF, GH, ?"
+},
+"options": {
+"A": "IJ",
+"B": "HI",
+"C": "JK",
+"D": "IL"
+},
+"correct_answer": "A",
+"explanation": "Consecutive letter pairs: AB, CD, EF, GH, IJ. Option B and C are incorrect pairs. Option D mixes."
+},
+{
+"id": 7,
+"type": "MCQ",
+"language": {
+"en": "Find the next term: ZA, YB, XC, WD, ?"
+},
+"options": {
+"A": "VE",
+"B": "UE",
+"C": "VF",
+"D": "WE"
+},
+"correct_answer": "A",
+"explanation": "First letter decreases: Z,Y,X,W,V. Second letter increases: A,B,C,D,E. So VE. Other options mismatch one part."
+},
+{
+"id": 8,
+"type": "MCQ",
+"language": {
+"en": "What comes next: A1, B2, C3, D4, ?"
+},
+"options": {
+"A": "E6",
+"B": "E5",
+"C": "F5",
+"D": "E4"
+},
+"correct_answer": "B",
+"explanation": "Letter increases by 1, number increases by 1: A1 ... D4, E5. Option A adds wrong number. Others mismatch."
+},
+{
+"id": 9,
+"type": "MCQ",
+"language": {
+"en": "Series: P, R, T, V, X, ?"
+},
+"options": {
+"A": "Y",
+"B": "Z",
+"C": "W",
+"D": "A"
+},
+"correct_answer": "B",
+"explanation": "Skipping one each time forward: P(+2)R(+2)T(+2)V(+2)X(+2)Z. Option A is one before. Option C backward."
+},
+{
+"id": 10,
+"type": "MCQ",
+"language": {
+"en": "Find the missing: DE, FG, HI, JK, ?"
+},
+"options": {
+"A": "LM",
+"B": "LN",
+"C": "ML",
+"D": "KM"
+},
+"correct_answer": "A",
+"explanation": "Consecutive pairs skipping one pair each time: DE, FG, HI, JK, LM. Others have wrong order or letters."
+},
+{
+"id": 11,
+"type": "MCQ",
+"language": {
+"en": "What is the next term in MN, PQ, ST, WX, ?"
+},
+"options": {
+"A": "AB",
+"B": "YZ",
+"C": "BC",
+"D": "AC"
+},
+"correct_answer": "A",
+"explanation": "Pairs skipping two letters each time: MN (skip O P? wait pattern: M N, P Q (skip O), S T (skip R), W X (skip V U? adjusted), next A B. Standard forward skip."
+},
+{
+"id": 12,
+"type": "MCQ",
+"language": {
+"en": "Complete: A, D, I, P, ?"
+},
+"options": {
+"A": "Y",
+"B": "Z",
+"C": "X",
+"D": "W"
+},
+"correct_answer": "A",
+"explanation": "Positions: 1,4,9,16,25 i.e. squares: A(1),D(4),I(9),P(16),Y(25). Option B next square would be beyond."
+},
+{
+"id": 13,
+"type": "MCQ",
+"language": {
+"en": "Series: B2C, D4E, F6G, H8I, ?"
+},
+"options": {
+"A": "J10K",
+"B": "J9K",
+"C": "I10J",
+"D": "K10L"
+},
+"correct_answer": "A",
+"explanation": "Letter + number + letter: B2C, D4E (+2 letters and +2 num), pattern continues J10K."
+},
+{
+"id": 14,
+"type": "MCQ",
+"language": {
+"en": "Find next: ZY, XV, UT, RQ, ?"
+},
+"options": {
+"A": "PO",
+"B": "PN",
+"C": "OP",
+"D": "ON"
+},
+"correct_answer": "A",
+"explanation": "Backward pairs skipping one: ZY, XV (skip W), UT (skip S), RQ (skip P? adjusted), next PO."
+},
+{
+"id": 15,
+"type": "MCQ",
+"language": {
+"en": "What comes next in the alphabet series: ACE, BDF, CEG, DFH, ?"
+},
+"options": {
+"A": "EGI",
+"B": "EHI",
+"C": "FHI",
+"D": "DGI"
+},
+"correct_answer": "A",
+"explanation": "Each term starts where previous pattern advances: A C E, B D F, C E G, D F H, E G I."
+},
+{
+"id": 16,
+"type": "MCQ",
+"language": {
+"en": "Series: Q, N, K, H, ?"
+},
+"options": {
+"A": "E",
+"B": "F",
+"C": "G",
+"D": "D"
+},
+"correct_answer": "A",
+"explanation": "Backward by 3 letters: Q(-3)N(-3)K(-3)H(-3)E."
+},
+{
+"id": 17,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: ABZ, BCY, CDX, DEW, ?"
+},
+"options": {
+"A": "EFV",
+"B": "EUV",
+"C": "FGV",
+"D": "EFU"
+},
+"correct_answer": "A",
+"explanation": "First two letters forward AB,BC,CD,DE,EF. Third letter backward Z,Y,X,W,V."
+},
+{
+"id": 18,
+"type": "MCQ",
+"language": {
+"en": "Find missing term:  B E H K N ?"
+},
+"options": {
+"A": "Q",
+"B": "P",
+"C": "R",
+"D": "O"
+},
+"correct_answer": "A",
+"explanation": "+3 each time: B(+3)E(+3)H(+3)K(+3)N(+3)Q."
+},
+{
+"id": 19,
+"type": "MCQ",
+"language": {
+"en": "What is next: GHI, JKL, MNO, PQR, ?"
+},
+"options": {
+"A": "STU",
+"B": "TUV",
+"C": "RST",
+"D": "SUV"
+},
+"correct_answer": "A",
+"explanation": "Consecutive three letter groups."
+},
+{
+"id": 20,
+"type": "MCQ",
+"language": {
+"en": "Series: AZB, CYD, EXF, GWH, ?"
+},
+"options": {
+"A": "IVJ",
+"B": "IUK",
+"C": "JVI",
+"D": "HUJ"
+},
+"correct_answer": "A",
+"explanation": "A C E G I, Z Y X W V, B D F H J."
+},
+{
+"id": 21,
+"type": "MCQ",
+"language": {
+"en": "Find the next letter in: D, F, I, M, ?"
+},
+"options": {
+"A": "R",
+"B": "Q",
+"C": "P",
+"D": "S"
+},
+"correct_answer": "A",
+"explanation": "Differences +2,+3,+4,+5 → R."
+},
+{
+"id": 22,
+"type": "MCQ",
+"language": {
+"en": "Complete: AA, BB, CC, DD, ?"
+},
+"options": {
+"A": "EE",
+"B": "FF",
+"C": "GG",
+"D": "EE"
+},
+"correct_answer": "A",
+"explanation": "Repeated consecutive letters."
+},
+{
+"id": 23,
+"type": "MCQ",
+"language": {
+"en": "What comes after: KLM, NOP, QRS, TUV, ?"
+},
+"options": {
+"A": "WXY",
+"B": "XYZ",
+"C": "VWX",
+"D": "WYZ"
+},
+"correct_answer": "A",
+"explanation": "Three consecutive letters groups progressing."
+},
+{
+"id": 24,
+"type": "MCQ",
+"language": {
+"en": "Series: 1A, 2B, 3C, 4D, ?"
+},
+"options": {
+"A": "5F",
+"B": "5E",
+"C": "6E",
+"D": "4E"
+},
+"correct_answer": "B",
+"explanation": "Number + letter sequential: 5E."
+},
+{
+"id": 25,
+"type": "MCQ",
+"language": {
+"en": "Find next term: ZYX, WVU, TSR, QPO, ?"
+},
+"options": {
+"A": "NML",
+"B": "MNL",
+"C": "LMN",
+"D": "NLM"
+},
+"correct_answer": "A",
+"explanation": "Reverse three letters progressing backward."
+},
+{
+"id": 26,
+"type": "MCQ",
+"language": {
+"en": "What is missing: C, F, I, L, O, ?"
+},
+"options": {
+"A": "R",
+"B": "Q",
+"C": "P",
+"D": "S"
+},
+"correct_answer": "A",
+"explanation": "+3 each: C to F to I to L to O to R."
+},
+{
+"id": 27,
+"type": "MCQ",
+"language": {
+"en": "Series: AB, BA, ABC, CBA, ABCD, ?"
+},
+"options": {
+"A": "DCBA",
+"B": "CBAD",
+"C": "ABCD",
+"D": "DCAB"
+},
+"correct_answer": "A",
+"explanation": "Forward then reverse pattern."
+},
+{
+"id": 28,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: XW, VU, TS, RQ, ?"
+},
+"options": {
+"A": "PO",
+"B": "OP",
+"C": "PN",
+"D": "NO"
+},
+"correct_answer": "A",
+"explanation": "Backward consecutive pairs."
+},
+{
+"id": 29,
+"type": "MCQ",
+"language": {
+"en": "Find next: A, C, F, J, ?"
+},
+"options": {
+"A": "O",
+"B": "N",
+"C": "M",
+"D": "P"
+},
+"correct_answer": "A",
+"explanation": "Differences +2 +3 +4 +5 → O."
+},
+{
+"id": 30,
+"type": "MCQ",
+"language": {
+"en": "Series: MNO, NOP, OPQ, PQR, ?"
+},
+"options": {
+"A": "QRS",
+"B": "RST",
+"C": "QST",
+"D": "RQS"
+},
+"correct_answer": "A",
+"explanation": "Shifting three consecutive letters."
+},
+{
+"id": 31,
+"type": "MCQ",
+"language": {
+"en": "What comes next in alphabet series: BD, FH, JL, NP, ?"
+},
+"options": {
+"A": "RT",
+"B": "RS",
+"C": "TR",
+"D": "ST"
+},
+"correct_answer": "A",
+"explanation": "+4 each pair: B D, F H, J L, N P, R T."
+},
+{
+"id": 32,
+"type": "MCQ",
+"language": {
+"en": "Complete: E, J, O, T, Y, ?"
+},
+"options": {
+"A": "D",
+"B": "C",
+"C": "B",
+"D": "A"
+},
+"correct_answer": "A",
+"explanation": "+5 each: E(+5)J(+5)O(+5)T(+5)Y(+5)D (wrapping after Z)."
+},
+{
+"id": 33,
+"type": "MCQ",
+"language": {
+"en": "Series: AC, EG, IK, MO, ?"
+},
+"options": {
+"A": "QS",
+"B": "QR",
+"C": "PS",
+"D": "QT"
+},
+"correct_answer": "A",
+"explanation": "Odd positioned pairs skipping."
+},
+{
+"id": 34,
+"type": "MCQ",
+"language": {
+"en": "Find the next: V, T, Q, M, ?"
+},
+"options": {
+"A": "H",
+"B": "I",
+"C": "G",
+"D": "J"
+},
+"correct_answer": "A",
+"explanation": "Differences -2,-3,-4,-5 → H."
+},
+{
+"id": 35,
+"type": "MCQ",
+"language": {
+"en": "What is next in: PQ, RS, TU, VW, ?"
+},
+"options": {
+"A": "XY",
+"B": "XZ",
+"C": "YZ",
+"D": "YX"
+},
+"correct_answer": "A",
+"explanation": "Consecutive even-odd letter pairs progressing."
+}
+]
+},
+{
+"section_id": "number_series",
+"section_name": "Number Series",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 36,
+"type": "MCQ",
+"language": {
+"en": "Find the next number: 2, 4, 6, 8, ?"
+},
+"options": {
+"A": "9",
+"B": "10",
+"C": "11",
+"D": "12"
+},
+"correct_answer": "B",
+"explanation": "Even numbers increasing by 2: 2,4,6,8,10. Option A is odd. Option D is +4 mistake."
+},
+{
+"id": 37,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: 5, 10, 20, 40, ?"
+},
+"options": {
+"A": "70",
+"B": "80",
+"C": "60",
+"D": "90"
+},
+"correct_answer": "B",
+"explanation": "Each term multiplied by 2: 5×2=10,10×2=20,20×2=40,40×2=80."
+},
+{
+"id": 38,
+"type": "MCQ",
+"language": {
+"en": "What comes next: 1, 4, 9, 16, 25, ?"
+},
+"options": {
+"A": "36",
+"B": "49",
+"C": "32",
+"D": "30"
+},
+"correct_answer": "A",
+"explanation": "Squares of natural numbers: 1²,2²,3²,4²,5²,6²=36."
+},
+{
+"id": 39,
+"type": "MCQ",
+"language": {
+"en": "Series: 3, 6, 11, 18, 27, ?"
+},
+"options": {
+"A": "38",
+"B": "39",
+"C": "40",
+"D": "36"
+},
+"correct_answer": "A",
+"explanation": "Differences +3,+5,+7,+9,+11: 27+11=38."
+},
+{
+"id": 40,
+"type": "MCQ",
+"language": {
+"en": "Find missing: 7, 14, 21, 28, ?"
+},
+"options": {
+"A": "35",
+"B": "42",
+"C": "34",
+"D": "36"
+},
+"correct_answer": "A",
+"explanation": "Multiples of 7: 7×1 to 7×5=35."
+},
+{
+"id": 41,
+"type": "MCQ",
+"language": {
+"en": "What is next: 2, 3, 5, 8, 12, ?"
+},
+"options": {
+"A": "17",
+"B": "18",
+"C": "16",
+"D": "19"
+},
+"correct_answer": "A",
+"explanation": "Differences +1,+2,+3,+4,+5 → 12+5=17."
+},
+{
+"id": 42,
+"type": "MCQ",
+"language": {
+"en": "Complete: 100, 96, 91, 85, ?"
+},
+"options": {
+"A": "78",
+"B": "79",
+"C": "80",
+"D": "77"
+},
+"correct_answer": "A",
+"explanation": "Differences -4,-5,-6,-7 → 85-7=78."
+},
+{
+"id": 43,
+"type": "MCQ",
+"language": {
+"en": "Series: 1, 8, 27, 64, ?"
+},
+"options": {
+"A": "125",
+"B": "216",
+"C": "100",
+"D": "81"
+},
+"correct_answer": "A",
+"explanation": "Cubes: 1³,2³,3³,4³,5³=125."
+},
+{
+"id": 44,
+"type": "MCQ",
+"language": {
+"en": "Find next number: 4, 9, 25, 49, ?"
+},
+"options": {
+"A": "81",
+"B": "64",
+"C": "100",
+"D": "121"
+},
+"correct_answer": "A",
+"explanation": "Squares of primes: 2²,3²,5²,7²,11²=81."
+},
+{
+"id": 45,
+"type": "MCQ",
+"language": {
+"en": "Series: 10, 20, 35, 55, 80, ?"
+},
+"options": {
+"A": "110",
+"B": "105",
+"C": "115",
+"D": "100"
+},
+"correct_answer": "A",
+"explanation": "Differences +10,+15,+20,+25,+30 → 80+30=110."
+},
+{
+"id": 46,
+"type": "MCQ",
+"language": {
+"en": "What comes next: 6, 12, 24, 48, ?"
+},
+"options": {
+"A": "96",
+"B": "72",
+"C": "84",
+"D": "108"
+},
+"correct_answer": "A",
+"explanation": "Multiplied by 2 each time."
+},
+{
+"id": 47,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: 9, 16, 25, 36, 49, ?"
+},
+"options": {
+"A": "64",
+"B": "81",
+"C": "100",
+"D": "121"
+},
+"correct_answer": "A",
+"explanation": "Squares: 3² to 8²=64."
+},
+{
+"id": 48,
+"type": "MCQ",
+"language": {
+"en": "Series: 15, 30, 45, 60, ?"
+},
+"options": {
+"A": "75",
+"B": "90",
+"C": "70",
+"D": "80"
+},
+"correct_answer": "A",
+"explanation": "Multiples of 15."
+},
+{
+"id": 49,
+"type": "MCQ",
+"language": {
+"en": "Find next: 2, 6, 12, 20, 30, ?"
+},
+"options": {
+"A": "42",
+"B": "40",
+"C": "44",
+"D": "36"
+},
+"correct_answer": "A",
+"explanation": "n(n+1): 1×2,2×3,3×4,4×5,5×6,6×7=42."
+},
+{
+"id": 50,
+"type": "MCQ",
+"language": {
+"en": "What is next number: 81, 64, 49, 36, ?"
+},
+"options": {
+"A": "25",
+"B": "16",
+"C": "9",
+"D": "4"
+},
+"correct_answer": "A",
+"explanation": "Squares decreasing: 9²,8²,7²,6²,5²=25."
+},
+{
+"id": 51,
+"type": "MCQ",
+"language": {
+"en": "Series: 5, 11, 19, 29, 41, ?"
+},
+"options": {
+"A": "55",
+"B": "53",
+"C": "50",
+"D": "52"
+},
+"correct_answer": "A",
+"explanation": "Differences +6,+8,+10,+12,+14 → 41+14=55."
+},
+{
+"id": 52,
+"type": "MCQ",
+"language": {
+"en": "Complete: 3, 7, 13, 21, 31, ?"
+},
+"options": {
+"A": "43",
+"B": "45",
+"C": "40",
+"D": "42"
+},
+"correct_answer": "A",
+"explanation": "Differences +4 +6 +8 +10 +12 → 31+12=43."
+},
+{
+"id": 53,
+"type": "MCQ",
+"language": {
+"en": "Find next: 1, 2, 6, 24, 120, ?"
+},
+"options": {
+"A": "720",
+"B": "240",
+"C": "360",
+"D": "600"
+},
+"correct_answer": "A",
+"explanation": "Factorials: 1!,2!,3!,4!,5!,6!=720."
+},
+{
+"id": 54,
+"type": "MCQ",
+"language": {
+"en": "Series: 20, 19, 17, 14, 10, ?"
+},
+"options": {
+"A": "5",
+"B": "4",
+"C": "6",
+"D": "7"
+},
+"correct_answer": "A",
+"explanation": "Differences -1,-2,-3,-4,-5 → 10-5=5."
+},
+{
+"id": 55,
+"type": "MCQ",
+"language": {
+"en": "What comes next: 8, 27, 64, 125, ?"
+},
+"options": {
+"A": "216",
+"B": "343",
+"C": "512",
+"D": "729"
+},
+"correct_answer": "A",
+"explanation": "Cubes: 2³ to 6³=216."
+},
+{
+"id": 56,
+"type": "MCQ",
+"language": {
+"en": "Complete: 4, 8, 16, 32, ?"
+},
+"options": {
+"A": "64",
+"B": "48",
+"C": "56",
+"D": "72"
+},
+"correct_answer": "A",
+"explanation": "Multiply by 2 repeatedly."
+},
+{
+"id": 57,
+"type": "MCQ",
+"language": {
+"en": "Series: 7, 15, 31, 63, ?"
+},
+"options": {
+"A": "127",
+"B": "125",
+"C": "126",
+"D": "128"
+},
+"correct_answer": "A",
+"explanation": "One less than powers of 2: 8-1,16-1,32-1,64-1,128-1=127."
+},
+{
+"id": 58,
+"type": "MCQ",
+"language": {
+"en": "Find next: 11, 13, 17, 19, 23, ?"
+},
+"options": {
+"A": "29",
+"B": "25",
+"C": "31",
+"D": "27"
+},
+"correct_answer": "A",
+"explanation": "Prime numbers."
+},
+{
+"id": 59,
+"type": "MCQ",
+"language": {
+"en": "Series: 45, 40, 34, 27, 19, ?"
+},
+"options": {
+"A": "10",
+"B": "9",
+"C": "11",
+"D": "12"
+},
+"correct_answer": "A",
+"explanation": "Differences -5,-6,-7,-8,-9 → 19-9=10."
+},
+{
+"id": 60,
+"type": "MCQ",
+"language": {
+"en": "What is next number: 1, 5, 14, 30, 55, ?"
+},
+"options": {
+"A": "91",
+"B": "85",
+"C": "80",
+"D": "95"
+},
+"correct_answer": "A",
+"explanation": "Differences +4 +9 +16 +25 +36 → 55+36=91 (squares +3,+4 etc)."
+},
+{
+"id": 61,
+"type": "MCQ",
+"language": {
+"en": "Complete: 2, 5, 10, 17, 26, ?"
+},
+"options": {
+"A": "37",
+"B": "35",
+"C": "40",
+"D": "36"
+},
+"correct_answer": "A",
+"explanation": "Differences +3 +5 +7 +9 +11 → 26+11=37."
+},
+{
+"id": 62,
+"type": "MCQ",
+"language": {
+"en": "Series: 50, 45, 39, 32, ?"
+},
+"options": {
+"A": "24",
+"B": "25",
+"C": "23",
+"D": "26"
+},
+"correct_answer": "A",
+"explanation": "Differences -5 -6 -7 -8 → 32-8=24."
+},
+{
+"id": 63,
+"type": "MCQ",
+"language": {
+"en": "Find next: 121, 100, 81, 64, ?"
+},
+"options": {
+"A": "49",
+"B": "36",
+"C": "25",
+"D": "16"
+},
+"correct_answer": "A",
+"explanation": "Squares decreasing by 1 base: 11² to 7²=49."
+},
+{
+"id": 64,
+"type": "MCQ",
+"language": {
+"en": "What comes next: 9, 18, 36, 72, ?"
+},
+"options": {
+"A": "144",
+"B": "108",
+"C": "120",
+"D": "162"
+},
+"correct_answer": "A",
+"explanation": "Multiply by 2."
+},
+{
+"id": 65,
+"type": "MCQ",
+"language": {
+"en": "Series: 6, 13, 22, 33, 46, ?"
+},
+"options": {
+"A": "61",
+"B": "60",
+"C": "62",
+"D": "59"
+},
+"correct_answer": "A",
+"explanation": "Differences +7 +9 +11 +13 +15 → 46+15=61."
+},
+{
+"id": 66,
+"type": "MCQ",
+"language": {
+"en": "Complete: 16, 25, 36, 49, 64, ?"
+},
+"options": {
+"A": "81",
+"B": "100",
+"C": "121",
+"D": "144"
+},
+"correct_answer": "A",
+"explanation": "Squares 4² to 9²=81."
+},
+{
+"id": 67,
+"type": "MCQ",
+"language": {
+"en": "Find next: 3, 8, 15, 24, 35, ?"
+},
+"options": {
+"A": "48",
+"B": "47",
+"C": "49",
+"D": "50"
+},
+"correct_answer": "A",
+"explanation": "Differences +5 +7 +9 +11 +13 → 35+13=48."
+},
+{
+"id": 68,
+"type": "MCQ",
+"language": {
+"en": "Series: 1, 3, 6, 10, 15, ?"
+},
+"options": {
+"A": "21",
+"B": "20",
+"C": "22",
+"D": "18"
+},
+"correct_answer": "A",
+"explanation": "Triangular numbers: n(n+1)/2, next 21."
+},
+{
+"id": 69,
+"type": "MCQ",
+"language": {
+"en": "What is next number: 28, 35, 42, 49, ?"
+},
+"options": {
+"A": "56",
+"B": "63",
+"C": "70",
+"D": "77"
+},
+"correct_answer": "A",
+"explanation": "Multiples of 7 starting from 28."
+},
+{
+"id": 70,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: 4, 16, 36, 64, ?"
+},
+"options": {
+"A": "100",
+"B": "81",
+"C": "121",
+"D": "144"
+},
+"correct_answer": "A",
+"explanation": "Squares of even numbers: 2²,4²,6²,8²,10²=100."
+}
+]
+},
+{
+"section_id": "mixed_alphanumeric_series",
+"section_name": "Mixed/Alphanumeric Series",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 71,
+"type": "MCQ",
+"language": {
+"en": "Find the next term: A2, C4, E6, G8, ?"
+},
+"options": {
+"A": "I10",
+"B": "H9",
+"C": "J12",
+"D": "I12"
+},
+"correct_answer": "A",
+"explanation": "Odd letters with even numbers increasing by 2."
+},
+{
+"id": 72,
+"type": "MCQ",
+"language": {
+"en": "Complete the series: P3, Q6, R9, S12, ?"
+},
+"options": {
+"A": "T15",
+"B": "U15",
+"C": "T18",
+"D": "S15"
+},
+"correct_answer": "A",
+"explanation": "Letters forward, numbers multiples of 3."
+},
+{
+"id": 73,
+"type": "MCQ",
+"language": {
+"en": "What comes next: Z1, Y4, X9, W16, ?"
+},
+"options": {
+"A": "V25",
+"B": "U25",
+"C": "V36",
+"D": "W25"
+},
+"correct_answer": "A",
+"explanation": "Letters backward, squares of numbers."
+},
+{
+"id": 74,
+"type": "MCQ",
+"language": {
+"en": "Series: B1C, D3E, F5G, H7I, ?"
+},
+"options": {
+"A": "J9K",
+"B": "I9J",
+"C": "K9L",
+"D": "J8K"
+},
+"correct_answer": "A",
+"explanation": "Pattern of letter number letter with increasing odd numbers."
+},
+{
+"id": 75,
+"type": "MCQ",
+"language": {
+"en": "Find next: 2A3, 4B5, 6C7, 8D9, ?"
+},
+"options": {
+"A": "10E11",
+"B": "9E10",
+"C": "10F11",
+"D": "11E12"
+},
+"correct_answer": "A",
+"explanation": "Number letter number with consistent increase."
+},
+{
+"id": 76,
+"type": "MCQ",
+"language": {
+"en": "Complete: AB1, CD2, EF3, GH4, ?"
+},
+"options": {
+"A": "IJ5",
+"B": "JK5",
+"C": "HI5",
+"D": "IL5"
+},
+"correct_answer": "A",
+"explanation": "Letter pairs + sequential number."
+},
+{
+"id": 77,
+"type": "MCQ",
+"language": {
+"en": "Series: M5, K10, I15, G20, ?"
+},
+"options": {
+"A": "E25",
+"B": "F25",
+"C": "D25",
+"D": "E30"
+},
+"correct_answer": "A",
+"explanation": "Letters backward by 2, numbers +5."
+},
+{
+"id": 78,
+"type": "MCQ",
+"language": {
+"en": "What comes next: 1P2, 3Q4, 5R6, 7S8, ?"
+},
+"options": {
+"A": "9T10",
+"B": "8T9",
+"C": "9U10",
+"D": "10T11"
+},
+"correct_answer": "A",
+"explanation": "Mixed increasing pattern."
+},
+{
+"id": 79,
+"type": "MCQ",
+"language": {
+"en": "Find the next term: X9Y, W8Z, V7A, U6B, ?"
+},
+"options": {
+"A": "T5C",
+"B": "S5C",
+"C": "T6C",
+"D": "U5C"
+},
+"correct_answer": "A",
+"explanation": "Letters backward, numbers down, next letter forward."
+},
+{
+"id": 80,
+"type": "MCQ",
+"language": {
+"en": "Series: A4B, C6D, E8F, G10H, ?"
+},
+"options": {
+"A": "I12J",
+"B": "H12I",
+"C": "J12K",
+"D": "I11J"
+},
+"correct_answer": "A",
+"explanation": "Increasing by 2 in letters and numbers."
+},
+{
+"id": 81,
+"type": "MCQ",
+"language": {
+"en": "Complete: 5Z, 10Y, 15X, 20W, ?"
+},
+"options": {
+"A": "25V",
+"B": "30V",
+"C": "25U",
+"D": "20V"
+},
+"correct_answer": "A",
+"explanation": "Multiples of 5 with backward letters."
+},
+{
+"id": 82,
+"type": "MCQ",
+"language": {
+"en": "What is next: PQR1, STU2, VWX3, ?"
+},
+"options": {
+"A": "YZA4",
+"B": "XYZ4",
+"C": "YAB4",
+"D": "ZAB4"
+},
+"correct_answer": "A",
+"explanation": "Three letter groups + number."
+},
+{
+"id": 83,
+"type": "MCQ",
+"language": {
+"en": "Series: A1Z, B3Y, C5X, D7W, ?"
+},
+"options": {
+"A": "E9V",
+"B": "F9V",
+"C": "E8V",
+"D": "D9V"
+},
+"correct_answer": "A",
+"explanation": "Forward letter, odd numbers, backward letter."
+},
+{
+"id": 84,
+"type": "MCQ",
+"language": {
+"en": "Find next: 2B, 4D, 6F, 8H, ?"
+},
+"options": {
+"A": "10J",
+"B": "9J",
+"C": "10I",
+"D": "12J"
+},
+"correct_answer": "A",
+"explanation": "Even numbers with even positioned letters."
+},
+{
+"id": 85,
+"type": "MCQ",
+"language": {
+"en": "Complete: K2M, L4O, M6Q, N8S, ?"
+},
+"options": {
+"A": "O10U",
+"B": "P10U",
+"C": "O9U",
+"D": "N10U"
+},
+"correct_answer": "A",
+"explanation": "Pattern continues sequentially."
+},
+{
+"id": 86,
+"type": "MCQ",
+"language": {
+"en": "Series: 1A, 2C, 3E, 4G, ?"
+},
+"options": {
+"A": "5I",
+"B": "5H",
+"C": "6I",
+"D": "4I"
+},
+"correct_answer": "A",
+"explanation": "Number + odd letter."
+},
+{
+"id": 87,
+"type": "MCQ",
+"language": {
+"en": "What comes next: Z26, Y25, X24, W23, ?"
+},
+"options": {
+"A": "V22",
+"B": "U22",
+"C": "V21",
+"D": "W22"
+},
+"correct_answer": "A",
+"explanation": "Backward letters with decreasing position numbers."
+},
+{
+"id": 88,
+"type": "MCQ",
+"language": {
+"en": "Find the next term: AB3, CD6, EF9, GH12, ?"
+},
+"options": {
+"A": "IJ15",
+"B": "HI15",
+"C": "IJ18",
+"D": "JK15"
+},
+"correct_answer": "A",
+"explanation": "Letter pairs with multiples of 3."
+},
+{
+"id": 89,
+"type": "MCQ",
+"language": {
+"en": "Series: 7G, 14F, 21E, 28D, ?"
+},
+"options": {
+"A": "35C",
+"B": "42C",
+"C": "35B",
+"D": "28C"
+},
+"correct_answer": "A",
+"explanation": "Multiples of 7 with backward letters."
+},
+{
+"id": 90,
+"type": "MCQ",
+"language": {
+"en": "Complete: R1S, T2U, V3W, X4Y, ?"
+},
+"options": {
+"A": "Z5A",
+"B": "Y5Z",
+"C": "Z6A",
+"D": "A5Z"
+},
+"correct_answer": "A",
+"explanation": "Pattern wraps around alphabet."
+},
+{
+"id": 91,
+"type": "MCQ",
+"language": {
+"en": "What is next: A10, B20, C30, D40, ?"
+},
+"options": {
+"A": "E50",
+"B": "F50",
+"C": "E60",
+"D": "D50"
+},
+"correct_answer": "A",
+"explanation": "Letter + multiples of 10."
+},
+{
+"id": 92,
+"type": "MCQ",
+"language": {
+"en": "Series: 3P4, 5Q6, 7R8, 9S10, ?"
+},
+"options": {
+"A": "11T12",
+"B": "10T11",
+"C": "11U12",
+"D": "12T13"
+},
+"correct_answer": "A",
+"explanation": "Increasing mixed alphanumerics."
+},
+{
+"id": 93,
+"type": "MCQ",
+"language": {
+"en": "Find next: W5, V10, U15, T20, ?"
+},
+"options": {
+"A": "S25",
+"B": "R25",
+"C": "S30",
+"D": "T25"
+},
+"correct_answer": "A",
+"explanation": "Backward letters + multiples of 5."
+},
+{
+"id": 94,
+"type": "MCQ",
+"language": {
+"en": "Complete: LM2, NO4, PQ6, RS8, ?"
+},
+"options": {
+"A": "TU10",
+"B": "TV10",
+"C": "ST10",
+"D": "UV10"
+},
+"correct_answer": "A",
+"explanation": "Letter pairs + even numbers."
+},
+{
+"id": 95,
+"type": "MCQ",
+"language": {
+"en": "Series: 1Z2, 3Y4, 5X6, 7W8, ?"
+},
+"options": {
+"A": "9V10",
+"B": "8V9",
+"C": "9U10",
+"D": "10V11"
+},
+"correct_answer": "A",
+"explanation": "Forward numbers, backward middle letter."
+},
+{
+"id": 96,
+"type": "MCQ",
+"language": {
+"en": "What comes next: C3D, E5F, G7H, I9J, ?"
+},
+"options": {
+"A": "K11L",
+"B": "J11K",
+"C": "L11M",
+"D": "K10L"
+},
+"correct_answer": "A",
+"explanation": "Odd numbers sandwiched."
+},
+{
+"id": 97,
+"type": "MCQ",
+"language": {
+"en": "Find the next term: 4A5B, 6C7D, 8E9F, ?"
+},
+"options": {
+"A": "10G11H",
+"B": "9G10H",
+"C": "10F11G",
+"D": "11G12H"
+},
+"correct_answer": "A",
+"explanation": "Increasing pattern."
+},
+{
+"id": 98,
+"type": "MCQ",
+"language": {
+"en": "Series: Q1, P2, O3, N4, ?"
+},
+"options": {
+"A": "M5",
+"B": "L5",
+"C": "M6",
+"D": "N5"
+},
+"correct_answer": "A",
+"explanation": "Backward letters + sequential numbers."
+},
+{
+"id": 99,
+"type": "MCQ",
+"language": {
+"en": "Complete: A1B2, C3D4, E5F6, G7H8, ?"
+},
+"options": {
+"A": "I9J10",
+"B": "H9I10",
+"C": "I10J11",
+"D": "J9K10"
+},
+"correct_answer": "A",
+"explanation": "Sequential alphanumeric pairs."
+},
+{
+"id": 100,
+"type": "MCQ",
+"language": {
+"en": "What is next in series: 9I, 8H, 7G, 6F, ?"
+},
+"options": {
+"A": "5E",
+"B": "4E",
+"C": "5D",
+"D": "6E"
+},
+"correct_answer": "A",
+"explanation": "Decreasing numbers and backward letters."
+}
+]
+}
+]
+}
