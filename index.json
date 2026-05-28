@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-28",
-  "total": 13,
+  "total": 14,
   "skipped": [],
   "exams": [
     {
@@ -65,6 +65,15 @@
       "version": "4.0",
       "path": "Reasoning/Verbal Reasoning/Coding-Decoding/hard.json",
       "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Coding-Decoding/hard.json"
+    },
+    {
+      "title": "Reasoning: Coding-Decoding",
+      "category": "Reasoning",
+      "questions": 91,
+      "duration_minutes": 0,
+      "version": "2.0",
+      "path": "Reasoning/Verbal Reasoning/Coding-Decoding/me1.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Reasoning/Verbal Reasoning/Coding-Decoding/me1.json"
     },
     {
       "title": "Reasoning: Coding-Decoding",
