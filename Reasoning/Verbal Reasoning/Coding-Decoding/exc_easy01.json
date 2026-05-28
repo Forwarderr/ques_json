@@ -1,0 +1,1381 @@
+{
+  "metadata": {
+    "exam_title": "SSC — Reasoning: Coding-Decoding",
+    "total_duration_minutes": 0,
+    "version": "1.0",
+    "allow_backtrack": true
+  },
+  "sections": [
+    {
+      "section_id": "letter_shifting_coding",
+      "section_name": "Letter Shifting and Coding",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 1,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code language, if 'BOARD' is written as 'CPBSE', then how will 'CHAIR' be written in that code language?"
+          },
+          "options": {
+            "A": "DIBJS",
+            "B": "DIZJQ",
+            "C": "DJBJS",
+            "D": "DIBIS"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern involves a consecutive forward shift of +1 for each letter. B $+1 = $ C, O $+1 = $ P, A $+1 = $ B, R $+1 = $ S, D $+1 = $ E. Applying +1 to 'CHAIR': C $+1 = $ D, H $+1 = $ I, A $+1 = $ B, I $+1 = $ J, R $+1 = $ S. The coded word is DIBJS. Option B uses a backward shift. Option C miscalculates H. Option D fails to shift I."
+        },
+        {
+          "id": 2,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code language, 'SMART' is written as 'RLZQS'. How will 'TREND' be written in that code language?"
+          },
+          "options": {
+            "A": "UQFME",
+            "B": "SQDMC",
+            "C": "SQDNC",
+            "D": "SRDMC"
+          },
+          "correct_answer": "B",
+          "explanation": "The logic is a uniform backward shift of -1 for every letter. S $-1 = $ R, M $-1 = $ L, A $-1 = $ Z, R $-1 = $ Q, T $-1 = $ S. Applying -1 shift to 'TREND': T $-1 = $ S, R $-1 = $ Q, E $-1 = $ D, N $-1 = $ M, D $-1 = $ C. Option B is correct. Option A uses +1. Options C and D miscalculate middle letters."
+        },
+        {
+          "id": 3,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'PENCIL' is coded as 'QFODJM', what is the code for 'PAPER'?"
+          },
+          "options": {
+            "A": "QBPFS",
+            "B": "QAQFS",
+            "C": "QBQFS",
+            "D": "QBQES"
+          },
+          "correct_answer": "C",
+          "explanation": "Each letter is shifted forward by +1. P $+1 = $ Q, E $+1 = $ F, N $+1 = $ O, C $+1 = $ D, I $+1 = $ J, L $+1 = $ M. Following this for 'PAPER': P $+1 = $ Q, A $+1 = $ B, P $+1 = $ Q, E $+1 = $ F, R $+1 = $ S. This matches QBQFS. Options A, B, and D miss the +1 shifting on specific letters."
+        },
+        {
+          "id": 4,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code language, 'LIGHT' is written as 'MJHIU'. How is 'SOUND' coded?"
+          },
+          "options": {
+            "A": "TOVNE",
+            "B": "TPVNE",
+            "C": "RNTMC",
+            "D": "TPVOE"
+          },
+          "correct_answer": "D",
+          "explanation": "The pattern is a direct +1 shift: L $+1 = $ M, I $+1 = $ J, G $+1 = $ H, H $+1 = $ I, T $+1 = $ U. For 'SOUND': S $+1 = $ T, O $+1 = $ P, U $+1 = $ V, N $+1 = $ O, D $+1 = $ E. The correct code is TPVOE. Options A, B, and C are incorrect variations of this shift."
+        },
+        {
+          "id": 5,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code language, 'PRINTS' is written as 'OQHMSR'. How is 'LEMONS' written?"
+          },
+          "options": {
+            "A": "MFNPOUT",
+            "B": "KDLNMR",
+            "C": "KDKLMN",
+            "D": "KDLMNR"
+          },
+          "correct_answer": "B",
+          "explanation": "The shift is -1 for each letter: P $-1 = $ O, R $-1 = $ Q, I $-1 = $ H, N $-1 = $ M, T $-1 = $ S, S $-1 = $ R. For 'LEMONS': L $-1 = $ K, E $-1 = $ D, M $-1 = $ L, O $-1 = $ N, N $-1 = $ M, S $-1 = $ R, giving KDLNMR. Option A uses +1. Options C and D transpose letters."
+        },
+        {
+          "id": 6,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'ORANGE' is coded as 'PSBOHF', what is the code for 'MANGO'?"
+          },
+          "options": {
+            "A": "NBOHP",
+            "B": "LZMFN",
+            "C": "NBNGP",
+            "D": "OBCIP"
+          },
+          "correct_answer": "A",
+          "explanation": "The logic is a uniform +1 shift: O $+1 = $ P, R $+1 = $ S, A $+1 = $ B, N $+1 = $ O, G $+1 = $ H, E $+1 = $ F. For 'MANGO': M $+1 = $ N, A $+1 = $ B, N $+1 = $ O, G $+1 = $ H, O $+1 = $ P. This results in NBOHP. Option B uses a -1 shift."
+        },
+        {
+          "id": 7,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code language, 'TIGER' is written as 'SHFDQ'. How is 'HORSE' written?"
+          },
+          "options": {
+            "A": "IPSTF",
+            "B": "GNRSD",
+            "C": "GNQRD",
+            "D": "INQRD"
+          },
+          "correct_answer": "C",
+          "explanation": "Each letter is shifted -1: T $-1 = $ S, I $-1 = $ H, G $-1 = $ F, E $-1 = $ D, R $-1 = $ Q. For 'HORSE': H $-1 = $ G, O $-1 = $ N, R $-1 = $ Q, S $-1 = $ R, E $-1 = $ D, which yields GNQRD. Option A is a +1 shift. Options B and D have incorrect letter modifications."
+        },
+        {
+          "id": 8,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'CAMEL' is coded as 'ECNGN', what is the code for 'HORSE'?"
+          },
+          "options": {
+            "A": "JQTUG",
+            "B": "INSUF",
+            "C": "KRTVH",
+            "D": "JPTUG"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern is a constant +2 forward shift. C $+2 = $ E, A $+2 = $ C, M $+2 = $ O, E $+2 = $ G, L $+2 = $ N. Applying +2 shift to 'HORSE': H $+2 = $ J, O $+2 = $ Q, R $+2 = $ T, S $+2 = $ U, E $+2 = $ G. This results in JQTUG. Option B is a +1 shift."
+        },
+        {
+          "id": 9,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code language, 'FLOWER' is coded as 'EKNVDQ'. How is 'GARDEN' coded?"
+          },
+          "options": {
+            "A": "HBS EFO",
+            "B": "FZQBDM",
+            "C": "GZQCDM",
+            "D": "FZQCDM"
+          },
+          "correct_answer": "D",
+          "explanation": "The logic is a -1 backward shift: F $-1 = $ E, L $-1 = $ K, O $-1 = $ N, W $-1 = $ V, E $-1 = $ D, R $-1 = $ Q. For 'GARDEN': G $-1 = $ F, A $-1 = $ Z, R $-1 = $ Q, D $-1 = $ C, E $-1 = $ D, N $-1 = $ M. The code is FZQCDM. Option A uses a +1 shift."
+        },
+        {
+          "id": 10,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'MONKEY' is written as 'LNMJDX', how will 'TIGER' be written?"
+          },
+          "options": {
+            "A": "UIHFS",
+            "B": "SHFDQ",
+            "C": "SGFDQ",
+            "D": "QDFHS"
+          },
+          "correct_answer": "B",
+          "explanation": "Each letter shifts -1. M $-1 = $ L, O $-1 = $ N, N $-1 = $ M, K $-1 = $ J, E $-1 = $ D, Y $-1 = $ X. For 'TIGER': T $-1 = $ S, I $-1 = $ H, G $-1 = $ F, E $-1 = $ D, R $-1 = $ Q. This forms SHFDQ. Option A uses +1 shift."
+        },
+        {
+          "id": 11,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code language, 'KING' is written as 'LJOH'. How will 'QUEEN' be written?"
+          },
+          "options": {
+            "A": "PTDDM",
+            "B": "RUFFO",
+            "C": "RVFFO",
+            "D": "RVFEP"
+          },
+          "correct_answer": "C",
+          "explanation": "The rule is a +1 shift: K $+1 = $ L, I $+1 = $ J, N $+1 = $ O, G $+1 = $ H. For 'QUEEN': Q $+1 = $ R, U $+1 = $ V, E $+1 = $ F, E $+1 = $ F, N $+1 = $ O. Thus, RVFFO. Option A is a backward shift."
+        },
+        {
+          "id": 12,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'COACH' is written as 'DPBDI' in a code, how is 'TRAIN' written?"
+          },
+          "options": {
+            "A": "VTCKP",
+            "B": "SQZHM",
+            "C": "USAKO",
+            "D": "USBJO"
+          },
+          "correct_answer": "D",
+          "explanation": "The pattern is a +1 shift: C $+1 = $ D, O $+1 = $ P, A $+1 = $ B, C $+1 = $ D, H $+1 = $ I. For 'TRAIN': T $+1 = $ U, R $+1 = $ S, A $+1 = $ B, I $+1 = $ J, N $+1 = $ O. This yields USBJO. Option A uses +2, and Option B uses -1."
+        },
+        {
+          "id": 13,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code language, 'CHAIR' is coded as 'EJCKT'. How is 'TABLE' coded?"
+          },
+          "options": {
+            "A": "VCDNG",
+            "B": "UBCMF",
+            "C": "SZAKD",
+            "D": "VCEJG"
+          },
+          "correct_answer": "A",
+          "explanation": "The logic is a +2 forward shift: C $+2 = $ E, H $+2 = $ J, A $+2 = $ C, I $+2 = $ K, R $+2 = $ T. For 'TABLE': T $+2 = $ V, A $+2 = $ C, B $+2 = $ D, L $+2 = $ N, E $+2 = $ G, resulting in VCDNG. Option B is +1 shift, Option C is -1 shift."
+        },
+        {
+          "id": 14,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'MATHS' is written as 'NBUIT' in a code language, 'LOGIC' will be written as:"
+          },
+          "options": {
+            "A": "KNFHB",
+            "B": "MPHJD",
+            "C": "NPHJD",
+            "D": "MPHKD"
+          },
+          "correct_answer": "B",
+          "explanation": "The operation is a +1 shift: M $+1 = $ N, A $+1 = $ B, T $+1 = $ U, H $+1 = $ I, S $+1 = $ T. For 'LOGIC': L $+1 = $ M, O $+1 = $ P, G $+1 = $ H, I $+1 = $ J, C $+1 = $ D. The result is MPHJD. Option A is a backward shift."
+        },
+        {
+          "id": 15,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'WHITE' is written as 'XGJSF'. How is 'BLACK' written?"
+          },
+          "options": {
+            "A": "AKZBJ",
+            "B": "CMBBL",
+            "C": "CKBBL",
+            "D": "CMAAL"
+          },
+          "correct_answer": "C",
+          "explanation": "The pattern alternates +1, -1: W $+1 = $ X, H $-1 = $ G, I $+1 = $ J, T $-1 = $ S, E $+1 = $ F. For 'BLACK': B $+1 = $ C, L $-1 = $ K, A $+1 = $ B, C $-1 = $ B, K $+1 = $ L, yielding CKBBL. Options A, B, and D break this alternating sequence."
+        },
+        {
+          "id": 16,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'PAPER' is written as 'OZOEQ', how is 'PENCIL' written?"
+          },
+          "options": {
+            "A": "ODMBHK",
+            "B": "QFODJM",
+            "C": "ODNBHK",
+            "D": "OEMBHK"
+          },
+          "correct_answer": "A",
+          "explanation": "Each letter shifts backward by -1: P $-1 = $ O, A $-1 = $ Z, P $-1 = $ O, E $-1 = $ D, R $-1 = $ Q. For 'PENCIL': P $-1 = $ O, E $-1 = $ D, N $-1 = $ M, C $-1 = $ B, I $-1 = $ H, L $-1 = $ K. This forms ODMBHK. Option B uses forward shift +1."
+        },
+        {
+          "id": 17,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code language, 'SWEET' is written as 'TXFFU'. How is 'BITTER' written?"
+          },
+          "options": {
+            "A": "AHSQDQ",
+            "B": "CKVVGT",
+            "C": "CJTUFS",
+            "D": "CJUUFS"
+          },
+          "correct_answer": "D",
+          "explanation": "The pattern is a +1 shift: S $+1 = $ T, W $+1 = $ X, E $+1 = $ F, E $+1 = $ F, T $+1 = $ U. For 'BITTER': B $+1 = $ C, I $+1 = $ J, T $+1 = $ U, T $+1 = $ U, E $+1 = $ F, R $+1 = $ S. This results in CJUUFS. Option A is a backward shift."
+        },
+        {
+          "id": 18,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'DOG' is written as 'FQI' in a code, how is 'CAT' written?"
+          },
+          "options": {
+            "A": "BZS",
+            "B": "ECV",
+            "C": "EDV",
+            "D": "DBU"
+          },
+          "correct_answer": "B",
+          "explanation": "Each letter shifts forward by +2: D $+2 = $ F, O $+2 = $ Q, G $+2 = $ I. For 'CAT': C $+2 = $ E, A $+2 = $ C, T $+2 = $ V. The answer is ECV. Option A is a -1 shift, Option D is a +1 shift."
+        },
+        {
+          "id": 19,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'BLUE' is written as 'CMVF'. How is 'PINK' written?"
+          },
+          "options": {
+            "A": "QJOL",
+            "B": "OHMJ",
+            "C": "QKOL",
+            "D": "QIPL"
+          },
+          "correct_answer": "A",
+          "explanation": "The logic is a forward shift of +1: B $+1 = $ C, L $+1 = $ M, U $+1 = $ V, E $+1 = $ F. For 'PINK': P $+1 = $ Q, I $+1 = $ J, N $+1 = $ O, K $+1 = $ L, yielding QJOL. Option B is a backward shift."
+        },
+        {
+          "id": 20,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'BIRD' is written as 'AHQC', how is 'FISH' written?"
+          },
+          "options": {
+            "A": "GJTI",
+            "B": "EIRG",
+            "C": "EHRG",
+            "D": "EHSG"
+          },
+          "correct_answer": "C",
+          "explanation": "Each letter undergoes a backward shift of -1: B $-1 = $ A, I $-1 = $ H, R $-1 = $ Q, D $-1 = $ C. For 'FISH': F $-1 = $ E, I $-1 = $ H, S $-1 = $ R, H $-1 = $ G ⇒ EHRG. Option A is a +1 shift."
+        },
+        {
+          "id": 21,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code language, 'COLD' is written as 'DPME'. How is 'WARM' coded?"
+          },
+          "options": {
+            "A": "VZQL",
+            "B": "XBRM",
+            "C": "XBSN",
+            "D": "YBTN"
+          },
+          "correct_answer": "C",
+          "explanation": "The pattern is a single step forward shift +1: C $+1 = $ D, O $+1 = $ P, L $+1 = $ M, D $+1 = $ E. For 'WARM': W $+1 = $ X, A $+1 = $ B, R $+1 = $ S, M $+1 = $ N. The result is XBSN. Option A is a -1 shift."
+        },
+        {
+          "id": 22,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'ROSE' is coded as 'TQUG', what will be the code for 'LILY'?"
+          },
+          "options": {
+            "A": "NKNA",
+            "B": "MJKZ",
+            "C": "NKNZ",
+            "D": "OKOA"
+          },
+          "correct_answer": "A",
+          "explanation": "Letters shift forward by +2: R $+2 = $ T, O $+2 = $ Q, S $+2 = $ U, E $+2 = $ G. For 'LILY': L $+2 = $ N, I $+2 = $ K, L $+2 = $ N, Y $+2 = $ A (wraps around). This produces NKNA. Option B is a +1 shift."
+        },
+        {
+          "id": 23,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'DUST' is written as 'EVTU'. How is 'WIND' written?"
+          },
+          "options": {
+            "A": "VHMC",
+            "B": "XKOE",
+            "C": "XJNE",
+            "D": "XJOE"
+          },
+          "correct_answer": "D",
+          "explanation": "Each letter shifts forward by +1: D $+1 = $ E, U $+1 = $ V, S $+1 = $ T, T $+1 = $ U. Shifting 'WIND' by +1 gives W $+1 = $ X, I $+1 = $ J, N $+1 = $ O, D $+1 = $ E ⇒ XJOE. Option A uses a backward shift."
+        },
+        {
+          "id": 24,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'MILK' is coded as 'NJML', then 'WINE' will be coded as:"
+          },
+          "options": {
+            "A": "XJOF",
+            "B": "XINF",
+            "C": "VHMD",
+            "D": "XJNE"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern is a +1 shift: M $+1 = $ N, I $+1 = $ J, L $+1 = $ M, K $+1 = $ L. For 'WINE': W $+1 = $ X, I $+1 = $ J, N $+1 = $ O, E $+1 = $ F ⇒ XJOF. Option C is a backward shift."
+        },
+        {
+          "id": 25,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'STARS' is written as 'RSZQR'. How is 'MOONS' written?"
+          },
+          "options": {
+            "A": "NPPOHT",
+            "B": "LNNMR",
+            "C": "LNMMR",
+            "D": "LNOMR"
+          },
+          "correct_answer": "B",
+          "explanation": "Each letter shifts backward by -1: S $-1 = $ R, T $-1 = $ S, A $-1 = $ Z, R $-1 = $ Q, S $-1 = $ R. For 'MOONS': M $-1 = $ L, O $-1 = $ N, O $-1 = $ N, N $-1 = $ M, S $-1 = $ R. This yields LNNMR. Option A is a +1 shift."
+        },
+        {
+          "id": 26,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'BOAT' is coded as 'CPBU', how is 'SHIP' coded?"
+          },
+          "options": {
+            "A": "RGHO",
+            "B": "THJQ",
+            "C": "TIJQ",
+            "D": "TIJP"
+          },
+          "correct_answer": "C",
+          "explanation": "The code uses a +1 shift: B $+1 = $ C, O $+1 = $ P, A $+1 = $ B, T $+1 = $ U. For 'SHIP': S $+1 = $ T, H $+1 = $ I, I $+1 = $ J, P $+1 = $ Q. This creates TIJQ. Option A is a backward shift."
+        },
+        {
+          "id": 27,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'GOLD' is written as 'HPME'. How is 'CORD' written?"
+          },
+          "options": {
+            "A": "DOSE",
+            "B": "BNQC",
+            "C": "DPSE",
+            "D": "DOTF"
+          },
+          "correct_answer": "C",
+          "explanation": "The pattern is +1 for each letter: G $+1 = $ H, O $+1 = $ P, L $+1 = $ M, D $+1 = $ E. For 'CORD': C $+1 = $ D, O $+1 = $ P, R $+1 = $ S, D $+1 = $ E ⇒ DPSE. Option B is a -1 shift."
+        },
+        {
+          "id": 28,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'EAST' is coded as 'FBTU', how is 'WEST' coded?"
+          },
+          "options": {
+            "A": "XETU",
+            "B": "WFTU",
+            "C": "VDRS",
+            "D": "XFTU"
+          },
+          "correct_answer": "D",
+          "explanation": "The rule is +1 forward shift: E $+1 = $ F, A $+1 = $ B, S $+1 = $ T, T $+1 = $ U. For 'WEST': W $+1 = $ X, E $+1 = $ F, S $+1 = $ T, T $+1 = $ U. This creates XFTU. Option C is a backward shift."
+        },
+        {
+          "id": 29,
+          "type": "MCQ",
+          "language": {
+            "en": "In a certain code, 'FIRE' is written as 'EHQD'. How is 'HEAT' coded?"
+          },
+          "options": {
+            "A": "GDZS",
+            "B": "GDRS",
+            "C": "IFBU",
+            "D": "HDZS"
+          },
+          "correct_answer": "A",
+          "explanation": "The pattern is a backward shift of -1: F $-1 = $ E, I $-1 = $ H, R $-1 = $ Q, E $-1 = $ D. For 'HEAT': H $-1 = $ G, E $-1 = $ D, A $-1 = $ Z, T $-1 = $ S. This produces GDZS. Option C uses a +1 shift."
+        },
+        {
+          "id": 30,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'CAKE' is coded as 'ECMG', what is the code for 'BUNS'?"
+          },
+          "options": {
+            "A": "DWPU",
+            "B": "AVMQ",
+            "C": "DXPU",
+            "D": "CWOU"
+          },
+          "correct_answer": "A",
+          "explanation": "The logic is a +2 forward shift: C $+2 = $ E, A $+2 = $ C, K $+2 = $ M, E $+2 = $ G. For 'BUNS': B $+2 = $ D, U $+2 = $ W, N $+2 = $ P, S $+2 = $ U ⇒ DWPU. Option B is a backward shift."
+        }
+      ]
+    },
+    {
+      "section_id": "number_numerical_coding",
+      "section_name": "Number and Numerical Coding",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 31,
+          "type": "MCQ",
+          "language": {
+            "en": "If in a certain code language, 'A' is coded as 1, 'B' as 2, and so on, what is the code for 'CAT'?"
+          },
+          "options": {
+            "A": "20",
+            "B": "24",
+            "C": "3120",
+            "D": "23"
+          },
+          "correct_answer": "B",
+          "explanation": "Positional values are summed: C = 3, A = 1, T = 20. Sum: 3 + 1 + 20 = 24. Option A misses C's value. Option C writes positions adjacently instead of adding."
+        },
+        {
+          "id": 32,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'DOG' is coded as 26, how will 'RAT' be coded?"
+          },
+          "options": {
+            "A": "40",
+            "B": "38",
+            "C": "39",
+            "D": "42"
+          },
+          "correct_answer": "C",
+          "explanation": "The code is the sum of positional values: D = 4, O = 15, G = 7 ⇒ 4 + 15 + 7 = 26. For 'RAT': R = 18, A = 1, T = 20. Sum: 18 + 1 + 20 = 39. Option C is correct."
+        },
+        {
+          "id": 33,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'RED' is coded as 6720, how will 'GREEN' be coded?"
+          },
+          "options": {
+            "A": "9207716",
+            "B": "7185514",
+            "C": "9207714",
+            "D": "1677209"
+          },
+          "correct_answer": "D",
+          "explanation": "For 'RED': R = 18, E = 5, D = 4. Adding 2 to each: 20, 7, 6. Reversing gives 6720. For 'GREEN': G = 7, R = 18, E = 5, E = 5, N = 14. Add 2: 9, 20, 7, 7, 16. Reversing gives 1677209. Option D is correct."
+        },
+        {
+          "id": 34,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'A' = 2, 'M' = 26, and 'Z' = 52, what is the code for 'BET'?"
+          },
+          "options": {
+            "A": "54",
+            "B": "27",
+            "C": "52",
+            "D": "56"
+          },
+          "correct_answer": "A",
+          "explanation": "The code multiplies standard positions by 2. B = 4, E = 10, T = 40. Total = 4 + 10 + 40 = 54. Option B is the un-multiplied sum (2 + 5 + 20 = 27)."
+        },
+        {
+          "id": 35,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'PEN' is written as 35, how will 'PAGE' be written?"
+          },
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "32"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of positions: P = 16, E = 5, N = 14 ⇒ 16+5+14 = 35. For 'PAGE': P = 16, A = 1, G = 7, E = 5 ⇒ 16+1+7+5 = 29. Option B is correct."
+        },
+        {
+          "id": 36,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'BAT' is coded as 23 and 'CAT' is coded as 24, what is 'BALL'?"
+          },
+          "options": {
+            "A": "27",
+            "B": "28",
+            "C": "26",
+            "D": "32"
+          },
+          "correct_answer": "A",
+          "explanation": "Logic is the sum of alphabetical values. B = 2, A = 1, T = 20 ⇒ 23. For 'BALL': B = 2, A = 1, L = 12, L = 12 ⇒ 2+1+12+12 = 27. Option A is correct."
+        },
+        {
+          "id": 37,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'DEEP' is coded as 60, how will 'HAIR' be coded?"
+          },
+          "options": {
+            "A": "36",
+            "B": "30",
+            "C": "72",
+            "D": "40"
+          },
+          "correct_answer": "C",
+          "explanation": "Sum for 'DEEP': 4+5+5+16=30. Multiplied by 2 gives 60. For 'HAIR': 8+1+9+18=36. Multiplying by 2 gives 72. Option C is correct. Option A is the un-multiplied sum."
+        },
+        {
+          "id": 38,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'HOTEL' is coded as 12, how will 'LAMB' be coded?"
+          },
+          "options": {
+            "A": "28",
+            "B": "7",
+            "C": "10",
+            "D": "14"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum for 'HOTEL': 8+15+20+5+12 = 60. Divide by 5 letters = 12. For 'LAMB': 12+1+13+2 = 28. Divide by 4 letters = 7. Option B is correct."
+        },
+        {
+          "id": 39,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'E' = 5 and 'HOTEL' = 60, what is the value of 'BETA'?"
+          },
+          "options": {
+            "A": "32",
+            "B": "25",
+            "C": "30",
+            "D": "28"
+          },
+          "correct_answer": "D",
+          "explanation": "Direct sum of positions: 8+15+20+5+12 = 60. For 'BETA': B = 2, E = 5, T = 20, A = 1 ⇒ 2+5+20+1 = 28. Option D is correct."
+        },
+        {
+          "id": 40,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'CAB' = 6, what is 'BED'?"
+          },
+          "options": {
+            "A": "11",
+            "B": "10",
+            "C": "12",
+            "D": "9"
+          },
+          "correct_answer": "A",
+          "explanation": "Direct sum of positions: C = 3, A = 1, B = 2 ⇒ 3+1+2 = 6. For 'BED': B = 2, E = 5, D = 4 ⇒ 2+5+4 = 11. Option A is correct."
+        },
+        {
+          "id": 41,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'GO' is written as 32 and 'SHE' as 49, how is 'SOME' written?"
+          },
+          "options": {
+            "A": "62",
+            "B": "56",
+            "C": "48",
+            "D": "64"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of reverse positional values (Z=1, A=26). 'GO': 20+12=32. 'SHE': 8+19+22=49. 'SOME': 8+12+14+22=56. Option B is correct."
+        },
+        {
+          "id": 42,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'BAG' is coded as 217, how will 'ICE' be coded?"
+          },
+          "options": {
+            "A": "935",
+            "B": "824",
+            "C": "925",
+            "D": "359"
+          },
+          "correct_answer": "A",
+          "explanation": "Digits are direct positions concatenated: B = 2, A = 1, G = 7 ⇒ 217. For 'ICE': I = 9, C = 3, E = 5 ⇒ 935. Option A is correct."
+        },
+        {
+          "id": 43,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'MAN' is coded as 28, how will 'RAN' be coded?"
+          },
+          "options": {
+            "A": "32",
+            "B": "34",
+            "C": "33",
+            "D": "30"
+          },
+          "correct_answer": "C",
+          "explanation": "Position sum for 'MAN': 13+1+14 = 28. For 'RAN': 18+1+14 = 33. Option C is correct."
+        },
+        {
+          "id": 44,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'TO' = 35 and 'BAL' = 15, what is the code for 'MY'?"
+          },
+          "options": {
+            "A": "35",
+            "B": "38",
+            "C": "40",
+            "D": "26"
+          },
+          "correct_answer": "B",
+          "explanation": "Positions added directly: T(20)+O(15)=35. B(2)+A(1)+L(12)=15. For 'MY': M(13)+Y(25)=38. Option B is correct."
+        },
+        {
+          "id": 45,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'COW' is coded as 41, how will 'DOG' be coded?"
+          },
+          "options": {
+            "A": "27",
+            "B": "25",
+            "C": "26",
+            "D": "28"
+          },
+          "correct_answer": "C",
+          "explanation": "Alphabetical values: C = 3, O = 15, W = 23. Sum: 3+15+23 = 41. For 'DOG': 4+15+7 = 26. Option C is correct."
+        },
+        {
+          "id": 46,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'SKY' is coded as 55, how will 'SEA' be coded?"
+          },
+          "options": {
+            "A": "25",
+            "B": "24",
+            "C": "26",
+            "D": "20"
+          },
+          "correct_answer": "A",
+          "explanation": "Position sum: S(19)+K(11)+Y(25) = 55. For 'SEA': S(19)+E(5)+A(1) = 25. Option A is correct."
+        },
+        {
+          "id": 47,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'A' = 1 and 'BOX' = 41, then 'MAP' is equal to:"
+          },
+          "options": {
+            "A": "32",
+            "B": "30",
+            "C": "34",
+            "D": "28"
+          },
+          "correct_answer": "B",
+          "explanation": "Sum of positions: B(2)+O(15)+X(24) = 41. For 'MAP': M(13)+A(1)+P(16) = 30. Option B is correct."
+        },
+        {
+          "id": 48,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'SUN' is coded as 54, 'MOON' will be coded as:"
+          },
+          "options": {
+            "A": "52",
+            "B": "58",
+            "C": "57",
+            "D": "60"
+          },
+          "correct_answer": "C",
+          "explanation": "Positions: S(19)+U(21)+N(14) = 54. For 'MOON': M(13)+O(15)+O(15)+N(14) = 57. Option C is correct."
+        },
+        {
+          "id": 49,
+          "type": "MCQ",
+          "language": {
+            "en": "In a code, 'PEN' is written as 16514. How is 'CAT' written?"
+          },
+          "options": {
+            "A": "3121",
+            "B": "2120",
+            "C": "3220",
+            "D": "3120"
+          },
+          "correct_answer": "D",
+          "explanation": "Concatenate positions: P = 16, E = 5, N = 14 ⇒ 16514. For 'CAT': C = 3, A = 1, T = 20 ⇒ 3120. Option D is correct."
+        },
+        {
+          "id": 50,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'ZEBRA' is written as 2652181, 'COW' will be written as:"
+          },
+          "options": {
+            "A": "31522",
+            "B": "31523",
+            "C": "41523",
+            "D": "31623"
+          },
+          "correct_answer": "B",
+          "explanation": "Standard position string: Z = 26, E = 5, B = 2, R = 18, A = 1 ⇒ 2652181. For 'COW': C = 3, O = 15, W = 23 ⇒ 31523. Option B is correct."
+        },
+        {
+          "id": 51,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'UP' = 37, what is the numerical value of 'DOWN'?"
+          },
+          "options": {
+            "A": "46",
+            "B": "45",
+            "C": "48",
+            "D": "42"
+          },
+          "correct_answer": "A",
+          "explanation": "U = 21, P = 16 ⇒ 21+16 = 37. For 'DOWN': D(4)+O(15)+W(23)+N(14) = 46. Option A is correct."
+        },
+        {
+          "id": 52,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'NET' = 39, what is 'NUT' equal to?"
+          },
+          "options": {
+            "A": "50",
+            "B": "52",
+            "C": "55",
+            "D": "54"
+          },
+          "correct_answer": "C",
+          "explanation": "N(14)+E(5)+T(20)=39. For 'NUT': N(14)+U(21)+T(20)=55. Option C is correct."
+        },
+        {
+          "id": 53,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'FLY' is coded as 43, what is 'SIT'?"
+          },
+          "options": {
+            "A": "48",
+            "B": "46",
+            "C": "50",
+            "D": "44"
+          },
+          "correct_answer": "A",
+          "explanation": "F = 6, L = 12, Y = 25 ⇒ 6+12+25 = 43. For 'SIT': S(19)+I(9)+T(20)=48. Option A is correct."
+        },
+        {
+          "id": 54,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'ICE' = 17, what is 'FIRE' equal to?"
+          },
+          "options": {
+            "A": "36",
+            "B": "38",
+            "C": "40",
+            "D": "34"
+          },
+          "correct_answer": "B",
+          "explanation": "I(9)+C(3)+E(5)=17. For 'FIRE': F(6)+I(9)+R(18)+E(5)=38. Option B is correct."
+        },
+        {
+          "id": 55,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'RAT' is written as 39, how is 'OX' written?"
+          },
+          "options": {
+            "A": "38",
+            "B": "40",
+            "C": "39",
+            "D": "35"
+          },
+          "correct_answer": "C",
+          "explanation": "R(18)+A(1)+T(20)=39. For 'OX': O(15)+X(24)=39. Option C is correct."
+        },
+        {
+          "id": 56,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'E' = 5 and 'TEA' = 26, 'COFFEE' is coded as:"
+          },
+          "options": {
+            "A": "38",
+            "B": "42",
+            "C": "44",
+            "D": "40"
+          },
+          "correct_answer": "D",
+          "explanation": "T(20)+E(5)+A(1)=26. For 'COFFEE': 3+15+6+6+5+5=40. Option D is correct."
+        },
+        {
+          "id": 57,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'HE' is coded as 13, what is 'WE'?"
+          },
+          "options": {
+            "A": "28",
+            "B": "25",
+            "C": "27",
+            "D": "30"
+          },
+          "correct_answer": "A",
+          "explanation": "H(8)+E(5)=13. For 'WE': W(23)+E(5)=28. Option A is correct."
+        },
+        {
+          "id": 58,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'INK' is coded as 34, how will 'PEN' be coded?"
+          },
+          "options": {
+            "A": "34",
+            "B": "35",
+            "C": "36",
+            "D": "32"
+          },
+          "correct_answer": "B",
+          "explanation": "I(9)+N(14)+K(11)=34. For 'PEN': P(16)+E(5)+N(14)=35. Option B is correct."
+        },
+        {
+          "id": 59,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'D' = 4 and 'DOG' = 26, what is 'CAT'?"
+          },
+          "options": {
+            "A": "23",
+            "B": "25",
+            "C": "24",
+            "D": "26"
+          },
+          "correct_answer": "C",
+          "explanation": "D(4)+O(15)+G(7)=26. For 'CAT': C(3)+A(1)+T(20)=24. Option C is correct."
+        },
+        {
+          "id": 60,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'RUN' = 53, what is 'JUMP' equal to?"
+          },
+          "options": {
+            "A": "50",
+            "B": "60",
+            "C": "52",
+            "D": "55"
+          },
+          "correct_answer": "B",
+          "explanation": "R(18)+U(21)+N(14)=53. For 'JUMP': J(10)+U(21)+M(13)+P(16)=60. Option B is correct."
+        }
+      ]
+    },
+    {
+      "section_id": "mixed_chinese_coding",
+      "section_name": "Mixed and Chinese Coding",
+      "section_type": "FREE_FLOAT",
+      "questions": [
+        {
+          "id": 61,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'sky is blue' is 'de sa na' and 'blue color candy' is 'na pa ta', what is the code for 'blue'?"
+          },
+          "options": {
+            "A": "de",
+            "B": "sa",
+            "C": "na",
+            "D": "pa"
+          },
+          "correct_answer": "C",
+          "explanation": "Comparing both statements, 'blue' is common. The only common code is 'na'. Thus, 'blue' is coded as 'na'. Options A and B belong only to the first sentence."
+        },
+        {
+          "id": 62,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'it is sweet' is 'ra ka pa' and 'sweet apples' is 'ka ma', what is 'sweet'?"
+          },
+          "options": {
+            "A": "ka",
+            "B": "ra",
+            "C": "pa",
+            "D": "ma"
+          },
+          "correct_answer": "A",
+          "explanation": "The word 'sweet' is repeated in both. The common code between 'ra ka pa' and 'ka ma' is 'ka'. Option A is correct."
+        },
+        {
+          "id": 63,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'books are good' is '7 5 3' and 'good old days' is '3 2 1', which digit represents 'good'?"
+          },
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_answer": "D",
+          "explanation": "'good' appears in both sentences. Comparing codes '7 5 3' and '3 2 1', the common number is '3'. Option D is correct."
+        },
+        {
+          "id": 64,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'run fast' is 'cu mu' and 'fast track' is 'mu lu', what is 'fast'?"
+          },
+          "options": {
+            "A": "cu",
+            "B": "mu",
+            "C": "lu",
+            "D": "cannot be determined"
+          },
+          "correct_answer": "B",
+          "explanation": "'fast' is common to both phrases. The code 'mu' is common to both code strings. Option B is correct."
+        },
+        {
+          "id": 65,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'she is smart' is '1 2 3' and 'smart girl' is '3 4', what is 'smart'?"
+          },
+          "options": {
+            "A": "3",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+          },
+          "correct_answer": "A",
+          "explanation": "The word 'smart' is common. The common digit in '1 2 3' and '3 4' is '3'. Option A is correct."
+        },
+        {
+          "id": 66,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'eat food' is 'ta pa' and 'good food' is 'pa ja', what is 'food'?"
+          },
+          "options": {
+            "A": "ta",
+            "B": "pa",
+            "C": "ja",
+            "D": "ma"
+          },
+          "correct_answer": "B",
+          "explanation": "'food' is common to both statements. 'pa' is the common element in code strings. Option B is correct."
+        },
+        {
+          "id": 67,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'read books' is 'da ma' and 'write books' is 'ma ga', what is 'books'?"
+          },
+          "options": {
+            "A": "da",
+            "B": "ga",
+            "C": "ma",
+            "D": "xa"
+          },
+          "correct_answer": "C",
+          "explanation": "The common word is 'books', and the common code token is 'ma'. Option C is correct."
+        },
+        {
+          "id": 68,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'sit down' is '1 8' and 'stand down' is '8 9', which digit is 'down'?"
+          },
+          "options": {
+            "A": "1",
+            "B": "9",
+            "C": "0",
+            "D": "8"
+          },
+          "correct_answer": "D",
+          "explanation": "The word 'down' is common, and '8' is present in both sets of codes. Option D is correct."
+        },
+        {
+          "id": 69,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'sing song' is 'la va' and 'play song' is 'va xo', what is 'song'?"
+          },
+          "options": {
+            "A": "va",
+            "B": "la",
+            "C": "xo",
+            "D": "pa"
+          },
+          "correct_answer": "A",
+          "explanation": "'song' is repeating, and 'va' is the repeating code. Option A is correct."
+        },
+        {
+          "id": 70,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'hot coffee' is '7 2' and 'cold coffee' is '2 4', what is 'coffee'?"
+          },
+          "options": {
+            "A": "7",
+            "B": "2",
+            "C": "4",
+            "D": "9"
+          },
+          "correct_answer": "B",
+          "explanation": "'coffee' is common, and '2' is the common digit. Option B is correct."
+        },
+        {
+          "id": 71,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'red rose' is 'ku za' and 'yellow rose' is 'za tu', what is 'rose'?"
+          },
+          "options": {
+            "A": "ku",
+            "B": "tu",
+            "C": "za",
+            "D": "mu"
+          },
+          "correct_answer": "C",
+          "explanation": "'rose' is the shared word, and 'za' is the shared code tag. Option C is correct."
+        },
+        {
+          "id": 72,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'come here' is 'na ka' and 'come back' is 'ka ra', what is 'come'?"
+          },
+          "options": {
+            "A": "na",
+            "B": "ka",
+            "C": "ra",
+            "D": "pa"
+          },
+          "correct_answer": "B",
+          "explanation": "Common word is 'come' and common code is 'ka'. Option B is correct."
+        },
+        {
+          "id": 73,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'heavy rain' is '5 6' and 'acid rain' is '6 7', what is 'rain'?"
+          },
+          "options": {
+            "A": "5",
+            "B": "7",
+            "C": "4",
+            "D": "6"
+          },
+          "correct_answer": "D",
+          "explanation": "'rain' is present in both, common digit is '6'. Option D is correct."
+        },
+        {
+          "id": 74,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'dogs bark' is 'zo po' and 'dogs run' is 'po mu', what is 'dogs'?"
+          },
+          "options": {
+            "A": "po",
+            "B": "zo",
+            "C": "mu",
+            "D": "ti"
+          },
+          "correct_answer": "A",
+          "explanation": "Common word is 'dogs' and common code token is 'po'. Option A is correct."
+        },
+        {
+          "id": 75,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'clear water' is 'ni ti' and 'dirty water' is 'ti mi', what is 'water'?"
+          },
+          "options": {
+            "A": "ni",
+            "B": "ti",
+            "C": "mi",
+            "D": "xi"
+          },
+          "correct_answer": "B",
+          "explanation": "'water' is shared, code 'ti' is shared. Option B is correct."
+        },
+        {
+          "id": 76,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'smart boy' is '4 7' and 'lazy boy' is '7 9', what is 'boy'?"
+          },
+          "options": {
+            "A": "4",
+            "B": "9",
+            "C": "7",
+            "D": "1"
+          },
+          "correct_answer": "C",
+          "explanation": "Common word is 'boy' and common digit is '7'. Option C is correct."
+        },
+        {
+          "id": 77,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'live long' is 'su mu' and 'long life' is 'mu tu', what is 'long'?"
+          },
+          "options": {
+            "A": "su",
+            "B": "tu",
+            "C": "lu",
+            "D": "mu"
+          },
+          "correct_answer": "D",
+          "explanation": "'long' is the repeated word, and 'mu' is the repeated code. Option D is correct."
+        },
+        {
+          "id": 78,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'open door' is 'ka xa' and 'close door' is 'xa ma', what is 'door'?"
+          },
+          "options": {
+            "A": "xa",
+            "B": "ka",
+            "C": "ma",
+            "D": "ba"
+          },
+          "correct_answer": "A",
+          "explanation": "'door' is common, 'xa' is common in codes. Option A is correct."
+        },
+        {
+          "id": 79,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'play well' is '3 5' and 'sing well' is '5 8', what is 'well'?"
+          },
+          "options": {
+            "A": "3",
+            "B": "5",
+            "C": "8",
+            "D": "2"
+          },
+          "correct_answer": "B",
+          "explanation": "'well' is present in both, digit '5' is in both codes. Option B is correct."
+        },
+        {
+          "id": 80,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'fast car' is 'qa za' and 'slow car' is 'za pa', what is 'car'?"
+          },
+          "options": {
+            "A": "qa",
+            "B": "pa",
+            "C": "za",
+            "D": "la"
+          },
+          "correct_answer": "C",
+          "explanation": "'car' is common link, 'za' is common tag. Option C is correct."
+        },
+        {
+          "id": 81,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'fly high' is '7 1' and 'jump high' is '1 4', what is 'high'?"
+          },
+          "options": {
+            "A": "7",
+            "B": "4",
+            "C": "0",
+            "D": "1"
+          },
+          "correct_answer": "D",
+          "explanation": "'high' is repeated, '1' is the common number. Option D is correct."
+        },
+        {
+          "id": 82,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'bright light' is 'lo ko' and 'dim light' is 'ko so', what is 'light'?"
+          },
+          "options": {
+            "A": "ko",
+            "B": "lo",
+            "C": "so",
+            "D": "to"
+          },
+          "correct_answer": "A",
+          "explanation": "'light' is common, 'ko' is common code element. Option A is correct."
+        },
+        {
+          "id": 83,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'sweet fruit' is '8 3' and 'sour fruit' is '3 2', what is 'fruit'?"
+          },
+          "options": {
+            "A": "8",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+          },
+          "correct_answer": "B",
+          "explanation": "Common word is 'fruit', common digit is '3'. Option B is correct."
+        },
+        {
+          "id": 84,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'read daily' is 'xi zi' and 'write daily' is 'zi mi', what is 'daily'?"
+          },
+          "options": {
+            "A": "xi",
+            "B": "mi",
+            "C": "zi",
+            "D": "qi"
+          },
+          "correct_answer": "C",
+          "explanation": "'daily' is common term, corresponding code is 'zi'. Option C is correct."
+        },
+        {
+          "id": 85,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'big house' is '4 9' and 'small house' is '9 2', what is 'house'?"
+          },
+          "options": {
+            "A": "4",
+            "B": "2",
+            "C": "1",
+            "D": "9"
+          },
+          "correct_answer": "D",
+          "explanation": "'house' appears in both, digit common is '9'. Option D is correct."
+        },
+        {
+          "id": 86,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'happy child' is 'cu du' and 'sad child' is 'du ku', what is 'child'?"
+          },
+          "options": {
+            "A": "du",
+            "B": "cu",
+            "C": "ku",
+            "D": "xu"
+          },
+          "correct_answer": "A",
+          "explanation": "Common word is 'child', common code token is 'du'. Option A is correct."
+        },
+        {
+          "id": 87,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'cold winter' is '5 1' and 'cold night' is '1 7', what is 'cold'?"
+          },
+          "options": {
+            "A": "5",
+            "B": "1",
+            "C": "7",
+            "D": "3"
+          },
+          "correct_answer": "B",
+          "explanation": "'cold' is common, number '1' is the common code. Option B is correct."
+        },
+        {
+          "id": 88,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'thick book' is 'na ma' and 'thin book' is 'ma pa', what is 'book'?"
+          },
+          "options": {
+            "A": "na",
+            "B": "pa",
+            "C": "ma",
+            "D": "sa"
+          },
+          "correct_answer": "C",
+          "explanation": "'book' is common, 'ma' is common element. Option C is correct."
+        },
+        {
+          "id": 89,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'speak truth' is '4 6' and 'know truth' is '6 2', what is 'truth'?"
+          },
+          "options": {
+            "A": "4",
+            "B": "2",
+            "C": "8",
+            "D": "6"
+          },
+          "correct_answer": "D",
+          "explanation": "'truth' is common, '6' is the common digit. Option D is correct."
+        },
+        {
+          "id": 90,
+          "type": "MCQ",
+          "language": {
+            "en": "If 'good boy' is 'ja ka' and 'bad boy' is 'ka ta', what is 'boy'?"
+          },
+          "options": {
+            "A": "ka",
+            "B": "ja",
+            "C": "ta",
+            "D": "ma"
+          },
+          "correct_answer": "A",
+          "explanation": "Common word 'boy' aligns with token 'ka'. Option A is correct."
+        }
+      ]
+    }
+  ]
+}
