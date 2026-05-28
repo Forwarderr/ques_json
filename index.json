@@ -1,9 +1,7 @@
 {
   "last_updated": "2026-05-28",
   "total": 13,
-  "skipped": [
-    "Reasoning/Verbal Reasoning/Coding-Decoding/me1.json"
-  ],
+  "skipped": [],
   "exams": [
     {
       "title": "Reasoning: Analogy",
