@@ -1,8 +1,17 @@
 {
-  "last_updated": "2026-05-28",
-  "total": 14,
+  "last_updated": "2026-06-09",
+  "total": 15,
   "skipped": [],
   "exams": [
+    {
+      "title": "UPSC Prelims — Polity: First Part of Indian Constitution (The Union and its Territory & Citizenship)",
+      "category": "Polity",
+      "questions": 40,
+      "duration_minutes": 80,
+      "version": "1.0",
+      "path": "Polity/pol1.json",
+      "raw_url": "https://raw.githubusercontent.com/Forwarderr/ques_json/main/Polity/pol1.json"
+    },
     {
       "title": "Reasoning: Analogy",
       "category": "Reasoning",
