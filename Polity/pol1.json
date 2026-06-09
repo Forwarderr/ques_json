@@ -1,0 +1,624 @@
+{
+"metadata": {
+"exam_title": "UPSC Prelims — Polity: First Part of Indian Constitution (The Union and its Territory & Citizenship)",
+"total_duration_minutes": 80,
+"version": "1.0",
+"allow_backtrack": true
+},
+"sections": [
+{
+"section_id": "moderate_questions",
+"section_name": "Moderate Difficulty Questions",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 1,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding Article 1 of the Indian Constitution:\n1. It defines India as a 'Federation of States' with a strong centralizing tendency.\n2. The term 'Union of India' includes both the States and the Union Territories.\n3. The names of States and Union Territories along with their territorial extent are specified in the First Schedule.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "3 only",
+"B": "1 and 2 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is incorrect because Article 1 explicitly describes India as a 'Union of States', not a 'Federation of States'. Dr. B.R. Ambedkar emphasized that 'Union' was preferred to indicate that the federation was not the result of an agreement by the states and that states have no right to secede. Statement 2 is incorrect because the expression 'Union of India' includes only the States that share federal powers with the Centre. It is the 'Territory of India' which is a wider term that includes States, Union Territories, and any territories that may be acquired by India in the future. Statement 3 is correct as the First Schedule lists the names and territorial jurisdictions of both States and Union Territories."
+},
+{
+"id": 2,
+"type": "MCQ",
+"language": {
+"en": "Which of the following statements is NOT correct regarding the Parliament's power to alter boundaries or reorganize states under Article 3 of the Constitution?"
+},
+"options": {
+"A": "A bill for this purpose can be introduced in either House of Parliament only on the prior recommendation of the President.",
+"B": "The President must refer the bill to the concerned state legislature for expressing its views within a specified period.",
+"C": "The Parliament is bound to accept the views and amendments suggested by the concerned state legislature if they are passed by a special majority.",
+"D": "A fresh reference to the state legislature is not necessary every time an amendment to the bill is proposed and accepted in Parliament."
+},
+"correct_answer": "C",
+"explanation": "Option C is incorrect (and therefore the correct answer) because the Parliament is not bound by the views of the state legislature; it can accept or reject them, even if the views are submitted within the prescribed time limit. Options A, B, and D are correct provisions under Article 3. A bill re-organizing states requires prior presidential recommendation (Option A), the President must refer it to the state legislature for their views (Option B), and a fresh reference is not required for every subsequent amendment moved in the Parliament (Option D)."
+},
+{
+"id": 3,
+"type": "MCQ",
+"language": {
+"en": "Consider the following events regarding the reorganization of states in India:\n1. Appointment of the JVP Committee.\n2. Creation of Andhra State by separating Telugu-speaking areas.\n3. Appointment of the Dhar Commission.\n4. Passing of the States Reorganisation Act.\nWhich of the following options represents the correct chronological sequence of these events?"
+},
+"options": {
+"A": "3 - 1 - 2 - 4",
+"B": "1 - 3 - 2 - 4",
+"C": "3 - 2 - 1 - 4",
+"D": "1 - 2 - 3 - 4"
+},
+"correct_answer": "A",
+"explanation": "The correct chronological sequence is 3 - 1 - 2 - 4. The Dhar Commission (Linguistic Provinces Commission) was appointed in June 1948 (submitted report in December 1948). Following discontent over its report, the JVP Committee (Jawaharlal Nehru, Vallabhbhai Patel, Pattabhi Sitaramayya) was appointed in December 1948 (submitted report in April 1949). The creation of Andhra State occurred in October 1953 following the death of Potti Sreeramulu after a 56-day hunger strike. This led to the appointment of the Fazl Ali Commission, which culminated in the passing of the States Reorganisation Act in 1956."
+},
+{
+"id": 4,
+"type": "MCQ",
+"language": {
+"en": "Assertion (A): A law made under Article 2 or Article 3 of the Indian Constitution for the amendment of the First and Fourth Schedules is not deemed to be an amendment of the Constitution under Article 368.\nReason (R): The Indian Parliament can create new states or alter boundaries of existing states by a simple majority through the ordinary legislative process."
+},
+"options": {
+"A": "Both A and R are true and R is the correct explanation of A",
+"B": "Both A and R are true but R is NOT the correct explanation of A",
+"C": "A is true but R is false",
+"D": "A is false but R is true"
+},
+"correct_answer": "A",
+"explanation": "Both Assertion and Reason are true, and the Reason correctly explains the Assertion. Article 4 of the Constitution explicitly declares that laws made under Article 2 (admission/establishment of new states) and Article 3 (formation of new states and alteration of areas, boundaries, or names) are not to be considered as amendments of the Constitution under Article 368. This is because the Constitution permits these changes to be carried out by a simple majority and through ordinary legislative procedure, bypassing the rigid special majority requirements of Article 368."
+},
+{
+"id": 5,
+"type": "MCQ",
+"language": {
+"en": "Match List I (Territory/State acquired or created) with List II (Constitutional Amendment Act) and select the correct option:\n\nList I:\n1. Incorporation of Dadra and Nagar Haveli\n2. Incorporation of Goa, Daman and Diu\n3. Sikkim made a full-fledged State\n4. Incorporation of Pondicherry\n\nList II:\na. 10th Amendment Act\nb. 12th Amendment Act\nc. 14th Amendment Act\nd. 36th Amendment Act"
+},
+"options": {
+"A": "1-a, 2-b, 3-d, 4-c",
+"B": "1-b, 2-a, 3-c, 4-d",
+"C": "1-a, 2-c, 3-d, 4-b",
+"D": "1-d, 2-b, 3-a, 4-c"
+},
+"correct_answer": "A",
+"explanation": "The correct match is 1-a, 2-b, 3-d, 4-c. Dadra and Nagar Haveli was incorporated as a Union Territory by the 10th Constitutional Amendment Act, 19161. Goa, Daman and Diu were incorporated by the 12th Constitutional Amendment Act, 1962. Sikkim was elevated from an associate state to a full-fledged state of the Indian Union by the 36th Constitutional Amendment Act, 1975. Pondicherry (now Puducherry) was incorporated into India as a Union Territory by the 14th Constitutional Amendment Act, 1962."
+},
+{
+"id": 6,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding Citizenship at the commencement of the Indian Constitution (Articles 5 to 8):\n1. Article 5 granted citizenship to persons who had their domicile in India and were born in India.\n2. Article 6 dealt with the citizenship rights of persons who migrated to Pakistan from India and later returned.\n3. Article 8 provided citizenship rights to certain persons of Indian origin residing outside India.\nWhich of the statements given above are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "1 and 2 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is correct as Article 5 provides citizenship by domicile at the commencement of the Constitution for those born in India, or whose parents were born in India, or who were ordinarily resident for not less than 5 years. Statement 2 is incorrect because Article 6 deals with the citizenship rights of persons who migrated *from* Pakistan *to* India. It is Article 7 that deals with the rights of persons who migrated to Pakistan and subsequently returned under a permit for resettlement. Statement 3 is correct as Article 8 provides citizenship to persons of Indian origin residing outside India, provided they register with the diplomatic representative of India."
+},
+{
+"id": 7,
+"type": "MCQ",
+"language": {
+"en": "Which of the following methods of acquiring Indian citizenship under the Citizenship Act, 1955 requires a person to renounce their foreign allegiance and take an oath of allegiance to the Constitution of India?\n1. Citizenship by Registration\n2. Citizenship by Naturalisation\n3. Citizenship by Descent\nSelect the correct answer using the code given below:"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "2 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Both registration and naturalisation require applicants to subscribe to an oath of allegiance to the Indian Constitution, and because India does not permit dual citizenship, applicants must renounce foreign citizenship. Under Registration (Article 5 of Citizenship Act 1955) and Naturalisation (Article 6), an oath is statutory. Citizenship by Descent (Statement 3) is a birthright acquired automatically by virtue of being born to Indian parents abroad, subject to timely registration of birth, and does not involve an oath of allegiance or active renunciation process at birth."
+},
+{
+"id": 8,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the loss of Indian citizenship:\n1. If an Indian citizen voluntarily acquires the citizenship of another country, their Indian citizenship automatically terminates.\n2. The termination provision does not apply during a war in which India is engaged.\n3. Deprivation is a compulsory termination of Indian citizenship by an order of the Parliament.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "1 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is correct as per Article 9 of the Constitution and Section 9 of the Citizenship Act, 1955, which covers termination by operation of law. Statement 2 is correct because the termination clause does not apply during a war in which India is engaged; the termination can be withheld by the Central Government to prevent citizens from escaping wartime liabilities. Statement 3 is incorrect because Deprivation is a compulsory termination ordered by the *Central Government*, not by an act or order of the *Parliament* directly, on grounds such as fraud, disloyalty to the Constitution, or illegal trade with an enemy during war."
+},
+{
+"id": 9,
+"type": "MCQ",
+"language": {
+"en": "Which of the following is NOT a fundamental right reserved exclusively for citizens of India, but is extended to foreigners as well?"
+},
+"options": {
+"A": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15).",
+"B": "Protection of life and personal liberty (Article 21).",
+"C": "Equality of opportunity in matters of public employment (Article 16).",
+"D": "Protection of language, script and culture of minorities (Article 29)."
+},
+"correct_answer": "B",
+"explanation": "Option B is correct because Article 21 (Protection of life and personal liberty) is available to all persons, whether citizens or foreigners (except enemy aliens). On the other hand, Articles 15, 16, 19, 29, and 30 are exclusive constitutional rights guaranteed solely to the citizens of India. Therefore, options A, C, and D represent rights that are strictly unavailable to foreign nationals."
+},
+{
+"id": 10,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements with reference to Overseas Citizen of India (OCI) Cardholders:\n1. They enjoy parity with Non-Resident Indians (NRIs) in all economic, financial, and educational fields.\n2. They are entitled to voter rights and can register as electors in India.\n3. They require an inner line permit or protected area permit to visit certain notified places in India.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "3 only",
+"B": "1 and 2 only",
+"C": "1 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is incorrect because OCI cardholders do not enjoy parity with NRIs in *all* fields; for instance, they cannot acquire agricultural or plantation properties in India. Statement 2 is incorrect because OCI cardholders are foreign citizens holding foreign passports and are explicitly barred from voting rights under Section 7B of the Citizenship Act, 1955. Statement 3 is correct because OCI cardholders are foreign nationals and require a special permit (like the Inner Line Permit or Protected Area Permit) to visit restricted, protected, or notified areas in India."
+},
+{
+"id": 11,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the implementation of the Citizenship (Amendment) Act, 2019 (CAA):\n1. It reduces the period of naturalisation from 11 years to not less than 5 years for specific communities.\n2. It applies uniformly to all states and union territories including areas under the Sixth Schedule.\n3. It benefits undocumented migrants belonging to six specified minority communities from Pakistan, Bangladesh, and Afghanistan.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "3 only",
+"C": "1 and 2 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is correct because the CAA relaxes the requirement of residence in India for naturalisation from 11 years to 5 years for the targeted groups. Statement 2 is incorrect because the amendments explicitly do not apply to the tribal areas of Assam, Meghalaya, Mizoram, and Tripura included in the Sixth Schedule of the Constitution, nor do they apply to areas covered under the 'Inner Line Permit' system. Statement 3 is correct as the designated beneficiaries are Hindus, Sikhs, Buddhists, Jains, Parsis, and Christians from Pakistan, Bangladesh, and Afghanistan who entered India on or before December 31, 2014."
+},
+{
+"id": 12,
+"type": "MCQ",
+"language": {
+"en": "Which of the following bodies/authorities was responsible for recommending the constitutional status of Sikkim as an 'Associate State' before its complete integration into the Indian Union?"
+},
+"options": {
+"A": "The Chogyal Administration via a bilateral treaty",
+"B": "The Parliament of India through the 35th Constitutional Amendment Act",
+"C": "The State Reorganisation Commission (Fazl Ali Commission)",
+"D": "The Supreme Court of India via an advisory opinion"
+},
+"correct_answer": "B",
+"explanation": "Option B is the correct answer. In 1974, Sikkim expressed its desire for closer association with India. The Parliament passed the 35th Constitutional Amendment Act, 1974, introducing a novel category of relationship by terming Sikkim an 'Associate State' of the Indian Union and adding the Tenth Schedule. This was short-lived, as a referendum in 1975 led to the 36th Amendment Act, which repealed the associate status and made Sikkim a full 22\text{nd} state, making option B the correct instrument of execution."
+},
+{
+"id": 13,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the single citizenship framework in India:\n1. Unlike the USA, a citizen in India owes allegiance only to the Union, and there is no separate state citizenship.\n2. The Constitution permits the Central Government to prescribe residence within a state as a qualification for employment under that state.\n3. The Parliament can pass laws restricting the freedom of movement of citizens on grounds of the public interest.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "1 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is correct; India adopts a strict single citizenship model. Statement 2 is incorrect because Article 16(3) vests the power to prescribe residence qualifications for employment *only* in the *Parliament*, not the Central Government (Executive) or State Governments. Statement 3 is correct because Article 19(5) permits the Parliament to place reasonable restrictions on the freedom of movement in the interest of the general public or for the protection of the interests of any Scheduled Tribe."
+},
+{
+"id": 14,
+"type": "MCQ",
+"language": {
+"en": "With reference to the recommendations of the Fazl Ali Commission (1953), consider the following statements:\n1. It broadly accepted language as the basis of reorganization of states.\n2. It explicitly accepted the theory of 'one language, one state' to foster regional cultural growth.\n3. It recommended the abolition of the four-fold classification of states existing under the original Constitution.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "1 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is correct as the commission accepted language as a primary factor for state reorganization. Statement 2 is incorrect because the commission explicitly *rejected* the theory of 'one language, one state', emphasizing that India's unity must be regarded as the primary consideration. Statement 3 is correct because it recommended abolishing the Part A, B, C, and D classification of states, replacing them with 16 states and 3 centrally administered territories (though Parliament modified this to 14 states and 6 UTs via the 1956 Act)."
+},
+{
+"id": 15,
+"type": "MCQ",
+"language": {
+"en": "Which article of the Constitution of India empowers the Parliament to regulate the right of citizenship by law, ensuring that constitutional provisions do not limit Parliament's permanent legislative authority over citizenship?"
+},
+"options": {
+"A": "Article 9",
+"B": "Article 10",
+"C": "Article 11",
+"D": "Article 368"
+},
+"correct_answer": "C",
+"explanation": "Option C is correct. Article 11 explicitly grants Parliament the power to make provisions with respect to the acquisition and termination of citizenship and all other matters relating to citizenship. Articles 5 to 10 only determined who became a citizen at the commencement of the Constitution (January 26, 1950). Article 9 deals with loss of citizenship upon acquiring foreign citizenship, Article 10 deals with continuance of rights, and Article 368 covers amendments."
+},
+{
+"id": 16,
+"type": "MCQ",
+"language": {
+"en": "Consider the following states formed after the States Reorganisation Act, 1956:\n1. Haryana\n2. Nagaland\n3. Himachal Pradesh\n4. Meghalaya\nWhat is the correct chronological order of their creation as full-fledged states?"
+},
+"options": {
+"A": "2 - 1 - 3 - 4",
+"B": "1 - 2 - 3 - 4",
+"C": "2 - 3 - 1 - 4",
+"D": "2 - 1 - 4 - 3"
+},
+"correct_answer": "A",
+"explanation": "The correct sequence is 2 - 1 - 3 - 4. Nagaland was created as a state in 1963 (by separating Naga Hills-Tuensang area from Assam). Haryana was carved out of Punjab in 1966 on the recommendation of the Shah Commission. Himachal Pradesh was elevated from a Union Territory to a state in 1971. Meghalaya was carved out of Assam initially as an sub-state in 1969 and granted full statehood in 1972 via the North-Eastern Areas (Reorganisation) Act, 1971."
+},
+{
+"id": 17,
+"type": "MCQ",
+"language": {
+"en": "Assertion (A): The President of India can refuse to give assent to a bill passed by Parliament under Article 3 for the creation of a new state.\nReason (R): The prior recommendation of the President is mandatory before introducing such a bill in either House of Parliament."
+},
+"options": {
+"A": "Both A and R are true and R is the correct explanation of A",
+"B": "Both A and R are true but R is NOT the correct explanation of A",
+"C": "A is true but R is false",
+"D": "A is false but R is true"
+},
+"correct_answer": "D",
+"explanation": "Assertion (A) is false because by constitutional convention and executive design, a bill introduced on the prior recommendation of the President and passed by the legislature is not refused assent by the President. More technically, the President exercises power through the Council of Ministers, and since the bill itself requires Cabinet approval and Presidential recommendation before introduction, refusing assent to their own legislative agenda is structurally invalid. Reason (R) is a true statement as Article 3 explicitly mandates the prior recommendation of the President."
+},
+{
+"id": 18,
+"type": "MCQ",
+"language": {
+"en": "Which of the following state reorganizations involved the settlement of a territorial boundary dispute with a foreign country through a Constitutional Amendment, rather than an ordinary law under Article 3?"
+},
+"options": {
+"A": "Reorganization of the state of Assam to create Meghalaya",
+"B": "Transfer of Berubari Union to Pakistan",
+"C": "Exchange of enclaves between India and Bangladesh",
+"D": "Both B and C"
+},
+"correct_answer": "D",
+"explanation": "Option D is correct. In the Berubari Union case (1960), the Supreme Court ruled that Parliament's power to diminish the area of a state under Article 3 does not cover the cession of Indian territory to a foreign country; this can only be done by amending the Constitution under Article 368. This led to the 9th Constitutional Amendment Act (1960). Similarly, the 100th Constitutional Amendment Act (2015) was enacted to give effect to the exchange of enclaves between India and Bangladesh. Reorganization under Article 3 is strictly internal."
+},
+{
+"id": 19,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the status of Union Territories (UTs) in India:\n1. They are directly administered by the President acting through an administrator appointed by him.\n2. The Parliament can make laws on any subject in any of the three lists (including the State List) for all Union Territories.\n3. The constitutional provisions regarding the relationship between the executive and legislature of states apply identically to UTs with legislative assemblies.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "2 only",
+"C": "1 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statements 1 and 2 are correct. Under Article 239, UTs are administered by the President through an administrator. Under Article 246(4), Parliament has the power to legislate on any matter for UTs, including subjects listed in the State List. Statement 3 is incorrect because UTs with legislatures (like Delhi, Puducherry, and Jammu & Kashmir) are governed by specific constitutional provisions (e.g., Article 239AA for Delhi) and parliamentary laws (e.g., UTs Act), which severely limit their legislative competence compared to full states (for instance, Delhi's assembly cannot legislate on public order, police, and land)."
+},
+{
+"id": 20,
+"type": "MCQ",
+"language": {
+"en": "Under the Citizenship Act, 1955, an registration application for Indian citizenship can be filed by a person of Indian origin who is ordinarily resident in India for how many years before making the application?"
+},
+"options": {
+"A": "5 years",
+"B": "7 years",
+"C": "9 years",
+"D": "11 years"
+},
+"correct_answer": "B",
+"explanation": "Option B is correct. Section 5(1)(a) of the Citizenship Act, 1955 states that a person of Indian origin who is ordinarily resident in India for 7 years before making an application can acquire citizenship by registration. The 5-year period (Option A) was the original requirement but was raised to 7 years. The 11-year period (Option D) is the cumulative residence requirement for citizenship by *Naturalisation*, not registration."
+}
+]
+},
+{
+"section_id": "tough_questions",
+"section_name": "Tough / Advanced Questions",
+"section_type": "FREE_FLOAT",
+"questions": [
+{
+"id": 21,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the legal and political nature of the Indian territory:\n1. The power of Parliament to admit new states under Article 2 refers to the admission of states which are already part of the territory of India but lack statehood.\n2. Article 3 deals exclusively with the internal adjustment and reorganization of the territories of the constituent states of the Indian Union.\n3. The Indian Constitution does not contain an explicit provision empowering the executive or legislature to cede territory to a foreign power.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "2 and 3 only",
+"B": "1 and 2 only",
+"C": "3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is incorrect because Article 2 deals with the admission or establishment of new states that are *not* currently part of the Union of India (external acquisition/admission). Reorganization of areas already within India falls under Article 3. Statement 2 is correct because Article 3 is strictly bounded by internal territorial alterations of existing states/UTs. Statement 3 is correct as noted by the Supreme Court in the Berubari Union case; there is no specific clause for ceding territory, meaning cession requires an amendment of the First Schedule under the constituent power of Article 368."
+},
+{
+"id": 22,
+"type": "MCQ",
+"language": {
+"en": "Which of the following is an accurate constitutional distinction between the procedure to alter a State's boundary versus a State's name under Article 3?"
+},
+"options": {
+"A": "Altering a boundary requires the consent of the State Legislature, whereas altering a name can be done without any reference to the State.",
+"B": "Altering a boundary requires a presidential reference to the State Legislature, whereas a Bill for altering a name can be introduced directly without such reference.",
+"C": "Both require a reference to the State Legislature for its views, but the Parliament requires a special majority to override views on boundaries and a simple majority for names.",
+"D": "There is no procedural distinction under Article 3; both actions require prior Presidential recommendation and a reference to the State Legislature for its views, which are non-binding."
+},
+"correct_answer": "D",
+"explanation": "Option D is correct. Article 3 treats all five specified actions—(a) forming a new state, (b) increasing area, (c) diminishing area, (d) altering boundaries, and (e) altering names—identically in terms of procedure. Every such bill requires prior presidential recommendation, and the views of the concerned state legislature must be sought, though they are completely non-binding on the Parliament. Options A, B, and C introduce false distinctions that do not exist in the text of Article 3."
+},
+{
+"id": 23,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements concerning the citizenship status of individuals migrating during Partition:\n1. A person who migrated to Pakistan from India after March 1, 1947, lost their Indian citizenship under all circumstances.\n2. A person who migrated from Pakistan to India after July 19, 1948, could automatically acquire citizenship by domicile if they resided for six months.\n3. Under Article 7, a person who returned to India after March 1, 1947, under a permit for resettlement could acquire citizenship subject to the conditions of Article 6.\nWhich of the statements given above is/are NOT correct?"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "2 and 3 only",
+"C": "1 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "The question asks for statements that are NOT correct. Statement 1 is incorrect because an exception existed for those who returned under a permit for resettlement or permanent return. Statement 2 is incorrect because migrants entering after July 19, 1948 (the date the permit system was introduced) did *not* acquire citizenship automatically; they had to submit an application and be registered by an officer appointed by the Government of India, after residing for at least six months. Statement 3 is correct as Article 7 provides that individuals returning with a valid resettlement permit were deemed to have migrated to India after July 19, 1948, making them subject to registration under Article 6."
+},
+{
+"id": 24,
+"type": "MCQ",
+"language": {
+"en": "Assertion (A): The Supreme Court in the Berubari Union case (1960) ruled that a boundary dispute settlement between India and another country involving no cession of territory does not require a constitutional amendment.\nReason (R): Settlement of a boundary line is an executive action that does not diminish the sovereign territory of the country under the First Schedule."
+},
+"options": {
+"A": "Both A and R are true and R is the correct explanation of A",
+"B": "Both A and R are true but R is NOT the correct explanation of A",
+"C": "A is true but R is false",
+"D": "A is false but R is true"
+},
+"correct_answer": "A",
+"explanation": "Both statements are true and R is the correct explanation. While the Berubari Union case established that *cession* of Indian territory requires a constitutional amendment under Article 368, it also clarified that a mere settlement of a boundary dispute—demarcating an ambiguous line without actually giving away known Indian territory—does not involve cession. Therefore, it does not require a constitutional amendment and can be executed via executive action because it is simply an identification of existing sovereign limits rather than a modification of the First Schedule."
+},
+{
+"id": 25,
+"type": "MCQ",
+"language": {
+"en": "A corporate entity incorporated in India under the Companies Act claims the enforcement of the freedom of speech and expression (Article 19) and the right to equality (Article 14) before a High Court. Based on constitutional jurisprudence, how will the court decide?"
+},
+"options": {
+"A": "The court will reject both claims because a corporation is an artificial person and cannot claim Fundamental Rights.",
+"B": "The court will entertain both claims because the word 'person' in the Constitution covers corporate entities under the General Clauses Act.",
+"C": "The court will reject the claim under Article 19 but entertain the claim under Article 14.",
+"D": "The court will entertain the claim under Article 19 if all shareholders are citizens, but reject the claim under Article 14."
+},
+"correct_answer": "C",
+"explanation": "Option C is correct. The Supreme Court of India (e.g., in *State Trading Corporation of India v. CTO*) held that a corporation or company is an artificial legal person and *not a citizen*. Since Article 19 is explicitly restricted to 'citizens', a company cannot claim it (though shareholders can if their individual rights are affected). However, Article 14 applies to 'any person', which includes natural persons as well as legal/juristic persons like corporations. Hence, the court will reject the Article 19 claim but entertain the Article 14 claim."
+},
+{
+"id": 26,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the historical integration of Princely States into India:\n1. The Junagadh state acceded to India following a plebiscite conducted among its population.\n2. Hyderabad was integrated into the Indian Union via a police action known as 'Operation Polo' in 1948.\n3. The State of Jammu & Kashmir acceded to India through an Instrument of Accession signed after Pakistani tribal raiders invaded the valley.\nWhich of the statements given above are correct?"
+},
+"options": {
+"A": "1, 2 and 3",
+"B": "1 and 2 only",
+"C": "2 and 3 only",
+"D": "1 and 3 only"
+},
+"correct_answer": "A",
+"explanation": "All three statements are historically and constitutionally correct. Junagadh's ruler fled to Pakistan, and after Indian intervention, a plebiscite was held in February 1948 where the overwhelming majority voted to join India. Hyderabad refused to join initially and was integrated through military/police action ('Operation Polo') in September 1948. Maharaja Hari Singh of Jammu & Kashmir signed the Instrument of Accession on October 26, 1947, following an invasion by Pakistani-backed tribal raiders."
+},
+{
+"id": 27,
+"type": "MCQ",
+"language": {
+"en": "Under the provisions of the Citizenship Act, 1955, if an area becomes part of India, the Government of India specifies the persons of that territory who shall be citizens. Which constitutional or statutory mechanism governs this process?"
+},
+"options": {
+"A": "An automatic grant of citizenship under Article 1(3)(c) of the Constitution.",
+"B": "A notification issued by the Central Government under Section 7 of the Citizenship Act, 1955.",
+"C": "A special treaty ratified by a two-thirds majority in the Rajya Sabha.",
+"D": "An amendment to the Citizenship Act under Article 368."
+},
+"correct_answer": "B",
+"explanation": "Option B is correct. Section 7 of the Citizenship Act, 1955 (Incorporation of Territory) states that if any foreign territory becomes a part of India, the Central Government may, by order notified in the Official Gazette, specify the persons who shall be citizens of India by reason of their connection with that territory. It does not occur automatically under Article 1 (Option A), nor does it require a treaty ratification in the Rajya Sabha (Option C) or a constitutional amendment (Option D)."
+},
+{
+"id": 28,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding 'Citizenship by Naturalisation' under the Third Schedule of the Citizenship Act, 1955:\n1. The applicant must have resided in India or been in the service of a Government in India throughout the period of 12 months immediately preceding the date of application.\n2. During the 14 years immediately preceding the said period of 12 months, the applicant must have resided in India for a total period of not less than 11 years.\n3. The Central Government cannot waive any of these conditions, even if the applicant has rendered distinguished service to science, philosophy, or literature.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "2 only",
+"C": "1 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statements 1 and 2 accurately reflect the statutory criteria under the Third Schedule of the Citizenship Act, 1955: a continuous 12-month residence immediately prior to application, and an aggregate of 11 years of residence out of the preceding 14 years. Statement 3 is incorrect because the Act contains an explicit proviso empowering the Central Government to waive *all or any* of the conditions of naturalisation if the applicant has rendered distinguished service to the cause of science, philosophy, art, literature, world peace, or human progress."
+},
+{
+"id": 29,
+"type": "MCQ",
+"language": {
+"en": "Which of the following bodies is explicitly tasked with advising the Government of India on issues relating to the National Register of Citizens (NRC) and dual citizenship, and was instrumental in conceptualizing the OCI scheme?"
+},
+"options": {
+"A": "The L.M. Singhvi High-Level Committee on Indian Diaspora",
+"B": "The Sarkaria Commission on Centre-State Relations",
+"C": "The National Commission to Review the Working of the Constitution (NCRWC)",
+"D": "The Law Commission of India (175th Report)"
+},
+"correct_answer": "A",
+"explanation": "Option A is correct. The High-Level Committee on the Indian Diaspora, chaired by Dr. L.M. Singhvi, was appointed by the Government of India in 2000. It recommended the amendment of the Citizenship Act, 1955, to grant dual citizenship to Persons of Indian Origin (PIOs) belonging to certain specified countries, which directly led to the introduction of the Overseas Citizenship of India (OCI) scheme via the Citizenship (Amendment) Act, 2003."
+},
+{
+"id": 30,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the 100th Constitutional Amendment Act, 2015:\n1. It amended the First Schedule of the Constitution to give effect to the acquiring of certain territories by India and transfer of certain other territories to Bangladesh.\n2. The amendment altered the territorial boundaries of four Indian states: Assam, West Bengal, Meghalaya, and Tripura.\n3. It was passed under Article 3 of the Constitution as an ordinary piece of legislation because it involved a friendly exchange of enclaves.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 2 only",
+"B": "2 and 3 only",
+"C": "1 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statements 1 and 2 are correct. The 100th Constitutional Amendment Act, 2015, operationalized the Land Boundary Agreement of 1974 between India and Bangladesh by exchanging 111 Indian enclaves for 51 Bangladesh enclaves, affecting the boundaries of Assam, West Bengal, Meghalaya, and Tripura. Statement 3 is incorrect because any transfer/cession of sovereign territory to a foreign state cannot be done under Article 3 as ordinary legislation; it strictly requires a constitutional amendment under Article 368, as settled in the Berubari precedent."
+},
+{
+"id": 31,
+"type": "MCQ",
+"language": {
+"en": "Which of the following legal propositions is TRUE regarding the deprivation of Indian citizenship under Section 10 of the Citizenship Act, 1955?"
+},
+"options": {
+"A": "A citizen by birth can be deprived of citizenship if they are sentenced to imprisonment for more than two years in any country within five years of birth.",
+"B": "Deprivation applies exclusively to citizens who acquired citizenship by registration or naturalisation, or under specific constitutional migration clauses.",
+"C": "The Central Government can pass an order of deprivation without giving the citizen an opportunity to have their case referred to a committee of inquiry.",
+"D": "Showing disaffection towards the Constitution of India by an ordinary citizen is a ground for automatic termination without executive intervention."
+},
+"correct_answer": "B",
+"explanation": "Option B is correct. Deprivation under Section 10 is an involuntary loss of citizenship that applies strictly to citizens who acquired status via registration, naturalisation, or specific constitutional provisions (not citizenship by birth). Option A is incorrect because a citizen *by birth* cannot be deprived of citizenship under Section 10 on these grounds; that sub-clause applies to registered/naturalised individuals. Option C is incorrect because the Act mandates that before making an order, the affected person has the right to an inquiry. Option D is incorrect because termination is never automatic; it requires an explicit order from the Central Government."
+},
+{
+"id": 32,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the legislative powers of Parliament over Union Territories (UTs):\n1. For UTs without a legislative assembly, the President can make regulations for peace, progress, and good government, which have the same force as an Act of Parliament.\n2. In Puducherry and Delhi, the President's power to make regulations is completely suspended once a legislative assembly is constituted.\n3. A regulation made by the President can repeal or amend any Act of Parliament applicable to the Union Territory.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "1 and 2 only",
+"C": "3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statements 1 and 3 are correct under Article 240 of the Constitution. The President can make regulations for certain UTs, which possess the same legal force as parliamentary statutes and can amend or override existing central laws in that territory. Statement 2 is incorrect because the President's power to make regulations for Puducherry is only suspended *when the assembly is functioning or not dissolved/suspended*. For Delhi, the President does not possess regulation-making powers under Article 240; instead, the governance is governed by Article 239AA, which retains ultimate parliamentary and executive control over specific matters."
+},
+{
+"id": 33,
+"type": "MCQ",
+"language": {
+"en": "An individual born in London in 1995 to an Indian father and a British mother claims Indian citizenship by descent. Which of the following conditions must be satisfied under the relevant legal framework?"
+},
+"options": {
+"A": "The birth must have been registered at an Indian consulate within one year of its occurrence, or with the permission of the Central Government after that period.",
+"B": "The individual is automatically a citizen because the father was a citizen of India at the time of birth, with no registration requirement.",
+"C": "The individual must reside in India for a minimum of five years before claiming citizenship by descent.",
+"D": "The individual cannot claim citizenship by descent because the mother was a foreign national at the time of birth."
+},
+"correct_answer": "B",
+"explanation": "Option B is correct. For persons born outside India between December 10, 1992, and December 3, 2004, citizenship by descent is governed by the rule that a person is a citizen of India if either of their parents (in this case, the father) was a citizen of India at the time of their birth. The strict requirement for mandatory consular registration within one year (Option A) was introduced later by the Citizenship (Amendment) Act, 2003, effective from December 3, 2004. Therefore, for a 1995 birth, the acquisition was automatic by descent without mandatory registration, provided the father was a citizen."
+},
+{
+"id": 34,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the status of the 'Territory of India':\n1. It represents a narrower concept than the 'Union of India' because it excludes states with autonomous councils.\n2. Acquired territories can be administered directly by the Central Government as a distinct entity without being integrated into a State or Union Territory.\n3. The admission of an acquired territory into the Union as a new State requires a prior amendment to the text of Article 1.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "2 only",
+"B": "1 and 2 only",
+"C": "2 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is incorrect because the 'Territory of India' is a *wider* concept than the 'Union of India' since it includes States, UTs, and acquired territories. Statement 2 is correct because under international law and constitutional layout, India can acquire foreign territories which can be administered directly by the Union executive until Parliament passes a law under Article 2 or 3. Statement 3 is incorrect because the admission of an acquired territory as a State is executed via an ordinary law under Article 2, which automatically updates the First Schedule without requiring a direct textual amendment to Article 1 itself."
+},
+{
+"id": 35,
+"type": "MCQ",
+"language": {
+"en": "Match List I (Key Constitutional Principles/Cases) with List II (Legal Implications for the First Part of the Constitution) and select the correct option:\n\nList I:\n1. Indestructible Union of Destructible States\n2. RC Poudyal v. Union of India\n3. Berubari Union Case\n4. Article 2\n\nList II:\na. Admission of new states does not permit unconstitutional deviations from basic features.\b. Territorial cession requires an amendment under Article 368.\nc. Parliament can alter the map of India without state consent.\nd. Refers to territories outside the existing geopolitical margins of India."
+},
+"options": {
+"A": "1-c, 2-a, 3-b, 4-d",
+"B": "1-b, 2-a, 3-c, 4-d",
+"C": "1-c, 2-d, 3-b, 4-a",
+"D": "1-d, 2-b, 3-a, 4-c"
+},
+"correct_answer": "A",
+"explanation": "The correct pairing is 1-c, 2-a, 3-b, 4-d. 'Indestructible Union of Destructible States' describes India's federal structure where Parliament can alter boundaries or eliminate a state without its consent (1-c). In *RC Poudyal v. Union of India*, the SC held that while Article 2 gives Parliament wide terms to admit new states (like Sikkim), it cannot violate basic features of the Constitution (2-a). The Berubari case linked territorial cession to Article 368 (3-b). Article 2 applies strictly to external territories entering the Union (4-d)."
+},
+{
+"id": 36,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the National Population Register (NPR) and the National Register of Citizens (NRC):\n1. The NPR is prepared under the provisions of the Census Act, 1948.\n2. The NPR is a mandatory precursor to the creation of the National Register of Indian Citizens (NRIC) under the Citizenship Rules, 2003.\n3. A 'usual resident' for NPR purposes is defined as a person who has resided in a local area for the past six months or intends to reside there for the next six months.\nWhich of the statements given above are correct?"
+},
+"options": {
+"A": "2 and 3 only",
+"B": "1 and 2 only",
+"C": "1 and 3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statement 1 is incorrect because the NPR is compiled under the provisions of the *Citizenship Act, 1955* and the Citizenship (Registration of Citizens and Issue of National Identity Cards) Rules, 2003, not the Census Act, 1948. Statement 2 is correct because the 2003 Rules lay down that the Central Government can carry out a house-to-house enumeration to create the NPR, which forms the baseline for filtering and identifying citizens for the NRIC. Statement 3 is correct as it accurately states the demographic criteria used by the Registrar General and Census Commissioner of India for a 'usual resident'."
+},
+{
+"id": 37,
+"type": "MCQ",
+"language": {
+"en": "Which of the following conditions constitutes a valid ground for the termination of Indian citizenship by 'Renunciation' under Section 8 of the Citizenship Act, 1955?"
+},
+"options": {
+"A": "A declaration made by any adult Indian citizen of sound mind, which instantly terminates the citizenship of their minor children as well.",
+"B": "A declaration made during a war in which India is engaged, which is automatically registered by the Central Government.",
+"C": "A declaration made by a married woman independent of her husband's citizenship status, which has no bearing on her parents' status.",
+"D": "Both A and C"
+},
+"correct_answer": "D",
+"explanation": "Option D is correct because both statements A and C represent true legal traits of Renunciation. Under Section 8, when a person ceases to be an Indian citizen by renunciation, every minor child of that person also loses Indian citizenship (though they can resume it within one year of turning 18), making A correct. A married woman is an adult and can renounce her citizenship independently, making C correct. Option B is false because during a war, the registration of such a declaration can be *withheld* by the Central Government; it is never automatic."
+},
+{
+"id": 38,
+"type": "MCQ",
+"language": {
+"en": "Consider the following statements regarding the evolution of 'Citizenship by Birth' in India:\n1. Anyone born in India on or after January 26, 1950, but before July 1, 1987, is a citizen by birth irrespective of the nationality of their parents.\n2. For persons born on or after July 1, 1987, but before December 3, 2004, citizenship is granted only if both parents are citizens of India at the time of birth.\n3. For births after December 3, 2004, a person is a citizen if one parent is a citizen and the other is not an illegal migrant at the time of birth.\nWhich of the statements given above is/are correct?"
+},
+"options": {
+"A": "1 and 3 only",
+"B": "1 and 2 only",
+"C": "3 only",
+"D": "1, 2 and 3"
+},
+"correct_answer": "A",
+"explanation": "Statements 1 and 3 are correct. Originally, India adopted a strict *jus soli* (right of soil) approach between 1950 and 1987, where birth in India guaranteed citizenship. This was tightened for the 1987–2004 period (Statement 2), which required *either* of the parents to be a citizen of India, not *both*. Statement 2 is therefore incorrect. The rule was tightened further after December 3, 2004, requiring one parent to be a citizen and the other to not be an illegal migrant, making Statement 3 correct."
+},
+{
+"id": 39,
+"type": "MCQ",
+"language": {
+"en": "The Parliament passed the States Reorganisation Act, 1956, by exercising its powers under Article 3 and Article 4. This law effectively overrode the provisions of which Schedule(s) of the Constitution?"
+},
+"options": {
+"A": "The First Schedule only",
+"B": "The First and Fourth Schedules",
+"C": "The Fourth and Seventh Schedules",
+"D": "The First, Fourth, and Fifth Schedules"
+},
+"correct_answer": "B",
+"explanation": "Option B is correct. Article 4 of the Constitution explicitly states that laws made under Article 2 or Article 3 shall contain such provisions for the amendment of the First Schedule (which lists the States and UTs) and the Fourth Schedule (which allocates seats in the Rajya Sabha) as may be necessary to give effect to the provisions of the law. It does not alter the legislative lists of the Seventh Schedule or the tribal administration under the Fifth Schedule."
+},
+{
+"id": 40,
+"type": "MCQ",
+"language": {
+"en": "Assertion (A): The President of India cannot refer a State Reorganisation Bill to the Legislature of a Union Territory for its views under Article 3 before its introduction in Parliament.\nReason (R): Union Territories are directly under the administrative control of the Union Executive, and they do not enjoy independent constitutional status within the Indian federal structure."
+},
+"options": {
+"A": "Both A and R are true and R is the correct explanation of A",
+"B": "Both A and R are true but R is NOT the correct explanation of A",
+"C": "A is false but R is true",
+"D": "A is true but R is false"
+},
+"correct_answer": "D",
+"explanation": "Assertion (A) is true because Article 3 mandates a reference only to the *Legislature of a State*. The proviso does not require the President to refer a bill to the legislature of a Union Territory (like Puducherry or Delhi) for its views before introducing it in Parliament, even if the UT's boundaries or existence are affected. Reason (R) is false in its explanation because while UTs lack independent state sovereignty, the *reason* why no reference is sent is a textual limitation of the proviso to Article 3, which specifies 'State' and has been interpreted by courts to exclude UT legislatures from mandatory prior consultation."
+}
+]
+}
+]
+}
